@@ -45,6 +45,11 @@ class OutputPathTests(unittest.TestCase):
             parsed = read_raw_news_txt(txt_path)
             self.assertEqual(len(parsed), 1)
             self.assertEqual(parsed[0].title, items[0].title)
+            self.assertEqual(parsed[0].source, items[0].source)
+            self.assertEqual(parsed[0].url, items[0].url)
+            self.assertEqual(parsed[0].published, items[0].published)
+            self.assertEqual(parsed[0].summary, items[0].summary)
+            self.assertEqual(parsed[0].category, items[0].category)
 
             episode = LocalNewsAnalyzer().generate_episode_from_txt(txt_path)
             markdown = episode.to_markdown()
@@ -52,6 +57,37 @@ class OutputPathTests(unittest.TestCase):
             self.assertIn("## Stories Covered", markdown)
             self.assertIn("OpenAI launches new agent tools in India", markdown)
             self.assertIn("without an OpenAI API key", markdown)
+
+    def test_local_analyzer_accepts_naive_published_timestamp(self):
+        item = NewsItem(
+            title="AI chip",
+            source="Example Tech",
+            url="https://example.com/ai-chip",
+            published=datetime.now().replace(microsecond=0).isoformat(),
+            summary="A new AI chip story.",
+            category="Hardware",
+        )
+
+        relevant = LocalNewsAnalyzer().filter_relevant_stories([item])
+
+        self.assertEqual(len(relevant), 1)
+        self.assertEqual(relevant[0].title, item.title)
+
+    def test_deduplicate_keeps_short_valid_titles(self):
+        from fetch_news import NewsScraper
+
+        item = NewsItem(
+            title="AI chip",
+            source="Example Tech",
+            url="https://example.com/ai-chip",
+            published="",
+            summary="Short but valid title.",
+            category="Hardware",
+        )
+
+        unique = NewsScraper()._deduplicate([item])
+
+        self.assertEqual(unique, [item])
 
 
 if __name__ == "__main__":

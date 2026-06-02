@@ -5,22 +5,11 @@ import os
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from html import unescape
 from typing import Dict, List, Optional
 
-
-@dataclass
-class NewsItem:
-    """Individual news story parsed from raw text output."""
-
-    title: str
-    source: str
-    url: str
-    published: str
-    summary: str
-    category: str = "general"
-    relevance_score: float = 0.0
+from fetch_news import NewsItem
 
 
 @dataclass
@@ -176,12 +165,16 @@ class LocalNewsAnalyzer:
             try:
                 if item.published:
                     pub_time = datetime.fromisoformat(item.published.replace("Z", "+00:00"))
-                    hours_old = (datetime.now(pub_time.tzinfo) - pub_time).total_seconds() / 3600
+                    if pub_time.tzinfo is None:
+                        pub_time = pub_time.replace(tzinfo=timezone.utc)
+                    else:
+                        pub_time = pub_time.astimezone(timezone.utc)
+                    hours_old = (datetime.now(timezone.utc) - pub_time).total_seconds() / 3600
                     if hours_old < 24:
                         score += 3
                     elif hours_old < 48:
                         score += 1
-            except ValueError:
+            except (TypeError, ValueError):
                 pass
 
             item.relevance_score = score
@@ -297,14 +290,14 @@ def analyze_raw_news_file(txt_path: str) -> str:
     return md_path
 
 
-def main() -> int:
-    """Analyze a raw text file passed as argv[1], or the latest raw file."""
+def main(txt_path: Optional[str] = None) -> int:
+    """Analyze an explicit raw text file, or fall back to the latest raw file."""
     print("=" * 60)
     print("Tech News Analyzer")
     print("Raw TXT -> Structured Markdown")
     print("=" * 60)
 
-    txt_path = sys.argv[1] if len(sys.argv) > 1 else find_latest_raw_news_file()
+    txt_path = txt_path or find_latest_raw_news_file()
     print(f"Analyzing raw text: {txt_path}")
 
     md_path = analyze_raw_news_file(txt_path)
@@ -314,4 +307,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1] if len(sys.argv) > 1 else None))

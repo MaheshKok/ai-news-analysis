@@ -1,17 +1,20 @@
 """Fetch public tech news sources and save the raw results to a text file."""
 
 import asyncio
+import logging
 import os
 import re
-import sys
 import time
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from html import unescape
 from typing import List, Optional
 
 import aiohttp
 import feedparser
+
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -181,7 +184,7 @@ class NewsScraper:
                             title=raw_post.get("title", "").strip(),
                             source="Reddit r/technology",
                             url=f"https://reddit.com{raw_post.get('permalink', '')}",
-                            published=datetime.fromtimestamp(raw_post.get("created_utc", 0)).isoformat(),
+                            published=datetime.fromtimestamp(raw_post.get("created_utc", 0), tz=timezone.utc).isoformat(),
                             summary=f"Upvotes: {raw_post.get('score', 0)}, Comments: {raw_post.get('num_comments', 0)}",
                             category=self._categorize_story(raw_post.get("title", "")),
                         )
@@ -274,15 +277,21 @@ class NewsScraper:
 
         for item in items:
             normalized = item.title.lower().strip()
-            if normalized not in seen_titles and len(normalized) > 15:
-                seen_titles.add(normalized)
-                unique.append(item)
+            if not normalized:
+                logger.info("Dropping story with empty title from source %s", item.source)
+                continue
+            if normalized in seen_titles:
+                logger.info("Dropping duplicate story title: %s", item.title)
+                continue
+
+            seen_titles.add(normalized)
+            unique.append(item)
 
         return unique
 
 
-async def main() -> int:
-    """Fetch news and write a raw text output file."""
+async def main() -> Optional[str]:
+    """Fetch news, write a raw text output file, and return its path."""
     print("=" * 60)
     print("Tech News Fetcher")
     print("Public Sources -> Raw TXT")
@@ -298,15 +307,15 @@ async def main() -> int:
 
     if not all_news:
         print("No news fetched. Check internet access from the runtime environment.")
-        return 1
+        return None
 
     print(f"Total stories collected: {len(all_news)}")
     print("\n[2/2] Writing raw news text file...")
     write_raw_news_txt(all_news, txt_path, run_time)
     print(f"Saved raw text: {txt_path}")
     print(f"RAW_NEWS_PATH={txt_path}")
-    return 0
+    return txt_path
 
 
 if __name__ == "__main__":
-    raise SystemExit(asyncio.run(main()))
+    raise SystemExit(0 if asyncio.run(main()) else 1)

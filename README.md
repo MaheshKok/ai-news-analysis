@@ -87,7 +87,7 @@ Optional: if you want extra articles from NewsAPI.org, export `NEWSAPI_KEY` befo
 
 ```bash
 # Optional - adds NewsAPI.org as an additional source
-NEWSAPI_KEY=your-newsapi-key-here
+export NEWSAPI_KEY=your-newsapi-key-here
 ```
 
 ### Step 4: Run Locally

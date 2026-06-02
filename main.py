@@ -7,11 +7,11 @@ import fetch_news
 
 
 async def main() -> int:
-    """Fetch raw news first, then analyze the newest raw output file."""
-    fetch_result = await fetch_news.main()
-    if fetch_result != 0:
-        return fetch_result
-    return analyze_news.main()
+    """Fetch raw news first, then analyze that exact output file."""
+    raw_news_path = await fetch_news.main()
+    if not raw_news_path:
+        return 1
+    return analyze_news.main(raw_news_path)
 
 
 if __name__ == "__main__":
