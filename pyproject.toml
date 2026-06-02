@@ -1,13 +1,11 @@
 [project]
 name = "ai-news-analysis"
 version = "0.1.0"
-description = "Tech News Scraper + AI Summarizer Pipeline — replicates Lapaas Tech's news format for YouTube + LinkedIn content"
-requires-python = ">=3.13"
+description = "Tech News Scraper + Local Analyzer Pipeline - scrapes raw tech news to text and generates local Markdown analysis"
+requires-python = ">=3.11"
 dependencies = [
     "aiohttp>=3.9.0",
     "feedparser>=6.0.10",
-    "openai>=1.30.0",
-    "python-dotenv>=1.0.0",
 ]
 
 [tool.uv]
