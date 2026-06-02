@@ -1,0 +1,39 @@
+name: Tech News Scraper - Hourly
+
+on:
+    schedule:
+        - cron: "0 * * * *"
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    scrape-and-summarize:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+
+            - name: Run scraper
+              run: python tech_news_scraper.py
+              env:
+                  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+                  NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+
+            - name: Commit generated output
+              run: |
+                  git config user.name "GitHub Actions"
+                  git config user.email "actions@github.com"
+                  git add output/
+                  git diff --staged --quiet || git commit -m "📰 Tech News $(date -u +%Y-%m-%d)"
+                  git push
