@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 jobs:
-    scrape-and-summarize:
+    fetch-and-analyze:
         runs-on: ubuntu-latest
 
         steps:
@@ -24,11 +24,13 @@ jobs:
             - name: Install dependencies
               run: pip install -r requirements.txt
 
-            - name: Run scraper
-              run: python tech_news_scraper.py
+            - name: Fetch raw news
+              run: python fetch_news.py
               env:
-                  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
                   NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+
+            - name: Analyze latest raw news
+              run: python analyze_news.py
 
             - name: Commit generated output
               run: |
