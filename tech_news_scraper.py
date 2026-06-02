@@ -9,14 +9,24 @@ import time
 import asyncio
 import aiohttp
 import feedparser
-from datetime import datetime, timedelta
-from dataclasses import dataclass, asdict
+from datetime import datetime
+from dataclasses import dataclass
 from typing import List, Dict, Optional
-from urllib.parse import quote
-import xml.etree.ElementTree as ET
 
 # OpenAI for structured summarization
 from openai import OpenAI
+
+
+def build_output_paths(run_time: datetime, base_dir: str = "output") -> tuple[str, str]:
+    """Build per-run output paths using a date folder and timestamped filenames."""
+    date_str = run_time.strftime("%Y-%m-%d")
+    timestamp_str = run_time.strftime("%Y-%m-%d_%H-%M-%S")
+    output_dir = os.path.join(base_dir, date_str)
+    filename_base = f"tech_news_{timestamp_str}"
+    return (
+        os.path.join(output_dir, f"{filename_base}.md"),
+        os.path.join(output_dir, f"{filename_base}.json"),
+    )
 
 
 @dataclass
@@ -495,19 +505,16 @@ async def main():
     episode = summarizer.generate_episode(relevant)
     
     # Save output
-    output_dir = "output"
-    os.makedirs(output_dir, exist_ok=True)
-    
-    date_str = datetime.now().strftime("%Y-%m-%d")
+    run_time = datetime.now()
+    md_path, json_path = build_output_paths(run_time)
+    os.makedirs(os.path.dirname(md_path), exist_ok=True)
     
     # Save as markdown
-    md_path = os.path.join(output_dir, f"tech_news_{date_str}.md")
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(episode.to_markdown())
     print(f"\nSaved markdown: {md_path}")
     
     # Save as JSON
-    json_path = os.path.join(output_dir, f"tech_news_{date_str}.json")
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump({
             "episode_date": episode.episode_date,

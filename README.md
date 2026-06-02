@@ -99,8 +99,8 @@ NEWSAPI_KEY=your-newsapi-key-here
 python tech_news_scraper.py
 
 # Output will be saved to:
-# - output/tech_news_YYYY-MM-DD.md (markdown report)
-# - output/tech_news_YYYY-MM-DD.json (structured data)
+# - output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.md (markdown report)
+# - output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.json (structured data)
 ```
 
 ---
@@ -422,8 +422,9 @@ tech-news-automation/
 │   └── workflows/
 │       └── scraper.yml       # GitHub Actions workflow
 ├── output/                   # Generated content (auto-created)
-│   ├── tech_news_2026-06-01.md
-│   └── tech_news_2026-06-01.json
+│   └── 2026-06-01/
+│       ├── tech_news_2026-06-01_09-30-00.md
+│       └── tech_news_2026-06-01_09-30-00.json
 └── README.md                 # This file
 ```
 

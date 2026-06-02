@@ -1,0 +1,145 @@
+{
+  "episode_date": "2026-06-02",
+  "youtube_title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board | OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins | Zip’s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts : Tech News",
+  "intro_summary": "Latest tech news from June 02, 2026. Covering AI, big tech, and India tech updates.",
+  "stories": [
+    {
+      "headline": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board",
+      "source": "VentureBeat",
+      "category": "Microsoft",
+      "summary": "<p>For the past two years, the technology industry has raced to make AI agents more capable — teaching them to write code, navigate software interfaces, manage files, and orchestrate multi-step workflows with increasing autonomy. What the industry has not done, at least not with any consistency, is ",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: Microsoft"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
+      "source": "VentureBeat",
+      "category": "General Tech",
+      "summary": "<p>Agentic AI is moving rapidly from the developer terminal to the corporate world.</p><p>On Tuesday, OpenAI announced a major update of its agentic AI platform Codex, introducing domain-specific workflows, a rapid, semi-private web hosting feature <i>within it</i> for enterprises called &quot;Sites",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Zip’s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts",
+      "source": "VentureBeat",
+      "category": "AI Models",
+      "summary": "<p><a href=\"https://zip.com/\">Zip</a>, the AI procurement platform valued at <a href=\"https://zip.com/blog/series-d\">$2.2 billion</a>, announced two products on Monday that mark a turning point in its evolution from procurement software to autonomous AI platform: a suite of five AI &quot;Superagents",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "source": "Hacker News",
+      "category": "AI Models",
+      "summary": "Points: 618, Comments: 1062",
+      "key_points": [
+        "Source: Hacker News",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Anthropic’s First-Mover IPO Edge Set to Widen Lead Over OpenAI",
+      "source": "Bloomberg Tech",
+      "category": "AI Models",
+      "summary": "Anthropic PBC pulled ahead of OpenAI with its confidential IPO filing Monday, as the free-spending artificial intelligence startups battle for a fundraising edge that’s set to determine who will win the ultimate battle for computing power.\n\nThe oneupmanship in the firms’ private funding rounds, and ",
+      "key_points": [
+        "Source: Bloomberg Tech",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "OpenAI frontier models and Codex are now available on AWS",
+      "source": "Hacker News",
+      "category": "General Tech",
+      "summary": "Points: 348, Comments: 119",
+      "key_points": [
+        "Source: Hacker News",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "OpenAI putting Codex inside ChatGPT app everywhere, releasing 6 business plugins",
+      "source": "9to5Mac",
+      "category": "AI Models",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600\" /></div><p>OpenAI continues to push Codex beyond an agentic coding desktop app to a general productivity tool for everyone. As part of that effort, the company shared three enterprise-",
+      "key_points": [
+        "Source: 9to5Mac",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "source": "BBC Tech",
+      "category": "AI Models",
+      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+      "key_points": [
+        "Source: BBC Tech",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "OpenAI launches new Codex tools for white-collar work",
+      "source": "TechCrunch",
+      "category": "General Tech",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate",
+      "key_points": [
+        "Source: TechCrunch",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+      "source": "The Verge",
+      "category": "Microsoft",
+      "summary": "The company showed off two devices at Build: a desk concept and a badge concept.",
+      "key_points": [
+        "Source: The Verge",
+        "Category: Microsoft"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Anthropic expands Glasswing as it promises public Claude Mythos-class model releases",
+      "source": "9to5Mac",
+      "category": "AI Models",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5mac.com/wp-content/uploads/sites/6/2026/04/claude-opus-4-7.webp?w=1600\" /></div><p>Anthropic <a href=\"https://9to5mac.com/2026/04/07/anthropic-unveils-powerful-mythos-ai-model-working-with-apple-in-cybersecurity-initiative/\">unveiled</a> its Claude Mytho",
+      "key_points": [
+        "Source: 9to5Mac",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "source": "Wired",
+      "category": "General Tech",
+      "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
+      "key_points": [
+        "Source: Wired",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    }
+  ],
+  "linkedin_post": "🔥 Latest Tech News Roundup 🔥\n\n1. Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board\n2. OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins\n3. Zip’s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts\n4. Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n5. Anthropic’s First-Mover IPO Edge Set to Widen Lead Over OpenAI\n\n#TechNews #AI #Technology #Innovation #IndiaTech",
+  "topics_covered": [
+    "Microsoft",
+    "General Tech",
+    "AI Models"
+  ]
+}
