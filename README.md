@@ -99,7 +99,10 @@ python fetch_news.py
 # Step 2: analyze the latest raw news file
 python analyze_news.py
 
-# Backward-compatible one-command wrapper also works
+# One-command primary entry point also works
+python main.py
+
+# Backward-compatible wrapper also works
 python tech_news_scraper.py
 
 # Output will be saved to:
@@ -412,6 +415,7 @@ If you prefer n8n over GitHub Actions, here's the equivalent workflow:
 
 ```
 tech-news-automation/
+├── main.py                  # Primary one-command entry point
 ├── fetch_news.py             # Hourly raw news fetcher
 ├── analyze_news.py           # Local raw text analyzer
 ├── tech_news_scraper.py      # Backward-compatible wrapper
