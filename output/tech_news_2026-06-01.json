@@ -1,0 +1,147 @@
+{
+  "episode_date": "2026-06-01",
+  "youtube_title": "Gemini Spark rolls out to Google AI Ultra in the US: How it works | Disney’s ‘Project Gemini’ isn’t AI, but reportedly the death of the Hulu app | Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI : Tech News",
+  "intro_summary": "Latest tech news from June 01, 2026. Covering AI, big tech, and India tech updates.",
+  "stories": [
+    {
+      "headline": "Gemini Spark rolls out to Google AI Ultra in the US: How it works",
+      "source": "9to5Google",
+      "category": "AI Models",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark-Availabillity.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As previewed last week, Gemini Spark is <a href=\"https://x.com/GeminiApp/status/2060405496872579115\">now available</a> in the U",
+      "key_points": [
+        "Source: 9to5Google",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Disney’s ‘Project Gemini’ isn’t AI, but reportedly the death of the Hulu app",
+      "source": "9to5Google",
+      "category": "AI Models",
+      "summary": "Disney apparently has &#8220;Project Gemini&#8221; going on behind the scenes and, according to a new report, that&#8217;s not to be...",
+      "key_points": [
+        "Source: 9to5Google",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
+      "source": "VentureBeat",
+      "category": "General Tech",
+      "summary": "<p><a href=\"https://mistral.ai/\">Mistral AI</a> used its inaugural conference on Wednesday to announce a sweeping expansion into industrial manufacturing, a new inference data center south of Paris, and a rebranding of its consumer-facing assistant — moves that collectively signal the three-year-old",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Everything We Know About OpenAI's Planned iPhone Rival",
+      "source": "MacRumors",
+      "category": "Apple",
+      "summary": "OpenAI is developing a smartphone intended to compete directly with the iPhone, in what appears to be a significant departure from the company's previously stated hardware strategy. Here's everything we know so far. \n<br />\n\n<br />\n<img alt=\"\" class=\"alignnone size-full wp-image-1049638\" height=\"140",
+      "key_points": [
+        "Source: MacRumors",
+        "Category: Apple"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "You can still run the original Nvidia Control Panel by grabbing it from the Microsoft Store today — app remains useful to adjust a handful of RTX Pro and Quadro features, and may be handy for troubleshooting",
+      "source": "Tom's Hardware",
+      "category": "Microsoft",
+      "summary": "The old Nvidia Control Panel is now a separate, optional download, but is it worth grabbing?",
+      "key_points": [
+        "Source: Tom's Hardware",
+        "Category: Microsoft"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "What are you actually doing with Gemini?",
+      "source": "9to5Google",
+      "category": "AI Models",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-3.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Further reflecting on Google’s practical focus for Gemini and AI in general at I/O 2026 last week, I still find myself struggling to find",
+      "key_points": [
+        "Source: 9to5Google",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Rethinking organizational design in the age of agentic AI",
+      "source": "MIT Technology Review",
+      "category": "General Tech",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They ",
+      "key_points": [
+        "Source: MIT Technology Review",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
+      "source": "VentureBeat",
+      "category": "AI Models",
+      "summary": "<p>In 2024,<a href=\"https://arxiv.org/abs/2404.08144\"> <u>researchers from the University of Illinois</u></a> found that GPT-4, when provided with a common vulnerabilities and exposures (CVE) description, could autonomously exploit 87% of a curated 15-vulnerability one-day dataset. Without the descr",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: AI Models"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "The AI agent bottleneck isn't model performance — it's permissions",
+      "source": "VentureBeat",
+      "category": "General Tech",
+      "summary": "<p>Enterprise AI agents are stalling — not because of model performance, but because of permissioning. Every agentic workflow eventually hits the same wall: what is this agent allowed to touch, on whose behalf, and how does the system know?</p><p>Workday&#x27;s answer is to make its existing system ",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
+      "source": "VentureBeat",
+      "category": "General Tech",
+      "summary": "<p>As enterprise AI agents move into production, organizations are confronting a growing reliability problem. Many teams are discovering that LLM performance alone does not determine whether agents succeed in production. Long-running AI workflows must survive crashes, preserve state, recover from fa",
+      "key_points": [
+        "Source: VentureBeat",
+        "Category: General Tech"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "This Trump-linked startup plans to put humanoid robots in the military",
+      "source": "CNBC Tech",
+      "category": "Hardware",
+      "summary": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
+      "key_points": [
+        "Source: CNBC Tech",
+        "Category: Hardware"
+      ],
+      "impact": "Follow for updates on this developing story."
+    },
+    {
+      "headline": "Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch — N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs",
+      "source": "Tom's Hardware",
+      "category": "Hardware",
+      "summary": "The N1X reportedly comes in two SKUs: a top-end 20-core option with 6,144 CUDA cores matching the desktop RTX 5070, and a cut-down 18-core option with 5,120 CUDA cores. The standard N1 also has two configs, one with a 12-core CPU and 2,560 CUDA cores and a 10-core model with 2,048 CUDA cores.",
+      "key_points": [
+        "Source: Tom's Hardware",
+        "Category: Hardware"
+      ],
+      "impact": "Follow for updates on this developing story."
+    }
+  ],
+  "linkedin_post": "🔥 Latest Tech News Roundup 🔥\n\n1. Gemini Spark rolls out to Google AI Ultra in the US: How it works\n2. Disney’s ‘Project Gemini’ isn’t AI, but reportedly the death of the Hulu app\n3. Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI\n4. Everything We Know About OpenAI's Planned iPhone Rival\n5. You can still run the original Nvidia Control Panel by grabbing it from the Microsoft Store today — app remains useful to adjust a handful of RTX Pro and Quadro features, and may be handy for troubleshooting\n\n#TechNews #AI #Technology #Innovation #IndiaTech",
+  "topics_covered": [
+    "Hardware",
+    "AI Models",
+    "General Tech",
+    "Microsoft",
+    "Apple"
+  ]
+}
