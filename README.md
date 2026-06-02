@@ -1,14 +1,16 @@
 # Tech News Automation Pipeline
-## Replicate Lapaas Tech Format for YouTube + LinkedIn
+## Scrape Raw Tech News, Then Generate Local Markdown Analysis
 
 ---
 
 ## What This Project Does
 
-This is a **complete automation pipeline** that scrapes tech news from 20+ sources, filters for stories matching Lapaas Tech's coverage style, and generates structured output ready for:
-- **YouTube video scripts** (with timestamps/chapters)
-- **LinkedIn posts** (with emojis and hashtags)
+This is a **complete automation pipeline** that scrapes tech news from 20+ public sources, writes the raw scraped stories to a `.txt` file, then analyzes that text file locally to generate a structured Markdown report ready for:
+- **YouTube video planning** (title, intro, ordered stories)
+- **LinkedIn post drafting** (bullets, emojis, hashtags)
 - **Markdown reports** (for your reference)
+
+The analysis step is deterministic and rule-based, so it does **not** require an OpenAI API key.
 
 ### Lapaas Tech Coverage Analysis (Last 90 Days)
 
@@ -37,7 +39,7 @@ After analyzing **~30 videos** from Lapaas Tech, here's what Sahil Khanna covers
 
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
-│  NEWS SOURCES   │────▶│  FILTER & SCORE  │────▶│  AI SUMMARIZER  │
+│  NEWS SOURCES   │────▶│  FILTER & SCORE  │────▶│  LOCAL ANALYZER  │
 └─────────────────┘     └──────────────────┘     └─────────────────┘
          │                                               │
     ┌────┴────┐                                    ┌────┴────┐
@@ -71,36 +73,38 @@ pip install -r requirements.txt
 ```
 
 Required packages:
-- `aiohttp` — Async HTTP client for fetching feeds
+- `aiohttp` — Async HTTP client for fetching feeds and public APIs
 - `feedparser` — RSS feed parsing
-- `openai` — AI summarization (optional but recommended)
-- `python-dotenv` — Environment variable management
 
-### Step 3: Configure API Keys (Optional but Recommended)
+### Step 3: Configure API Keys
 
-Create a `.env` file in the root directory:
+No OpenAI API key is required. The scraper now works in two local steps:
+
+1. `fetch_news.py` scrapes public news sources into `output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.txt`
+2. `analyze_news.py` reads that `.txt` file and creates `output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.md`
+
+Optional: if you want extra articles from NewsAPI.org, export `NEWSAPI_KEY` before running the script. Without it, the scraper still uses RSS feeds, Hacker News, and Reddit.
 
 ```bash
-# Required for AI-powered summaries (much better output)
-OPENAI_API_KEY=sk-your-openai-key-here
-
-# Optional - adds more news sources
+# Optional - adds NewsAPI.org as an additional source
 NEWSAPI_KEY=your-newsapi-key-here
 ```
-
-**Where to get API keys:**
-- **OpenAI API Key**: https://platform.openai.com/api-keys (Cost: ~$0.05-0.10 per episode)
-- **NewsAPI Key**: https://newsapi.org/register (Free tier: 100 requests/day)
 
 ### Step 4: Run Locally
 
 ```bash
-# Run the scraper
+# Step 1: fetch raw news
+python fetch_news.py
+
+# Step 2: analyze the latest raw news file
+python analyze_news.py
+
+# Backward-compatible one-command wrapper also works
 python tech_news_scraper.py
 
 # Output will be saved to:
-# - output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.md (markdown report)
-# - output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.json (structured data)
+# - output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.txt (raw scraped news)
+# - output/YYYY-MM-DD/tech_news_YYYY-MM-DD_HH-MM-SS.md (local structured analysis)
 ```
 
 ---
@@ -120,15 +124,14 @@ git remote add origin https://github.com/YOUR_USERNAME/tech-news-automation.git
 git push -u origin main
 ```
 
-2. **Add secrets to GitHub:**
-   - Go to **Settings → Secrets and variables → Actions**
-   - Add `OPENAI_API_KEY` (required for AI summaries)
-   - Add `NEWSAPI_KEY` (optional)
+2. **No OpenAI secret is required.**
+   - Optional: add `NEWSAPI_KEY` under **Settings → Secrets and variables → Actions** if you want NewsAPI.org as an extra source.
 
 3. **The workflow will:**
    - Run every hour (`0 * * * *`)
-   - Scrape all news sources
-   - Generate AI-powered summaries
+   - Run `fetch_news.py` every hour to scrape public news sources
+   - Save raw scraped news to a `.txt` file
+   - Run `analyze_news.py` to analyze that `.txt` file locally into a structured `.md` report
    - Commit results to `output/` folder
    - You can also trigger manually from Actions tab
 
@@ -140,8 +143,10 @@ on:
   schedule:
     - cron: '0 * * * *'  # Every hour
   workflow_dispatch:       # Manual trigger
+permissions:
+  contents: write
 jobs:
-  scrape-and-summarize:
+  fetch-and-analyze:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -149,10 +154,12 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - run: python tech_news_scraper.py
+      - name: Fetch raw news
+        run: python fetch_news.py
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+      - name: Analyze latest raw news
+        run: python analyze_news.py
       - run: |
           git config user.name 'GitHub Actions'
           git config user.email 'actions@github.com'
@@ -257,27 +264,22 @@ AI is moving faster than ever and this week we have some massive updates...
 - India Tech
 ```
 
-### JSON Output
+### Raw Text Output
 
-```json
-{
-  "episode_date": "2026-06-01",
-  "youtube_title": "...",
-  "intro_summary": "...",
-  "stories": [
-    {
-      "headline": "...",
-      "source": "...",
-      "category": "...",
-      "summary": "...",
-      "key_points": ["..."],
-      "impact": "..."
-    }
-  ],
-  "linkedin_post": "...",
-  "topics_covered": ["..."]
-}
+```text
+# Raw Tech News - 2026-06-01 09:30:00
+Total Stories: 42
+
+--- STORY 1 ---
+Title: Example AI model update
+Source: TechCrunch
+Published: 2026-06-01T08:00:00+00:00
+Category: AI Models
+URL: https://example.com/story
+Summary: Raw scraped summary text...
 ```
+
+The Markdown report is generated by reading this `.txt` file back into the local analyzer.
 
 ---
 
@@ -285,7 +287,7 @@ AI is moving faster than ever and this week we have some massive updates...
 
 ### Adding More Sources
 
-Edit the `RSS_FEEDS` dictionary in `tech_news_scraper.py`:
+Edit the `RSS_FEEDS` dictionary in `fetch_news.py`:
 
 ```python
 RSS_FEEDS = {
@@ -299,36 +301,31 @@ RSS_FEEDS = {
 Change the `max_stories` parameter:
 
 ```python
-relevant = summarizer.filter_relevant_stories(all_news, max_stories=15)
+relevant = LocalNewsAnalyzer().filter_relevant_stories(all_news, max_stories=15)
 ```
 
 ### Changing Scoring Weights
 
-Edit the `PRIORITY_KEYWORDS` and scoring logic in `AISummarizer` class.
+Edit the `PRIORITY_KEYWORDS` and scoring logic in the `LocalNewsAnalyzer` class in `analyze_news.py`.
 
 ### Modifying Output Format
 
-Edit the `TechNewsEpisode.to_markdown()` method to customize the output template.
+Edit the `TechNewsEpisode.to_markdown()` method in `analyze_news.py` to customize the output template.
 
 ---
 
 ## Cost Analysis
 
-### Without AI (Basic Mode)
-- **Cost:** FREE
-- **Output:** Basic summaries, no AI enhancement
-- **Quality:** Usable but not as polished
-
-### With OpenAI (Recommended)
-- **Cost per episode:** ~$0.05 - $0.15
-- **Monthly cost (24 episodes):** ~$1.20 - $3.60
-- **Output:** Professional, Lapaas Tech-style summaries
-- **Quality:** High, ready to use for videos
+### Local TXT + Markdown Mode
+- **Cost:** Free
+- **Output:** Raw `.txt` scrape plus structured `.md` analysis
+- **Quality:** Deterministic and reliable, but not as creative as an LLM-generated script
 
 ### API Costs (Optional)
-- **NewsAPI Free Tier:** 100 requests/day (sufficient)
+- **NewsAPI Free Tier:** 100 requests/day if you choose to add `NEWSAPI_KEY`
 - **Hacker News API:** Free
 - **Reddit API:** Free for read-only
+- **RSS feeds:** Free/public
 
 ---
 
@@ -345,7 +342,7 @@ If you prefer n8n over GitHub Actions, here's the equivalent workflow:
    ↓
 3. Function node (parse and deduplicate)
    ↓
-4. OpenAI node (summarize with custom prompt)
+4. Function node (score stories and generate local Markdown)
    ↓
 5. Google Sheets / Notion (store output)
    ↓
@@ -399,14 +396,14 @@ If you prefer n8n over GitHub Actions, here's the equivalent workflow:
 - Reddit: 60 requests/minute
 - Add delays between requests if needed
 
-### Issue: AI summaries not generating
-- Check that `OPENAI_API_KEY` is set correctly
-- Verify API key has billing enabled
-- Fallback to basic mode works without API key
+### Issue: Markdown report not generated
+- Confirm the raw `.txt` file was created first
+- Check the Actions or terminal logs for fetch/parsing errors
+- The Markdown analysis does not require `OPENAI_API_KEY`
 
 ### Issue: GitHub Actions not running
 - Check that workflow file is in `.github/workflows/`
-- Verify secrets are set in repository settings
+- Verify repository Actions permissions allow workflow commits
 - Check Actions tab for error logs
 
 ---
@@ -415,16 +412,17 @@ If you prefer n8n over GitHub Actions, here's the equivalent workflow:
 
 ```
 tech-news-automation/
-├── tech_news_scraper.py      # Main scraper + AI pipeline
+├── fetch_news.py             # Hourly raw news fetcher
+├── analyze_news.py           # Local raw text analyzer
+├── tech_news_scraper.py      # Backward-compatible wrapper
 ├── requirements.txt          # Python dependencies
-├── .env.example              # Environment variables template
 ├── .github/
 │   └── workflows/
 │       └── scraper.yml       # GitHub Actions workflow
 ├── output/                   # Generated content (auto-created)
 │   └── 2026-06-01/
-│       ├── tech_news_2026-06-01_09-30-00.md
-│       └── tech_news_2026-06-01_09-30-00.json
+│       ├── tech_news_2026-06-01_09-30-00.txt
+│       └── tech_news_2026-06-01_09-30-00.md
 └── README.md                 # This file
 ```
 
@@ -433,7 +431,7 @@ tech-news-automation/
 ## Next Steps
 
 1. **Set up the repository** on GitHub
-2. **Add your API keys** as repository secrets
+2. **Optionally add `NEWSAPI_KEY`** as a repository secret if you want NewsAPI.org stories
 3. **Run manually first** to verify everything works
 4. **Let GitHub Actions run automatically** every hour
 5. **Check output folder** for generated content
