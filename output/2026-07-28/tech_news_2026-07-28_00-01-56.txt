@@ -1,0 +1,1578 @@
+# Raw Tech News - 2026-07-28 00:01:56
+Total Stories: 197
+
+--- STORY 1 ---
+Title: Satya Nadella says companies that trust one AI for everything may not survive
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 21:17:11 +0000
+Category: Hardware
+URL: https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
+Summary: Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
+
+--- STORY 2 ---
+Title: Thea Energy lands $20M federal grant to build its magnets for fusion reactors
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 20:40:12 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/
+Summary: Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.
+
+--- STORY 3 ---
+Title: As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 20:40:00 +0000
+Category: Business
+URL: https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/
+Summary: The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.
+
+--- STORY 4 ---
+Title: PSA: Your Claude shared chats and Artifacts may have ended up on Google
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 20:19:42 +0000
+Category: AI Models
+URL: https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/
+Summary: The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
+
+--- STORY 5 ---
+Title: Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 18:32:11 +0000
+Category: Microsoft
+URL: https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/
+Summary: Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
+
+--- STORY 6 ---
+Title: Apple sued after alleged App Store crypto scam cost users $1.8M
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 18:28:15 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/
+Summary: Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.
+
+--- STORY 7 ---
+Title: Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 18:08:29 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/
+Summary: Amazon is expanding its plans for providing satellite connectivity to mobile phones.
+
+--- STORY 8 ---
+Title: Antares raises $470M to build nuclear reactors for the US military
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 17:49:28 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/
+Summary: Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.
+
+--- STORY 9 ---
+Title: OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 17:28:42 +0000
+Category: Cybersecurity
+URL: https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
+Summary: OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
+
+--- STORY 10 ---
+Title: Threads users can now chat with Meta AI in their DMs
+Source: TechCrunch
+Published: Mon, 27 Jul 2026 16:45:24 +0000
+Category: Meta
+URL: https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/
+Summary: Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.
+
+--- STORY 11 ---
+Title: X Money is launching in the US starting today
+Source: The Verge
+Published: Mon, 27 Jul 2026 18:10:18 -0400
+Category: General Tech
+URL: https://www.theverge.com/tech/971649/x-money-launch-elon-musk
+Summary: ﻿Elon Musk’s payment platform is rolling out first to X Premium and Premium Plus subscribers.
+
+--- STORY 12 ---
+Title: Razer’s analog Huntsman V3 Pro is over 20 percent off
+Source: The Verge
+Published: Mon, 27 Jul 2026 17:29:22 -0400
+Category: General Tech
+URL: https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale
+Summary: This discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.
+
+--- STORY 13 ---
+Title: Xbox’s huge outage even blocked games on disc
+Source: The Verge
+Published: Mon, 27 Jul 2026 15:53:50 -0400
+Category: Microsoft
+URL: https://www.theverge.com/games/971545/xbox-outage-disc-physical-games
+Summary: The outage lasted for almost a full day.
+
+--- STORY 14 ---
+Title: Nanoleaf’s colorful pegboard and shelf kit is half off
+Source: The Verge
+Published: Mon, 27 Jul 2026 15:24:55 -0400
+Category: General Tech
+URL: https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale
+Summary: It can hold everything from headphones to notebooks while rocking your favorite colors.
+
+--- STORY 15 ---
+Title: Why China is giving away its best AI models
+Source: The Verge
+Published: Mon, 27 Jul 2026 12:51:50 -0400
+Category: China Tech
+URL: https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
+Summary: Chinese labs like Moonshot are forcing OpenAI, Google, and Anthropic to rethink what they lock away.
+
+--- STORY 16 ---
+Title: YouTube Premium will include Peacock starting next year
+Source: The Verge
+Published: Mon, 27 Jul 2026 12:18:52 -0400
+Category: General Tech
+URL: https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal
+Summary: Peacock’s TV shows, movies, and live sports will stream directly in the YouTube app.
+
+--- STORY 17 ---
+Title: Amazon’s trying to launch a global satellite cellphone network in 2028
+Source: The Verge
+Published: Mon, 27 Jul 2026 11:40:38 -0400
+Category: General Tech
+URL: https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network
+Summary: ﻿The new constellation of over 5,000 satellites will offer direct-to-cell service using Globalstar’s spectrum.
+
+--- STORY 18 ---
+Title: Tariffs didn’t bring manufacturing jobs back to the US
+Source: The Verge
+Published: Mon, 27 Jul 2026 11:00:00 -0400
+Category: General Tech
+URL: https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada
+Summary: ﻿Altana CEO Evan Smith on the new normal of global trade.
+
+--- STORY 19 ---
+Title: This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800
+Source: The Verge
+Published: Mon, 27 Jul 2026 11:00:00 -0400
+Category: General Tech
+URL: https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review
+Summary: The Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.
+
+--- STORY 20 ---
+Title: Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99
+Source: The Verge
+Published: Mon, 27 Jul 2026 10:56:38 -0400
+Category: Hardware
+URL: https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale
+Summary: We also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitech’s MX Vertical.
+
+--- STORY 21 ---
+Title: T-Mobile ‘actively working’ to fix ongoing outage, iPhone SOS mode
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 23:17:44 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/
+Summary: Update #2, 4:15 p.m. PT : In a statement to 9to5Mac, a T-Mobile spokesperson said: “Our teams are actively working the reports of technical challenges impacting some customers. Any service i
+
+--- STORY 22 ---
+Title: Three customers sue Apple after fake wallet app wipes out their Bitcoin
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 21:34:30 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/
+Summary: Apple is once again being sued over a scam cryptocurrency app that allegedly slipped through App Store review and cost users nearly $2 million. Here are the details.
+
+--- STORY 23 ---
+Title: Claude, Codex, and other AI tools credited in today’s Apple security releases
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 20:29:58 +0000
+Category: AI Models
+URL: https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/
+Summary: Apple’s technical details on the many security fixes included in today’s operating system updates show how quickly AI tools are becoming part of vulnerability research. Here are the details.
+
+--- STORY 24 ---
+Title: Ted Lasso season 4: Here’s who’s new and everyone not returning
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 19:19:42 +0000
+Category: Hardware
+URL: https://9to5mac.com/2026/07/27/ted-lasso-season-4-heres-whos-new-and-everyone-not-returning/
+Summary: Ted Lasso season 4 premieres next week ( watch here ) and centers around a women’s team, here’s a rundown of the new players along
+
+--- STORY 25 ---
+Title: MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 18:57:00 +0000
+Category: General Tech
+URL: https://9to5mac.com/2026/07/27/esr-flicklock/
+Summary: I drop my AirPods Pro all the time. In fact, I dropped them at the lake yesterday. The worst part is always watching the earbuds bounce across the pavement and hoping they do not fall down a storm drain or something. I love having a case that actually stays shut when it hits the ground. The new ESR FlickLock Magn
+
+--- STORY 26 ---
+Title: X Money officially launches in the US with Apple Wallet support after invite-only beta
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 18:51:47 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/x-money-apple-wallet/
+Summary: X has officially launched X Money, which includes Apple Wallet support, moving the service beyond its invite-only beta and beginning a rollout today.
+
+--- STORY 27 ---
+Title: Apple teases Severance season 3 in new update
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 18:23:45 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/apple-teases-severance-season-3-in-new-update/
+Summary: The wait between Severance’s first two seasons was long, and season 3 has demanded a lot of patience too, but Apple TV just teased a noteworthy update on the show’s progress.
+
+--- STORY 28 ---
+Title: Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 18:12:48 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/
+Summary: Following the release of iOS 26.6 , iPadOS 26.6 , and related software updates, Apple has detailed a huge number of security fixes included in to
+
+--- STORY 29 ---
+Title: macOS 26.6 now available, here’s what’s new
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 17:51:11 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/macos-26-6-now-available-heres-whats-new/
+Summary: Following an extended developer and public beta period, Apple is now rolling out macOS 26.6 to all users with compatible Macs . Here’s what’s
+
+--- STORY 30 ---
+Title: macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now available
+Source: 9to5Mac
+Published: Mon, 27 Jul 2026 17:49:08 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/07/27/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/
+Summary: In addition to macOS 26.6, Apple is also rolling out macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 with important bug fixes. Here are the details.
+
+--- STORY 31 ---
+Title: What’s new in Android’s July 2026 Google System Updates [U]
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 22:20:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/07/27/july-2026-google-system-updates/
+Summary: The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end us
+
+--- STORY 32 ---
+Title: The Sideload 040: Finding digital peace with Light Phone
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 21:00:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/07/27/the-sideload-040-finding-digital-peace-with-light-phone/
+Summary: Welcome to episode 40 of The Sideload, a 9to5Google podcast. This week, Will is joined by Kai Tang and Joe Hollier of Light to discuss the recent announcement of the Light Flip, the urge to disconnect from your smartphone, and finding the right balance between being offline without being inconven
+
+--- STORY 33 ---
+Title: Yale refreshed your smart lock’s companion app with battery insights, more
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 21:00:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/07/27/yale-access-app-gets-big-update/
+Summary: Yale’s recent app update sets the user experience on par with using Google Home or ADT’s app to control your lock. It might even be a little easier.
+
+--- STORY 34 ---
+Title: Galaxy Z Fold 8 in ‘Pistachio’ already appears to be selling out
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 19:45:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/07/27/galaxy-z-fold-8-in-pistachio-already-appears-to-be-selling-out/
+Summary: The best version of Samsung’s adorable new Galaxy Z Fold 8 is the green “Pistachio” one and, fittingly, that’s the one that already appears to be selling out.
+
+--- STORY 35 ---
+Title: Galaxy S27 Ultra rumored to near 6,000 mAh in long-overdue battery upgrade
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 19:30:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/07/27/samsung-galaxy-s27-ultra-battery-upgrade-rumor/
+Summary: If you had to pick one spec on Samsung’s top-end flagship that doesn’t feel all that “Ultra,” it’d probably be the 5,000 mAh battery that hasn’t changed in half a decade. Finally, though, it sounds like the Galaxy S27 Ultra will bring a battery upgrade, and a big one too.
+
+--- STORY 36 ---
+Title: Monday’s Android app deals and freebies: Friend of a Slime, Forest Golf Planner, AVARIS3, more
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 17:48:30 +0000
+Category: Google
+URL: https://9to5toys.com/2026/07/27/monday-android-app-deals-slime/
+Summary: Your afternoon lineup of the best Android game and app deals is now ready, including titles like Friend of a Slime: Survivors, Dungeons of Dreadrock 2, Forest Golf Planner, AVARIS3, Station Manager, Silver Screen Story, Tropical Resort Story, Megapolis, and more. Alongside the ongoing pre-order discounts on <a href="https://click.links
+
+--- STORY 37 ---
+Title: Samsung teases Android XR glasses with phone & watch integration, ‘reasonable’ price
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 16:45:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/07/27/samsung-android-xr-glasses-integration-price-tease/
+Summary: Following a partial unveiling at its Unpacked event last week, Samsung is teasing some further details of its upcoming Android XR glasses, including their “reasonable” price point.
+
+--- STORY 38 ---
+Title: YouTube Premium subscribers are getting Peacock for free in ‘the coming months’
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 16:01:05 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/07/27/youtube-premium-subscribers-are-getting-peacock-for-free-in-the-coming-months/
+Summary: Practically every streaming service not named Netflix has turned to bundling options over the past few years, with so-called competitors teaming up to deliver combo packs like Disney+ and HBO Max. No service has been bundled quite as much as Peacock, though. If you’ve somehow managed to avoid one of the many, many ways one can gain ac
+
+--- STORY 39 ---
+Title: Deals: Fold 8/Galaxy Watch, Galaxy A57 at $425 low, NXTPAPER 11 tab $160, Best Buy back to school sale, more
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 15:54:07 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/07/27/deals-fold-8-galaxy-watch-galaxy-a57-nxtpaper-11/
+Summary: Joining the ongoing discounts on Galaxy Z Fold 8 , <a href="https://click.linksynergy.com/deeplink?id=eeXN463C
+
+--- STORY 40 ---
+Title: Refurbished Pixel 7 deal includes a free Pixel Watch 2 in the ultimate budget-friendly bundle
+Source: 9to5Google
+Published: Mon, 27 Jul 2026 15:49:44 +0000
+Category: Google
+URL: https://9to5google.com/2026/07/27/google-giving-away-pixel-watch-2/
+Summary: Google just released the ultimate deal for those looking for a budget-friendly way to get a Pixel Watch 2 for free, and it doesn’t mean spending like-new prices.
+
+--- STORY 41 ---
+Title: Microsoft unveils AI security tools it says outperform competing platforms
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 21:56:14 +0000
+Category: Microsoft
+URL: https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
+Summary: Microsoft says tools cost less than competing ones and outperform them, too.
+
+--- STORY 42 ---
+Title: Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 21:40:27 +0000
+Category: General Tech
+URL: https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/
+Summary: Starlink has a Texas factory but also makes routers in Vietnam.
+
+--- STORY 43 ---
+Title: Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 20:42:13 +0000
+Category: General Tech
+URL: https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/
+Summary: Kennedy has focused on nutrition but has neglected food safety, critics say.
+
+--- STORY 44 ---
+Title: iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 20:32:45 +0000
+Category: Apple
+URL: https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/
+Summary: These are likely the last updates of note before Apple's bigger fall updates.
+
+--- STORY 45 ---
+Title: A missing underscore sent innocent man to prison for 18 months
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 20:22:03 +0000
+Category: General Tech
+URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/
+Summary: When the first step goes wrong, bad results follow.
+
+--- STORY 46 ---
+Title: “Google and Reddit do not own the Internet," web scraper says after court win
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 20:12:42 +0000
+Category: Google
+URL: https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/
+Summary: Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.
+
+--- STORY 47 ---
+Title: 5th Circuit blocks Texas law requiring websites to filter "harmful" speech
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 19:18:02 +0000
+Category: Regulation
+URL: https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/
+Summary: Age verification is okay, but filtering is preempted by Section 230, judges find.
+
+--- STORY 48 ---
+Title: Verizon touts $1B dark fiber deal for Google data centers as first of many
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 18:48:41 +0000
+Category: Google
+URL: https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/
+Summary: Telecom expects AI revenue from dark fiber deals and retrofitted data centers.
+
+--- STORY 49 ---
+Title: Experts warn current Starship heat shield tech is a "dead end" for rapid reuse
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 18:34:40 +0000
+Category: Regulation
+URL: https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/
+Summary: NASA has not made substantial investments in thermal protection research for decades.
+
+--- STORY 50 ---
+Title: ChatGPT starts blocking direct requests to copy an author's style
+Source: Ars Technica
+Published: Mon, 27 Jul 2026 16:58:46 +0000
+Category: AI Models
+URL: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
+Summary: New behavior capturing a writer's "broad qualities" could have legal implications.
+
+--- STORY 51 ---
+Title: France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires
+Source: Wired
+Published: Mon, 27 Jul 2026 22:57:20 +0000
+Category: Hardware
+URL: https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/
+Summary: Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.
+
+--- STORY 52 ---
+Title: New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain
+Source: Wired
+Published: Mon, 27 Jul 2026 21:06:54 +0000
+Category: General Tech
+URL: https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/
+Summary: Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.
+
+--- STORY 53 ---
+Title: DHS Official Resigns, Citing ‘War on Immigrants’
+Source: Wired
+Published: Mon, 27 Jul 2026 20:34:04 +0000
+Category: General Tech
+URL: https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/
+Summary: The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.
+
+--- STORY 54 ---
+Title: Private Claude Chats Exposed in Google and Bing Search Results
+Source: Wired
+Published: Mon, 27 Jul 2026 20:08:00 +0000
+Category: AI Models
+URL: https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/
+Summary: The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.
+
+--- STORY 55 ---
+Title: Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago
+Source: Wired
+Published: Mon, 27 Jul 2026 15:33:56 +0000
+Category: General Tech
+URL: https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/
+Summary: Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.
+
+--- STORY 56 ---
+Title: The 10 Best WIRED-Tested Handheld Vacuums of 2026
+Source: Wired
+Published: Mon, 27 Jul 2026 11:03:00 +0000
+Category: General Tech
+URL: https://www.wired.com/gallery/the-best-handheld-vacuum/
+Summary: Lightweight, powerful, and generally inexpensive, the handheld vacuum is the perfect household helper.
+
+--- STORY 57 ---
+Title: Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall
+Source: Wired
+Published: Mon, 27 Jul 2026 11:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/
+Summary: Ads on Instagram, TikTok, and YouTube are painting prescription stimulants in a negative light while promoting supplements for ADHD that lack evidence.
+
+--- STORY 58 ---
+Title: 3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)
+Source: Wired
+Published: Mon, 27 Jul 2026 10:35:00 +0000
+Category: Hardware
+URL: https://www.wired.com/gallery/best-smart-rings/
+Summary: A svelte smart ring can track important activity, sleep, and health metrics. Plus, unlike most smartwatches, it doesn’t need to be charged every day.
+
+--- STORY 59 ---
+Title: This Is Donald Trump’s AI Brain Trust
+Source: Wired
+Published: Mon, 27 Jul 2026 10:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/
+Summary: “It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.
+
+--- STORY 60 ---
+Title: Best Laptops for College Students (2026): MacBooks and Beyond
+Source: Wired
+Published: Mon, 27 Jul 2026 09:31:00 +0000
+Category: Apple
+URL: https://www.wired.com/story/best-college-laptops/
+Summary: Laptops for college should be portable, offer long battery life, and be well priced. Based on testing hundreds of laptops, these are my top picks.
+
+--- STORY 61 ---
+Title: Spotify experienced another major outage
+Source: Engadget
+Published: Mon, 27 Jul 2026 20:28:35 +0000
+Category: General Tech
+URL: https://www.engadget.com/2224515/spotify-is-experiencing-another-major-outage/
+Summary: Two gremlins rolled through Spotify today.
+
+--- STORY 62 ---
+Title: Google Pixel 11 launch event: Everything we expect as price increase rumors grow
+Source: Engadget
+Published: Mon, 27 Jul 2026 18:30:00 +0000
+Category: Google
+URL: https://www.engadget.com/2222968/google-pixel-11-launch-event-price-increase-rumors/
+Summary: Here's what the rumor mill tells us Google might be preparing for its next Pixel launch.
+
+--- STORY 63 ---
+Title: What's the difference between USB 3.0 & 2.0 and which should you use?
+Source: Engadget
+Published: Mon, 27 Jul 2026 17:30:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2219836/difference-between-usb-3-0-and-2-0-which-to-use/
+Summary: The ports look the same, but one is much faster than the other.
+
+--- STORY 64 ---
+Title: Is your iPhone stuck in SOS mode? Here's how to fix it
+Source: Engadget
+Published: Mon, 27 Jul 2026 16:30:00 +0000
+Category: Apple
+URL: https://www.engadget.com/2219835/iphone-stuck-in-sos-mode-how-to-fix/
+Summary: Have you tried turning it off and on again?
+
+--- STORY 65 ---
+Title: NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense
+Source: Engadget
+Published: Mon, 27 Jul 2026 10:39:52 +0000
+Category: Hardware
+URL: https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/
+Summary: NVIDIA has gathered together some of the biggest tech companies in the world to form the Open Secure AI Alliance with the aim to improve cybersecurity.
+
+--- STORY 66 ---
+Title: AppleCare One insurance for multiple devices finally expands outside the US
+Source: Engadget
+Published: Mon, 27 Jul 2026 08:50:22 +0000
+Category: Apple
+URL: https://www.engadget.com/2223761/applecare-one-insurance-for-multiple-devices-finally-expands-outside-the-us/
+Summary: AppleCare insurance for multiple devices including iPhones, Watches and MacBooks, is finally expanding outside the US.
+
+--- STORY 67 ---
+Title: Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space
+Source: Engadget
+Published: Sun, 26 Jul 2026 20:15:08 +0000
+Category: General Tech
+URL: https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/
+Summary: The Smart LED Monitor Stand is currently available for $169.99.
+
+--- STORY 68 ---
+Title: How to get YouTube Music's best audio quality
+Source: Engadget
+Published: Sun, 26 Jul 2026 18:30:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2221561/how-to-get-youtube-music-best-audio-quality/
+Summary: If you don't mind using more data, make these changes to step up your listening experience in the YouTube Music app.
+
+--- STORY 69 ---
+Title: How to safely clean your USB ports
+Source: Engadget
+Published: Sun, 26 Jul 2026 17:30:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2219833/how-to-safely-clean-usb-port-guide/
+Summary: Don't use WD-40 or Q-tips, for starters.
+
+--- STORY 70 ---
+Title: Why do phones still use battery when powered off?
+Source: Engadget
+Published: Sun, 26 Jul 2026 16:30:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2219830/phone-battery-powered-off-explained/
+Summary: Your battery is continually losing charge.
+
+--- STORY 71 ---
+Title: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+Source: MIT Technology Review
+Published: Mon, 27 Jul 2026 18:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
+Summary: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…
+
+--- STORY 72 ---
+Title: How lasers could help provide fuel for nuclear reactors
+Source: MIT Technology Review
+Published: Mon, 27 Jul 2026 14:24:42 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/
+Summary: Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…
+
+--- STORY 73 ---
+Title: The Download: lasers for nuclear fuel, and organ preservation advances
+Source: MIT Technology Review
+Published: Mon, 27 Jul 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…
+
+--- STORY 74 ---
+Title: The path to artificial superintelligence
+Source: MIT Technology Review
+Published: Mon, 27 Jul 2026 12:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/
+Summary: Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…
+
+--- STORY 75 ---
+Title: Closing the data loop in AI-driven drug discovery
+Source: MIT Technology Review
+Published: Mon, 27 Jul 2026 11:40:16 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
+Summary: Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…
+
+--- STORY 76 ---
+Title: Building the enterprise environment for agentic AI
+Source: MIT Technology Review
+Published: Mon, 27 Jul 2026 11:32:58 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
+Summary: For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…
+
+--- STORY 77 ---
+Title: The quest to keep organs alive outside the body
+Source: MIT Technology Review
+Published: Fri, 24 Jul 2026 17:03:55 +0000
+Category: Meta
+URL: https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
+Summary: This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…
+
+--- STORY 78 ---
+Title: The Download: an organ transplant breakthrough, and homegrown Chinese chips
+Source: MIT Technology Review
+Published: Fri, 24 Jul 2026 12:10:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…
+
+--- STORY 79 ---
+Title: Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
+Source: MIT Technology Review
+Published: Thu, 23 Jul 2026 16:58:28 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
+Summary: When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…
+
+--- STORY 80 ---
+Title: The Download: energy transmission and US threats against Chinese AI
+Source: MIT Technology Review
+Published: Thu, 23 Jul 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…
+
+--- STORY 81 ---
+Title: Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs
+Source: VentureBeat
+Published: Mon, 27 Jul 2026 19:14:51 GMT
+Category: Microsoft
+URL: https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs
+Summary: Microsoft opened a new front in the AI security wars on Monday, unveiling its first custom-built cybersecurity model and a sweeping agentic defense platform — and making an argument that could reshape how enterprises buy AI: the future belongs not to the biggest model, but to the cheapest one that's good enough, routed intelligently. The company announced MA
+
+--- STORY 82 ---
+Title: AI cites the deep pages but sends humans to the homepage — most sites are built backward
+Source: VentureBeat
+Published: Mon, 27 Jul 2026 17:25:30 GMT
+Category: General Tech
+URL: https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward
+Summary: If your business depends on people clicking through to web pages, the last two years have been brutal. Pew Research Center tracked the browsing behavior of 900 U.S. adults and found that when Google shows an AI summary, users click a traditional result just 8% of the time , roughly half the 15% rate when no summary appears. Links cited inside the AI answers themselves fare worse: users click on them only
+
+--- STORY 83 ---
+Title: Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search
+Source: VentureBeat
+Published: Mon, 27 Jul 2026 15:02:00 GMT
+Category: AI Models
+URL: https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search
+Summary: Over the weekend, Reddit user -void1 posted an alarming discovery on the r/ClaudeAI subreddit: some conversations that users of Anthropic's Claude AI chatbot had made "shareable" via a link were being indexed by Google Search, and could be clicked on and accessed by seemingly anyone. The conversation took off on the <a href="https://x.com/alex_prompter/status/2
+
+--- STORY 84 ---
+Title: Why SAP says enterprise AI agents need knowledge graphs and governance
+Source: VentureBeat
+Published: Mon, 27 Jul 2026 14:00:12 GMT
+Category: General Tech
+URL: https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance
+Summary: Presented by SAP At VB Transform 2026 , Max McPhee, senior solution advisor at SAP, spoke with Rob Stretchay, lead analyst at VentureBeat Research, about what it takes for enterprises to move beyond chatbots to autonomous AI agents that can execute real business processes. He argued that the difference comes down to grounding those agents in a company’s own context rather than general knowledge. &
+
+--- STORY 85 ---
+Title: New ransomware targets AI model weights and can't even collect the ransom
+Source: VentureBeat
+Published: Mon, 27 Jul 2026 07:00:00 GMT
+Category: Hardware
+URL: https://venturebeat.com/security/new-ransomware-targets-ai-model-weights-and-cant-even-collect-the-ransom
+Summary: The same attacker broke into the same internet-facing Langflow server twice, and the second time brought ransomware built to destroy trained AI models. Sysdig's Threat Research Team documented the first campaign on July 1 and the second on July 20 . The en
+
+--- STORY 86 ---
+Title: VentureBeat Research: Where enterprise AI agent governance hasn't caught up
+Source: VentureBeat
+Published: Fri, 24 Jul 2026 19:34:29 GMT
+Category: Google
+URL: https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up
+Summary: Enterprises deployed AI agents ahead of the controls needed to manage them — and they did it knowingly. That is the central finding across the five parallel surveys VentureBeat Research fielded in June, spanning every layer of the agentic stack. Now those enterprises are retrofitting to catch up with their own standards, and they are budgeting for it: In each of the five control layers we measured, 57 to 68% of enterprises plan to switch vendors or add new ones within 12 months, and roughly a
+
+--- STORY 87 ---
+Title: Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows
+Source: VentureBeat
+Published: Fri, 24 Jul 2026 17:00:00 GMT
+Category: AI Models
+URL: https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows
+Summary: Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intelligence of its top-of-the-line Claude Fable 5 at half the cost — a launch that signals how the AI race is shifting from raw capability to the economics of daily use. The model, available immediately on all of Anthropic's platforms, is price
+
+--- STORY 88 ---
+Title: Leading AI models (even Grok) are all a bunch of leftist punks
+Source: The Register
+Published: Tue, 28 Jul 2026 00:05:00 +0200
+Category: AI Models
+URL: https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208
+Summary: AI seems to have a liberal bias
+
+--- STORY 89 ---
+Title: Jensen puts his thumb on the scales against open-weights fearmongering
+Source: The Register
+Published: Mon, 27 Jul 2026 23:34:49 +0200
+Category: General Tech
+URL: https://www.theregister.com/ai-and-ml/2026/07/27/jensen-puts-his-thumb-on-the-scales-against-open-weights-fearmongering/5279194
+Summary: American AI flag bearers get in line, at least on paper
+
+--- STORY 90 ---
+Title: Microsoft lays out a buffet of Windows goodies for JavaScript Developers
+Source: The Register
+Published: Mon, 27 Jul 2026 23:25:33 +0200
+Category: Microsoft
+URL: https://www.theregister.com/devops/2026/07/27/microsoft-lays-out-a-buffet-of-windows-goodies-for-javascript-developers/5279244
+Summary: Just don’t call the WinRT projection for Node.js a lock-in
+
+--- STORY 91 ---
+Title: Impostor Chinese models pretend they're Claude
+Source: The Register
+Published: Mon, 27 Jul 2026 22:43:01 +0200
+Category: AI Models
+URL: https://www.theregister.com/ai-and-ml/2026/07/27/impostor-chinese-models-pretend-theyre-claude/5279165
+Summary: Researchers find GLM and Kimi can adopt Claude's identity, but the evidence stops short of proving distillation
+
+--- STORY 92 ---
+Title: Microsoft's solution to AI security: more AI and more acronyms
+Source: The Register
+Published: Mon, 27 Jul 2026 21:50:27 +0200
+Category: Microsoft
+URL: https://www.theregister.com/security/2026/07/27/microsofts-solution-to-ai-security-more-ai-and-more-acronyms/5279140
+Summary: MDASH stuffed with MAI-Cyber-1-Flash and a side of GPT-5.4
+
+--- STORY 93 ---
+Title: Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack
+Source: The Register
+Published: Mon, 27 Jul 2026 18:17:30 +0200
+Category: General Tech
+URL: https://www.theregister.com/ai-and-ml/2026/07/27/tech-giants-link-hands-to-praise-open-ai-models-after-openai-hugging-face-attack/5279061
+Summary: The Open Security AI Alliance says the Hugging Face/OpenAI mess proves frontier labs can't be trusted to properly secure sensitive systems
+
+--- STORY 94 ---
+Title: Cassette simulator rewinds digital audio to a more analog time in hiss-tory
+Source: The Register
+Published: Mon, 27 Jul 2026 17:54:03 +0200
+Category: General Tech
+URL: https://www.theregister.com/offbeat/2026/07/27/cassette-simulator-rewinds-digital-audio-to-a-more-analog-time-in-hiss-tory/5279018
+Summary: Is there a simulator for the wail when you realize your precious one-off bootleg has just been chewed up?
+
+--- STORY 95 ---
+Title: AI has changed data architecture, but storage hasn't caught up
+Source: The Register
+Published: Mon, 27 Jul 2026 17:00:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/ai-and-ml/2026/07/27/ai-has-changed-data-architecture-but-storage-hasnt-caught-up/5255880
+Summary: SPONSORED FEATURE: AI's hunger for data outstrips storage smarts, leaving GPUs famished
+
+--- STORY 96 ---
+Title: Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update
+Source: The Register
+Published: Mon, 27 Jul 2026 15:45:00 +0200
+Category: Microsoft
+URL: https://www.theregister.com/patches/2026/07/27/microsoft-defender-for-endpoint-leaves-some-linux-boxes-defenseless-after-update/5278914
+Summary: One bug disabled the security service on restart, another blocked installation on hardened RHEL systems
+
+--- STORY 97 ---
+Title: Tech sector pours $1T into AI and sends customers the bill
+Source: The Register
+Published: Mon, 27 Jul 2026 15:02:00 +0200
+Category: Regulation
+URL: https://www.theregister.com/ai-and-ml/2026/07/27/tech-sector-pours-1t-into-ai-and-sends-customers-the-bill/5278845
+Summary: History's biggest infrastructure build-out is pushing up hardware and software prices, analyst says
+
+--- STORY 98 ---
+Title: Is it time to stop using glue and labels on paper?
+Source: BBC Tech
+Published: Mon, 27 Jul 2026 23:00:06 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss
+Summary: Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.
+
+--- STORY 99 ---
+Title: Some people's chats with Claude AI found publicly available online
+Source: BBC Tech
+Published: Mon, 27 Jul 2026 22:14:04 GMT
+Category: AI Models
+URL: https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss
+Summary: Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.
+
+--- STORY 100 ---
+Title: Why budding birders are flocking to Shazam-like apps to identify avians
+Source: BBC Tech
+Published: Mon, 27 Jul 2026 07:53:30 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss
+Summary: Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.
+
+--- STORY 101 ---
+Title: Warning shot or publicity stunt - how worried should we be about the OpenAI hack?
+Source: BBC Tech
+Published: Sat, 25 Jul 2026 10:14:41 GMT
+Category: Cybersecurity
+URL: https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss
+Summary: Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.
+
+--- STORY 102 ---
+Title: PlayStation Network outage resolved after thousands of gamers unable to play
+Source: BBC Tech
+Published: Fri, 24 Jul 2026 20:37:21 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss
+Summary: The outage affected gamers' ability to launch games, apps or network features on their PlayStation.
+
+--- STORY 103 ---
+Title: Trump vows to investigate EU over fining of US tech companies
+Source: BBC Tech
+Published: Fri, 24 Jul 2026 20:23:58 GMT
+Category: Regulation
+URL: https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss
+Summary: The US president says fines against Google, as well as Apple, Meta and Amazon, should be "entirely reversed."
+
+--- STORY 104 ---
+Title: How Jimothy the raccoon became the internet's latest animal obsession
+Source: BBC Tech
+Published: Fri, 24 Jul 2026 14:27:46 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss
+Summary: It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.
+
+--- STORY 105 ---
+Title: Google fined €890m by EU for favouring its own apps over rivals
+Source: BBC Tech
+Published: Thu, 23 Jul 2026 23:10:09 GMT
+Category: Google
+URL: https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss
+Summary: It is the first major enforcement action against the tech giant under the EU's new digital rules.
+
+--- STORY 106 ---
+Title: Lawmakers push for AI 'kill switch' after OpenAI models go rogue
+Source: BBC Tech
+Published: Thu, 23 Jul 2026 20:58:35 GMT
+Category: AI Models
+URL: https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss
+Summary: A new bill would let the US government order the shutdown of AI models that pose a public threat.
+
+--- STORY 107 ---
+Title: Google and Tesla shares plunge as AI spending rattles markets
+Source: BBC Tech
+Published: Thu, 23 Jul 2026 20:42:33 GMT
+Category: Google
+URL: https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss
+Summary: As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.
+
+--- STORY 108 ---
+Title: CXMT Founder Zhu Yiming Pledges $5.6 Billion in Worker Bonuses After China IPO
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 09:42:15 GMT
+Category: China Tech
+URL: https://www.bloomberg.com/news/articles/2026-07-27/cxmt-founder-zhu-yiming-pledges-5-6-billion-in-worker-bonuses-after-china-ipo
+Summary: Zhu Yiming just joined a growing number of billionaires who have amassed great wealth in the race between the US and China for global tech dominance.
+
+--- STORY 109 ---
+Title: Nvidia’s $750 Billion in Deals Reignite Circular AI Fears
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 10:20:03 GMT
+Category: Hardware
+URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing
+Summary: Nvidia Corp. is working on a fresh round of AI deals worth more than $750 billion, accelerating investments that skeptics have warned are artificially inflating demand and valuations across the industry.
+
+--- STORY 110 ---
+Title: AI Circular Deals: How Microsoft, OpenAI and Nvidia Keep Paying Each Other
+Source: Bloomberg Tech
+Published: Thu, 22 Jan 2026 22:00:33 GMT
+Category: Microsoft
+URL: https://www.bloomberg.com/graphics/2026-ai-circular-deals/
+Summary: A web of interlinked investments raises the risk of cascading losses if AI falls short of its potential.
+
+--- STORY 111 ---
+Title: Lenders to Distressed Cloud Tech Firm Dye & Durham Tap Advisers
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 20:06:25 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-07-27/lenders-to-distressed-cloud-tech-firm-dye-durham-tap-advisers
+Summary: Dye & Durham Ltd.’s lenders have retained Houlihan Lokey Inc. as financial adviser as the software company’s capital position comes under increased scrutiny, according to people familiar with the matter.
+
+--- STORY 112 ---
+Title: Angola Raises $321 Million Through Nation’s Biggest IPO
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 18:55:52 GMT
+Category: Business
+URL: https://www.bloomberg.com/news/articles/2026-07-27/angola-raises-321-million-through-nation-s-biggest-ipo
+Summary: Angola has raised 300.3 billion kwanzas ($321 million) through the sale of 15% stake in state-owned wireless operator Unitel SA, marking the southwest African nation’s biggest initial public offering.
+
+--- STORY 113 ---
+Title: AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 18:01:20 GMT
+Category: Regulation
+URL: https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector
+Summary: The number of software security flaws discovered in popular technology products in 2026 is on pace to roughly double the tally of vulnerabilities that surfaced in 2025, an explosion driven by increasingly capable artificial intelligence systems.
+
+--- STORY 114 ---
+Title: Philips Lifts Margin Outlook After Getting US Tariff Refund
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 18:08:14 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-07-27/philips-earnings-beat-estimates-with-boost-from-us-tariff-refund
+Summary: Royal Philips NV raised its profitability expectations for 2026 after a US tariff refund bolstered earnings in the second quarter.
+
+--- STORY 115 ---
+Title: Orange, Morrison Partner on French Data Center Project
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 18:39:11 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-07-27/orange-morrison-partner-on-french-data-center-project
+Summary: Orange SA and infrastructure manager Morrison are joining forces to create a data center company in France in an effort to strengthen Europe’s digital sovereignty.
+
+--- STORY 116 ---
+Title: What Is Moonshot AI’s Kimi K3 Model and Why Is It Making Waves?
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 18:38:20 GMT
+Category: AI Models
+URL: https://www.bloomberg.com/news/articles/2026-07-27/what-is-moonshot-ai-s-kimi-k3-model-and-why-is-it-making-waves
+Summary: Chinese startup Moonshot AI’s new artificial-intelligence model has drawn global attention since its release for its powerful capabilities. Now, Moonshot has made the technology available for public download, a step expected to expand the company’s influence at a time when there is growing US concern about China’s rapid strides in AI development.
+
+--- STORY 117 ---
+Title: Samsung Galaxy Z Fold 8 Review: Foldable Model to Compete With Google, Apple
+Source: Bloomberg Tech
+Published: Mon, 27 Jul 2026 10:00:27 GMT
+Category: Apple
+URL: https://www.bloomberg.com/news/features/2026-07-27/samsung-galaxy-z-fold-8-review-foldable-model-to-compete-with-google-apple
+Summary: Between the Fold 8 and Apple’s first folding iPhone, US consumers are about to see a lot more of this shorter, wider shape.
+
+--- STORY 118 ---
+Title: Microsoft touts cost-saving AI model for cybersecurity
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 23:46:25 GMT
+Category: Microsoft
+URL: https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html
+Summary: Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.
+
+--- STORY 119 ---
+Title: Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 23:43:50 GMT
+Category: AI Models
+URL: https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html
+Summary: Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.
+
+--- STORY 120 ---
+Title: Jim Cramer issues a warning to investors trading with borrowed money
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 23:00:02 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html
+Summary: "If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what," said CNBC's Jim Cramer.
+
+--- STORY 121 ---
+Title: Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 22:20:01 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html
+Summary: CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.
+
+--- STORY 122 ---
+Title: Apple ends day as world's most valuable company, passing Nvidia
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 21:12:26 GMT
+Category: Apple
+URL: https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html
+Summary: Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.
+
+--- STORY 123 ---
+Title: Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 19:14:30 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html
+Summary: Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.
+
+--- STORY 124 ---
+Title: Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 21:29:40 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html
+Summary: The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.
+
+--- STORY 125 ---
+Title: Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 19:22:12 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html
+Summary: AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.
+
+--- STORY 126 ---
+Title: Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 17:42:47 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html
+Summary: The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.
+
+--- STORY 127 ---
+Title: NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers
+Source: CNBC Tech
+Published: Mon, 27 Jul 2026 20:10:03 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html
+Summary: Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.
+
+--- STORY 128 ---
+Title: Samsung's reportedly bringing back the trifold experience with a new successor
+Source: Android Police
+Published: Mon, 27 Jul 2026 22:38:53 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/samsung-bringing-back-the-trifold-experience-with-a-new-successor/
+Summary: But how much will it cost?
+
+--- STORY 129 ---
+Title: Forget your PIN? Samsung’s One UI 9 update could factory reset your phone
+Source: Android Police
+Published: Mon, 27 Jul 2026 21:52:22 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/forget-your-pin-samsungs-one-ui-9-update-could-factory-reset-your-phone/
+Summary: One UI 9 locks out devices after 13 failed tries
+
+--- STORY 130 ---
+Title: Halving my screen time transformed my life. [Video]
+Source: Android Police
+Published: Mon, 27 Jul 2026 19:29:34 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/video/halving-my-screen-time-transformed-my-life-video/
+Summary: This changed the game.
+
+--- STORY 131 ---
+Title: YouTube Premium just got a major upgrade with free Peacock access
+Source: Android Police
+Published: Mon, 27 Jul 2026 18:10:56 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/youtube-premium-peacock-premium-feature/
+Summary: A nice added perk
+
+--- STORY 132 ---
+Title: The Galaxy Z Fold 8 won me over in a weekend
+Source: Android Police
+Published: Mon, 27 Jul 2026 16:00:16 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/my-weekend-with-the-galaxy-z-fold-8-showed-samsung-has-a-hit-on-its-hands/
+Summary: People already love this phone
+
+--- STORY 133 ---
+Title: Gemini Skills saved me hours every week by turning my best prompts into templates
+Source: Android Police
+Published: Mon, 27 Jul 2026 12:15:15 GMT
+Category: AI Models
+URL: https://www.androidpolice.com/gemini-skills-chrome-browser/
+Summary: I repeat myself happily now
+
+--- STORY 134 ---
+Title: Dear Google, I promise I don't need 16GB RAM on my next Pixel phone
+Source: Android Police
+Published: Mon, 27 Jul 2026 11:00:16 GMT
+Category: Google
+URL: https://www.androidpolice.com/dear-google-i-dont-need-16gb-ram-on-my-pixel-11/
+Summary: I would gladly trade a fraction of raw speed for a reasonable Pixel 11 price tag
+
+--- STORY 135 ---
+Title: I found more than 10GB of wasted storage on my phone with this free Google app
+Source: Android Police
+Published: Mon, 27 Jul 2026 10:00:15 GMT
+Category: Google
+URL: https://www.androidpolice.com/found-10gb-wasted-storage-on-my-phone-with-this-free-google-app/
+Summary: It does much more than help me find downloads
+
+--- STORY 136 ---
+Title: I finally found a Google Photos alternative worth switching to
+Source: Android Police
+Published: Sun, 26 Jul 2026 15:15:15 GMT
+Category: Google
+URL: https://www.androidpolice.com/i-finally-found-google-photos-alternative-worth-switching-to/
+Summary: It gave me something Google Photos never could
+
+--- STORY 137 ---
+Title: I was drowning in Galaxy notification spam until I turned on this one hidden feature
+Source: Android Police
+Published: Sun, 26 Jul 2026 13:30:15 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/i-was-drowning-galaxy-notification-spam-until-i-turned-on-one-hidden-feature/
+Summary: Notification Categories is a critical tool in reclaiming my Android notifications panel
+
+--- STORY 138 ---
+Title: Razer Seiren V3 Chroma 32‑Bit DSP review: RGB meets real broadcast power — and it actually sounds amazing
+Source: Windows Central
+Published: Mon, 27 Jul 2026 19:30:15 +0000
+Category: Hardware
+URL: https://www.windowscentral.com/accessories/microphones/razer-seiren-v3-chroma-32-bit-dsp-review-2026
+Summary: The new Razer Seiren V3 Chroma 32‑Bit DSP proves RGB can sound as good as it looks. With 32‑bit DSP, smart Synapse tuning, and studio‑grade clarity, it’s a plug‑and‑play powerhouse for streamers and creators. $119.99, three colors, and zero excuses.
+
+--- STORY 139 ---
+Title: Xbox console players now get select Ubisoft PC versions for free via Xbox PC — it's not Xbox Play Anywhere, but hey it's something
+Source: Windows Central
+Published: Mon, 27 Jul 2026 18:03:41 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/xbox-console-players-now-get-select-ubisoft-pc-versions-for-free-via-the-xbox-pc-app
+Summary: Ubisoft+ Classics are available as part of Xbox Game Pass on PC, but the PC versions are trash without cloud saves, Play Anywhere, or Xbox achievements.
+
+--- STORY 140 ---
+Title: I replaced Microsoft Editor with Copilot and Gemini after a month of testing
+Source: Windows Central
+Published: Mon, 27 Jul 2026 16:30:00 +0000
+Category: AI Models
+URL: https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/replaced-microsoft-editor-with-copilot-and-gemini-month-of-testing
+Summary: After a month of proofreading my articles with Copilot and Gemini, both tools consistently outperformed Microsoft Editor. They caught context‑based mistakes, tense issues, and wrong‑word typos that Word missed.
+
+--- STORY 141 ---
+Title: S.T.A.L.K.E.R. 2 has revealed the release date of its first DLC, and "Cost of Hope" is arriving on Xbox and PC sooner than you'd expect
+Source: Windows Central
+Published: Mon, 27 Jul 2026 13:00:00 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/s-t-a-l-k-e-r-2-expansion-arriving-on-xbox-pc-sooner-than-expected
+Summary: GSC Game World has announced that its open-world survival game, S.T.A.L.K.E.R. 2: Heart of Chornobyl, will launch its first DLC expansion on August 20, 2026, for PC, Xbox Series X|S, and PlayStation 5, along with a free 2.0 update.
+
+--- STORY 142 ---
+Title: The Windows Central Podcast discusses backward compatible Xbox games on Windows, LG forcing McAfee adware on PCs, and Samsung's new folding phones
+Source: Windows Central
+Published: Mon, 27 Jul 2026 12:22:21 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/the-windows-central-podcast-discusses-backward-compatible-xbox-games-on-windows-lg-forcing-mcafee-adware-on-pcs-and-samsungs-new-folding-phones
+Summary: On this week's episode: Daniel Rubino and Jez Corden discuss the recent announcements around Xbox backward compatibility, Windows adware, and Samsung foldables.
+
+--- STORY 143 ---
+Title: XBOX is "making progress" on a recovery of its live services; Here's the latest as of 5:55 PM ET
+Source: Windows Central
+Published: Mon, 27 Jul 2026 11:25:25 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/its-not-just-you-xbox-is-down-for-everyone-right-now
+Summary: Xbox has announced that it is aware that people are encountering errors that are preventing them from logging into Xbox Live, cutting off access to their Xbox game library in the process. So Xbox has dispatched engineers to fix it.
+
+--- STORY 144 ---
+Title: The HyperX OMEN 15 gaming laptop crushed Cyberpunk 2077 in my testing, but a surprise $700 price cut exposes the catch
+Source: Windows Central
+Published: Mon, 27 Jul 2026 10:00:00 +0000
+Category: Cybersecurity
+URL: https://www.windowscentral.com/hardware/hp/hyperx-omen-15-intel-2026-review
+Summary: NVIDIA's DLSS keeps the RTX 5070 competitive in this HyperX OMEN 15 laptop, but OLED stands out as the killer visual feature — if you can live with the noise.
+
+--- STORY 145 ---
+Title: PlayStation makes a mockery of Xbox's multi-plat push by dropping God of War one day before Fable — Microsoft is helping advertise the fact PS5 has more content.
+Source: Windows Central
+Published: Mon, 27 Jul 2026 09:00:00 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/playstation-makes-a-mockery-of-xboxs-multi-plat-push-by-dropping-god-of-war-one-day-before-fable
+Summary: Microsoft's lack of faith in its own platforms gets a shiny new spotlight in February 2027, as Sony confirms a tentpole exclusive will go head to head with Xbox's own contribution to PS5.
+
+--- STORY 146 ---
+Title: Everything we know so far about Windows 11’s big 2026 (26H2) update arriving this fall, including changes for Start menu, Taskbar, and Search
+Source: Windows Central
+Published: Sun, 26 Jul 2026 14:39:08 +0000
+Category: Google
+URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-2026-update-26h2-changes-for-start-menu-taskbar-and-search
+Summary: Windows 11’s big 2026 update, arriving this fall as version 26H2, brings a wide range of improvements across Start, Taskbar, Search, File Explorer, Widgets, accessibility, and system recovery. Microsoft is packaging months of feature rollouts into one major release, and this guide covers everything confirmed so far — from UI refinements to deeper Copilot integration and new quality‑of‑life tools.
+
+--- STORY 147 ---
+Title: LG’s McAfee adware proves why Microsoft needs to assume the worst of companies and protect Windows 11
+Source: Windows Central
+Published: Sun, 26 Jul 2026 13:00:00 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/windows-11/lgs-mcafee-adware-proves-why-microsoft-needs-to-assume-the-worst-of-companies-and-protect-windows-11
+Summary: LG faced backlash after an investigation showed its monitor setup software was pushing McAfee ads to Windows 11 PCs. While Microsoft stepped in to stop the ads, the incident highlights why the OS needs stricter controls on automatic app installations.
+
+--- STORY 148 ---
+Title: Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships
+Source: MacRumors
+Published: Mon, 27 Jul 2026 15:48:41 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/mac-roadmap-2026/
+Summary: A shortage of memory chips has impacted the entire computer market, affecting Macs and PCs alike. Apple and other companies have raised prices, but Apple is better positioned than its competitors. Machines like the Mac mini and the Mac Studio are in demand for on-device AI agent use, and Apple plans to take advantage by <a href="https://www.macrumors.com/2026/07/22/apple-to-overh
+
+--- STORY 149 ---
+Title: Apple on Verge of Becoming $5 Trillion Company
+Source: MacRumors
+Published: Mon, 27 Jul 2026 13:10:17 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/
+Summary: Apple is on the verge of becoming a $5 trillion company based on market capitalization, which is the total value of all of the company's outstanding shares. Apple's stock closed at $336.91 today, up around 22.5% since late June. The company's market cap is now around $4.94 trillion, although
+
+--- STORY 150 ---
+Title: Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws
+Source: MacRumors
+Published: Mon, 27 Jul 2026 11:55:46 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/
+Summary: Apple today released iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6, all of which have a long list of security fixes. iOS 26.6 and iPadOS 26.6 address almost 90 security vulnerabilities affecting everything from the <a href="
+
+--- STORY 151 ---
+Title: Amazon Files for 5,105-Satellite Network That Will Power iPhone Satellite Features
+Source: MacRumors
+Published: Mon, 27 Jul 2026 11:12:03 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/
+Summary: Amazon is planning to deploy up to 5,105 low Earth orbit satellites that will use Globalstar spectrum to provide voice, data, messaging, and emergency services to devices like the iPhone. Amazon's project is expected to improve existing iPhone satellite features and support new features. <img alt="" class="aligncenter size-full wp-image-977666" height="1166" src="https
+
+--- STORY 152 ---
+Title: Apple Releases macOS Tahoe 26.6
+Source: MacRumors
+Published: Mon, 27 Jul 2026 10:48:57 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/
+Summary: Apple today released macOS Tahoe 26.6, a small update to the ‌macOS Tahoe‌ operating system that came out last year. ‌macOS Tahoe‌ 26.6 comes a month after Apple released macOS Tahoe 26.5.2 . <img alt="" class="aligncenter size-full wp-image-1005103" height="1406" src="https://images.macrumors.com/article-new/2025/06/mac
+
+--- STORY 153 ---
+Title: Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations
+Source: MacRumors
+Published: Mon, 27 Jul 2026 10:27:12 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/
+Summary: Apple today released iOS 26.6 and iPadOS 26.6, updates to the iOS and iPadOS 26 operating systems that came out in September. iOS 26.6 comes a month after the launch of iOS 26.5.2 , a security update. <img alt="" class="aligncenter size-full wp-image-1047679" height="1406" src="https://images.macrumors.com/article-new/2026/05/i
+
+--- STORY 154 ---
+Title: Apple Releases watchOS 26.6 With Security Updates
+Source: MacRumors
+Published: Mon, 27 Jul 2026 10:25:25 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/apple-releases-watchos-26-6-with-security-updates/
+Summary: Apple today released watchOS 26.6, the sixth update to the watchOS 26 operating system that came out in September. watchOS 26.6 comes over two months after Apple released watchOS 26.5 . <img alt="" class="aligncenter size-full wp-image-1007304" height="900" src="https://images.macrumors.com/article-new/2025/06/watchos-26-gradient-light.jpg" wid
+
+--- STORY 155 ---
+Title: Apple Releases tvOS 26.6
+Source: MacRumors
+Published: Mon, 27 Jul 2026 10:24:20 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/apple-releases-tvos-26-6/
+Summary: Apple today released tvOS 26.6, the sixth update to the tvOS operating system that came out last fall. tvOS 26.6 is available for the Apple TV 4K, and it comes two months after Apple released tvOS 26.5 . <img alt="" class="aligncenter size-full wp-image-1003300" height="1406" src="https://images.macrumors.com/article-new/2025/05/tvOS-26-Feature.jpg"
+
+--- STORY 156 ---
+Title: Apple Releases visionOS 26.6
+Source: MacRumors
+Published: Mon, 27 Jul 2026 10:23:02 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/apple-releases-visionos-26-6/
+Summary: Apple today released visionOS 26.6, the sixth update to the visionOS 26 operating system that launched in September. visionOS 26.6 comes over two months after Apple released visionOS 26.5 . ‌visionOS 26‌.6 can be downloaded on all
+
+--- STORY 157 ---
+Title: Pocket Casts Now Available on Apple TV
+Source: MacRumors
+Published: Mon, 27 Jul 2026 08:58:54 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/pocket-casts-apple-tv/
+Summary: Starting today, the popular podcast platform Pocket Casts is available on all Apple TV 4K and Apple TV HD models. The app was already available on the iPhone, iPad, and Apple Watch. "Your podcasts, your Up Next, your place in every epis
+
+--- STORY 158 ---
+Title: MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 19:47:49 +0000
+Category: China Tech
+URL: https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way
+Summary: GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-end.
+
+--- STORY 159 ---
+Title: OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 19:03:47 +0000
+Category: AI Models
+URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach
+Summary: Industry leading tech companies have formed an "Open Secure AI Alliance" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model safeguards reportedly obstructed analysis of the OpenAI–Hugging Face breach.
+
+--- STORY 160 ---
+Title: Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic — open-weight model performs almost as well as frontier models while being 2-3x easier to run
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 18:40:58 +0000
+Category: AI Models
+URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run
+Summary: Moonshot AI has released the weights for its recent Kimi-K3 model, directly going against OpenAI and Anthropic.
+
+--- STORY 161 ---
+Title: China begins mass production of homegrown immersion chipmaking machines in major breakthrough, report claims — first DUV lithography units will be delivered this year to SMIC, Hua Hong, and CXMT
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 16:51:35 +0000
+Category: Apple
+URL: https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines
+Summary: A state-backed company in Shanghai has begun mass-producing immersion deep ultraviolet lithography machines and is due to deliver the first units this year.
+
+--- STORY 162 ---
+Title: Why an MMO mouse isn’t just for gaming — make use of the myriad of buttons for enhancing your productivity workflows in popular software applications
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 15:39:54 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications
+Summary: MMO mice are designed with many buttons to make it easier to play games with lots of spells and abilities, but MMO mice are also fantastic for automating your productivity workflows.
+
+--- STORY 163 ---
+Title: Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 15:04:32 +0000
+Category: Regulation
+URL: https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd
+Summary: I go through the steps of replacing the standard 1TB SSD in an MSI Claw 8 EX AI+ with a 2TB SSD.
+
+--- STORY 164 ---
+Title: Intel unveiled its iconic Core 2 Duo family 20 years ago — legendary chip dethroned AMD Athlon, restoring the chipmaker’s performance lead
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 15:01:11 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead
+Summary: Today marks 20 years since the first raft of Intel Core 2 Duo processors, codename Conroe, was launched.
+
+--- STORY 165 ---
+Title: Framework Laptop 13 Pro review: It cleans up nice
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 15:00:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/laptops/framework-laptop-13-pro-review
+Summary: The Framework Laptop 13 Pro is its most solidly built laptop ever, with a bright display and long battery life sweetening the deal — if you can afford it.
+
+--- STORY 166 ---
+Title: Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 13:34:28 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus
+Summary: OpenAI is in advanced talks to lease SB Energy's 10 GW data center campus in Piketon, Ohio, with Nvidia in discussions to guarantee roughly $250 billion of the financing behind it.
+
+--- STORY 167 ---
+Title: AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller — uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory
+Source: Tom's Hardware
+Published: Mon, 27 Jul 2026 13:07:53 +0000
+Category: Google
+URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory
+Summary: Getting a local language model running on a sub-$10 microcontroller is impressive despite its obvious limitations.
+
+--- STORY 168 ---
+Title: Hackers target US firms in FastJson RCE zero-day attacks
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 19:49:44 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/
+Summary: Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]
+
+--- STORY 169 ---
+Title: Arista patches VeloCloud Orchestrator zero-day exploited in attacks
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 18:49:44 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/
+Summary: Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]
+
+--- STORY 170 ---
+Title: New Dysphoria DDoS botnet spreads to 200k devices worldwide
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 17:08:15 -0400
+Category: Hardware
+URL: https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/
+Summary: A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]
+
+--- STORY 171 ---
+Title: New Certighost PoC exploit lets attackers hijack Windows domains
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 17:00:25 -0400
+Category: Microsoft
+URL: https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/
+Summary: A proof-of-concept exploit for "Certighost," a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]
+
+--- STORY 172 ---
+Title: Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 13:29:07 -0400
+Category: Apple
+URL: https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/
+Summary: Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]
+
+--- STORY 173 ---
+Title: Coca-Cola confirms data theft in Fairlife ransomware attack
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 11:39:51 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/
+Summary: The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]
+
+--- STORY 174 ---
+Title: Ernst & Young data breach claimed by ShinyHunters extortion gang
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 11:12:27 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/
+Summary: The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]
+
+--- STORY 175 ---
+Title: Shadow AI agents are multiplying. Here's how to find and secure them.
+Source: BleepingComputer
+Published: Mon, 27 Jul 2026 10:01:11 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/
+Summary: Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]
+
+--- STORY 176 ---
+Title: GitHub, PyPI add time-based defenses against supply chain attacks
+Source: BleepingComputer
+Published: Sun, 26 Jul 2026 10:13:39 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/
+Summary: GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]
+
+--- STORY 177 ---
+Title: Steam forum ClickFix attacks infect gamers with XMRig cryptominers
+Source: BleepingComputer
+Published: Sat, 25 Jul 2026 18:37:47 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/
+Summary: Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]
+
+--- STORY 178 ---
+Title: Kimi-K3 on HuggingFace
+Source: Hacker News
+Published: 2026-07-27T06:18:10Z
+Category: AI Models
+URL: https://huggingface.co/moonshotai/Kimi-K3
+Summary: Points: 1301, Comments: 514
+
+--- STORY 179 ---
+Title: PGSimCity - How PostgreSQL Works
+Source: Hacker News
+Published: 2026-07-27T00:19:04Z
+Category: General Tech
+URL: https://nikolays.github.io/PGSimCity/
+Summary: Points: 884, Comments: 86
+
+--- STORY 180 ---
+Title: AI companies are shredding rare books
+Source: Hacker News
+Published: 2026-07-27T12:32:12Z
+Category: General Tech
+URL: https://twitter.com/HedgieMarkets/status/2081534588485296565
+Summary: Points: 730, Comments: 462
+
+--- STORY 181 ---
+Title: How is the Bun rewrite in Rust going?
+Source: Hacker News
+Published: 2026-07-27T11:12:26Z
+Category: General Tech
+URL: https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
+Summary: Points: 446, Comments: 339
+
+--- STORY 182 ---
+Title: Kimi-K3 Technical Report [pdf]
+Source: Hacker News
+Published: 2026-07-27T15:23:45Z
+Category: AI Models
+URL: https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf
+Summary: Points: 361, Comments: 162
+
+--- STORY 183 ---
+Title: Our position on open-weights models
+Source: Hacker News
+Published: 2026-07-27T22:03:49Z
+Category: General Tech
+URL: https://www.anthropic.com/news/position-open-weights-models
+Summary: Points: 320, Comments: 379
+
+--- STORY 184 ---
+Title: Decathlon Germany adds Wero payment option to decathlon.de website
+Source: Hacker News
+Published: 2026-07-27T16:49:08Z
+Category: General Tech
+URL: https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article
+Summary: Points: 296, Comments: 207
+
+--- STORY 185 ---
+Title: AI companies spend record sums on Washington lobbying
+Source: Hacker News
+Published: 2026-07-27T14:07:48Z
+Category: General Tech
+URL: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db
+Summary: Points: 249, Comments: 139
+
+--- STORY 186 ---
+Title: Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped
+Source: Hacker News
+Published: 2026-07-27T18:15:35Z
+Category: Google
+URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/
+Summary: Points: 235, Comments: 91
+
+--- STORY 187 ---
+Title: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts
+Source: Hacker News
+Published: 2026-07-27T14:42:41Z
+Category: Apple
+URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/
+Summary: Points: 231, Comments: 303
+
+--- STORY 188 ---
+Title: Canceling "Hey"
+Source: Hacker News
+Published: 2026-07-27T17:37:02Z
+Category: General Tech
+URL: https://chadnauseam.com/random/cancelling-my-hey
+Summary: Points: 231, Comments: 208
+
+--- STORY 189 ---
+Title: Should you wash your solar panels?
+Source: Hacker News
+Published: 2026-07-27T13:04:11Z
+Category: General Tech
+URL: https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html
+Summary: Points: 220, Comments: 222
+
+--- STORY 190 ---
+Title: Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)
+Source: Hacker News
+Published: 2026-07-27T09:58:50Z
+Category: General Tech
+URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+Summary: Points: 214, Comments: 154
+
+--- STORY 191 ---
+Title: MAI-Cyber-1-Flash inside MDASH
+Source: Hacker News
+Published: 2026-07-27T16:52:22Z
+Category: Cybersecurity
+URL: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
+Summary: Points: 212, Comments: 108
+
+--- STORY 192 ---
+Title: Chinese chipmaker shares surge 470%
+Source: Hacker News
+Published: 2026-07-27T09:11:59Z
+Category: Hardware
+URL: https://www.bbc.com/news/articles/c9q9w3x9qn2o
+Summary: Points: 202, Comments: 174
+
+--- STORY 193 ---
+Title: Why I Left Google DeepMind
+Source: Hacker News
+Published: 2026-07-27T09:56:37Z
+Category: Google
+URL: https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind
+Summary: Points: 177, Comments: 52
+
+--- STORY 194 ---
+Title: Libsm64: Mario 64 as a library for use in external game engines
+Source: Hacker News
+Published: 2026-07-27T10:04:48Z
+Category: General Tech
+URL: https://github.com/libsm64/libsm64
+Summary: Points: 177, Comments: 21
+
+--- STORY 195 ---
+Title: Modern email can be built from borrowed parts
+Source: Hacker News
+Published: 2026-07-27T08:27:21Z
+Category: General Tech
+URL: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+Summary: Points: 170, Comments: 104
+
+--- STORY 196 ---
+Title: Paged Out #9 [pdf]
+Source: Hacker News
+Published: 2026-07-27T14:22:34Z
+Category: General Tech
+URL: https://pagedout.institute/download/PagedOut_009.pdf
+Summary: Points: 165, Comments: 20
+
+--- STORY 197 ---
+Title: VLC for Unity now supported on Linux
+Source: Hacker News
+Published: 2026-07-27T09:06:34Z
+Category: General Tech
+URL: https://code.videolan.org/videolan/vlc-unity
+Summary: Points: 148, Comments: 45
