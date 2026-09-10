@@ -1,0 +1,1514 @@
+# Raw Tech News - 2026-09-10 10:42:59
+Total Stories: 189
+
+--- STORY 1 ---
+Title: AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
+Source: TechCrunch
+Published: Thu, 10 Sep 2026 00:00:37 +0000
+Category: Google
+URL: https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/
+Summary: Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.
+
+--- STORY 2 ---
+Title: Automattic’s board forces CEO Matt Mullenweg into leave of absence
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 23:14:29 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
+Summary: Mullenweg said in a company Slack message that it was against his will.
+
+--- STORY 3 ---
+Title: OpenAI adds a prominent AI doomer to its board of directors
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 22:25:22 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/
+Summary: Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.
+
+--- STORY 4 ---
+Title: Massachusetts hits data centers with new clean power rules
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 21:43:34 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/
+Summary: Massachusetts has become the third state in as many months to slap new restrictions on data center development.
+
+--- STORY 5 ---
+Title: Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 20:58:09 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/
+Summary: John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.
+
+--- STORY 6 ---
+Title: Apple Watch’s new AI features are normalizing the idea that technology is always listening
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 20:24:48 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/
+Summary: Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.
+
+--- STORY 7 ---
+Title: Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 20:03:43 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/
+Summary: The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.
+
+--- STORY 8 ---
+Title: There are new shiny iPhones, so Apple is making you pay more for older models
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 19:56:18 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/
+Summary: Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.
+
+--- STORY 9 ---
+Title: The hinge for Apple’s new foldable phone was built with AI
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 19:21:48 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/
+Summary: Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.
+
+--- STORY 10 ---
+Title: Apple Watch’s new feature listens to your chats and recaps them
+Source: TechCrunch
+Published: Wed, 09 Sep 2026 19:08:59 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/
+Summary: The Siri Recap feature is similar to other note-taking apps like Granola.
+
+--- STORY 11 ---
+Title: The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera
+Source: The Verge
+Published: Thu, 10 Sep 2026 06:00:00 -0400
+Category: Apple
+URL: https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography
+Summary: The new f/1.48 lens is.
+
+--- STORY 12 ---
+Title: The Trump phone just got a $250 price hike
+Source: The Verge
+Published: Thu, 10 Sep 2026 05:13:04 -0400
+Category: General Tech
+URL: https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike
+Summary: Even the Trumps can’t escape RAMageddon.﻿
+
+--- STORY 13 ---
+Title: Nintendo’s latest Switch 2 update adds VRR support in TV mode
+Source: The Verge
+Published: Thu, 10 Sep 2026 05:07:00 -0400
+Category: General Tech
+URL: https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update
+Summary: The latest firmware also enables Switch 2 system transfers just in time for the Zelda-themed Switch 2.
+
+--- STORY 14 ---
+Title: Xbox picks up Kojima’s Physint after PlayStation dropped it
+Source: The Verge
+Published: Thu, 10 Sep 2026 04:22:40 -0400
+Category: Microsoft
+URL: https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox
+Summary: Physint is Xbox’s second upcoming Kojima Productions game, joining OD.
+
+--- STORY 15 ---
+Title: Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI
+Source: The Verge
+Published: Thu, 10 Sep 2026 03:00:00 -0400
+Category: AI Models
+URL: https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini
+Summary: The plug-in hybrid version of Volvo’s small SUV is making a comeback.
+
+--- STORY 16 ---
+Title: There aren’t AirPods with cameras yet and I hope it stays that way
+Source: The Verge
+Published: Wed, 09 Sep 2026 19:00:04 -0400
+Category: General Tech
+URL: https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event
+Summary: ﻿Cameras don’t need to be put in absolutely every product.
+
+--- STORY 17 ---
+Title: The black iPhone Pro returns
+Source: The Verge
+Published: Wed, 09 Sep 2026 18:37:51 -0400
+Category: Apple
+URL: https://www.theverge.com/tech/993048/iphone-18-pro-black-color
+Summary: The iPhone 18 Pro comes in four good colors, but there’s only one I care about: black.
+
+--- STORY 18 ---
+Title: The incomplete history of Duo devices
+Source: The Verge
+Published: Wed, 09 Sep 2026 18:23:35 -0400
+Category: Hardware
+URL: https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices
+Summary: ﻿Even Apple itself has a history of products called the Duo.
+
+--- STORY 19 ---
+Title: Automattic CEO Matt Mullenweg placed on leave
+Source: The Verge
+Published: Wed, 09 Sep 2026 18:15:52 -0400
+Category: General Tech
+URL: https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence
+Summary: Mullenweg claims Automattic’s CFO ‘conspired’ with board members to put him on a leave of absence, 404 Media reports.
+
+--- STORY 20 ---
+Title: It’s the year of smartphone price hikes
+Source: The Verge
+Published: Wed, 09 Sep 2026 17:52:43 -0400
+Category: General Tech
+URL: https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro
+Summary: Apple, Google, and Samsung’s new phones have two things in common: They include a foldable and they cost more.
+
+--- STORY 21 ---
+Title: How to fast charge iPhone 18 Pro
+Source: 9to5Mac
+Published: Thu, 10 Sep 2026 10:36:47 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/10/how-to-fast-charge-iphone-18-pro/
+Summary: The new iPhone 18 Pro has much better battery life than its predecessors, but it also has even faster wired charging. To fast charge the new iPhone, Apple say
+
+--- STORY 22 ---
+Title: 9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here
+Source: 9to5Mac
+Published: Thu, 10 Sep 2026 05:37:31 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/
+Summary: Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , <a href="http
+
+--- STORY 23 ---
+Title: Hands-on with the foldable iPhone Duo [Gallery]
+Source: 9to5Mac
+Published: Thu, 10 Sep 2026 00:48:10 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/hands-on-with-the-foldable-iphone-duo-gallery/
+Summary: Apple unveiled the highly anticipated iPhone Duo today, its first-ever foldable iPhone. I spent a quick few minutes with the device after it was announced, here’s what it looks like in the real world. <a class="more-link" href
+
+--- STORY 24 ---
+Title: Apple launches iPhone Duo developer resources ahead of October release
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 23:09:19 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/apple-launches-iphone-duo-developer-resources-ahead-of-october-release/
+Summary: Following today’s announcement of the iPhone Duo, Apple has launched a new set of resources to help developers prepare their apps for the company’s first foldable iPhone. Here are the details. <a class="more-link" href="https://9to5mac.com/2026/09/09/apple-launches-iphone-duo-developer-resources-ahea
+
+--- STORY 25 ---
+Title: Apple updates Design Resources with iPhone Duo and iPhone 18 Pro product bezels
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 21:54:16 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/apple-updates-design-resources-with-iphone-duo-and-iphone-18-pro-product-bezels/
+Summary: Following today’s “Surprise and Shine” event, Apple has now updated its official Design Resources portal with new product bezels for the iPhone Duo and iPhone 18 Pro. Here are the details. <a class="more-link" href="https://9to5mac.com/2026/09/09/apple-updates-design-resources-with-iphone-duo-and-iphone
+
+--- STORY 26 ---
+Title: Hands-on with Siri Modular, watchOS 27’s new Apple Watch face
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 21:40:39 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/hands-on-with-siri-modular-watchos-27s-new-apple-watch-face/
+Summary: watchOS 27 includes one new watch face: Siri Modular. The new face is available on both Apple Watch Series and Ultra models. However, the version on Ultra has a few more customization options. Check it out. <a class="more-link" href="https://9to5mac.com/2026/09/09/hands-on-with-siri-modular-watchos-27s-new-apple-watch-face/#mo
+
+--- STORY 27 ---
+Title: Apple shares more details about Apple Intelligence usage limits and terms
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 21:27:07 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/
+Summary: Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions. Here’s what the company says. <a class="more-link" href="https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-ter
+
+--- STORY 28 ---
+Title: iPhone 18 Pro Max vs iPhone 18 Pro: Two exclusive features
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 21:02:24 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/iphone-18-pro-max-vs-iphone-18-pro-two-exclusive-features/
+Summary: Today Apple introduced iPhone 18 Pro and Pro Max, its latest flagship models. While each Pro model is largely identical, there are two exclusive new advantages—one for each model. <a class="mor
+
+--- STORY 29 ---
+Title: Download the new iPhone 18 Pro wallpapers here
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 21:01:33 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/download-the-new-iphone-18-pro-wallpapers-here/
+Summary: If you like the new wallpapers Apple created for the iPhone 18 Pro and iPhone 18 Pro Max, you don’t need to buy a new iPhone to get them. You can download them right here. more…
+
+--- STORY 30 ---
+Title: iPhone Duo: Here are all the little details you might have missed
+Source: 9to5Mac
+Published: Wed, 09 Sep 2026 20:46:36 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/09/iphone-duo-here-are-all-the-little-details-you-might-have-missed/
+Summary: iPhone Duo is the name of Apple’s new foldable model , and it’s perhaps the most fascinating new model since the original iPhone. Here are all the little iPhone Duo details you might have missed. <a class="more-link" hr
+
+--- STORY 31 ---
+Title: Apple made fun of Android apps on foldables, but iPhone Duo has the same problem [Gallery]
+Source: 9to5Google
+Published: Thu, 10 Sep 2026 00:15:00 +0000
+Category: Apple
+URL: https://9to5google.com/2026/09/09/apple-iphone-duo-foldable-apps-android/
+Summary: Apps have always been a problem for foldable displays and, while they’ve gotten a lot better, there’s always room for improvement. Apple was already going to hold an advantage here, as we’ve previously discussed, but a moment during the iPhone Duo’s unveiling sticks out – Apple made fun of how
+
+--- STORY 32 ---
+Title: Google Pixel Tablet has been discontinued, out of stock everywhere
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 22:15:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/09/google-pixel-tablet-discontinued/
+Summary: The Pixel Tablet is done, as Google has officially pulled the plug on the slate by entirely deleting the listing on its store. more…
+
+--- STORY 33 ---
+Title: iPhone Duo hands-on videos reveal Android foldable pain points we know too well
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 22:10:00 +0000
+Category: Apple
+URL: https://9to5google.com/2026/09/09/iphone-duo-hands-on-reveals-crease-and-camera/
+Summary: Apple has a track record of waiting until the kinks get worked out before it tries its own hand at new devices, but hands-on videos of the iPhone Duo are already starting to show that Apple suffers from some of the same pain points other manufacturers like Samsung do, like the beloved screen crease.
+
+--- STORY 34 ---
+Title: Google upgrades all Gemini side panels in Workspace to have the same features
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 20:55:28 +0000
+Category: AI Models
+URL: https://9to5google.com/2026/09/09/gemini-workspace-side-panel-upgrade/
+Summary: Gemini in Google Workspace can now “complete complex, cross-app tasks” from whatever app you’re working in. <a class="more-l
+
+--- STORY 35 ---
+Title: Motorola teases wide Razr Fold as its ‘next move’ in response to iPhone Duo debut
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 20:51:33 +0000
+Category: Apple
+URL: https://9to5google.com/2026/09/09/motorola-responds-to-iphone-deuo-with-foldable-teaser/
+Summary: Apple’s iPhone Duo announcement has triggered a couple of companies, and it’s apparently warranted at least one teaser for even more foldables. This one seems to be a wide version of the Motorola Razr Fold. <
+
+--- STORY 36 ---
+Title: iPhone Duo is thicker and heavier than basically every Android foldable
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 20:43:00 +0000
+Category: Apple
+URL: https://9to5google.com/2026/09/09/iphone-duo-thicker-and-heavier-than-basically-every-android-foldable/
+Summary: The days of foldables being an Android-only experience are over . The iPhone Duo is set to arrive next month for a relatively-competitive $2,000 price point, and it seems like Apple’s decisi
+
+--- STORY 37 ---
+Title: Pixel 11 gets early September update, not Android 17 QPR1 [U: OTA images]
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 19:43:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/09/pixel-11-september-update-early/
+Summary: We’re expecting the stable release of Android 17 QPR1 in September. Before that, Google is rolling out an out-of-cycle update to the Pixel 11 series with a September 2026 security patch. <a class="more-link" href="https://9to5google.com/2026/09/09/pixel-11-september-update-early/#more
+
+--- STORY 38 ---
+Title: Samsung reacts to Apple’s foldable iPhone Duo; ‘reheating our leftovers’
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 19:30:00 +0000
+Category: Apple
+URL: https://9to5google.com/2026/09/09/samsung-apple-iphone-duo-reaction/
+Summary: Samsung is apparently of two minds when it comes to reacting to Apple’s first foldable device, with some interesting reactions to the iPhone Duo’s unveiling, calling the device “a Sims sequel” and “reheating our leftovers.” <a class="more-link" href="https://9to5google.com/2026/09/09/samsu
+
+--- STORY 39 ---
+Title: Apple’s iPhone Duo foldable has the same IP68 protection as Pixel Fold – temporary
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 19:05:00 +0000
+Category: Apple
+URL: https://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/
+Summary: Apple did the thing. The first foldable iPhone has arrived with the new iPhone Duo delivering a pretty compelling package for interested foldable customers who don’t want to give up on iOS. It also addresses a durability gap that few others have managed with IP68 protection but, like Pixel 11 Pro
+
+--- STORY 40 ---
+Title: Mid-week Android app deals and freebies: Loads of Final Fantasy games, Secret of Mana, more
+Source: 9to5Google
+Published: Wed, 09 Sep 2026 18:37:06 +0000
+Category: Google
+URL: https://9to5toys.com/2026/09/09/todays-highlight-google-play-deals-3/
+Summary: The mid-week Google Play app and game deals are ready, and loaded with plenty of Square Enix classics. Highlights include CHRONO TRIGGER, Secret of Mana, Legend of Mana, Actraiser Renaissance, COLLECTION of SaGa FF LEGEND, FINAL FANTASY VII, Trials of Mana, Adventures of Mana, Romancing SaGa3, CHAOS RINGS Ⅲ, and more. We also ha
+
+--- STORY 41 ---
+Title: 4 groups caught using the same Chrome and Windows exploit kit
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 20:55:02 +0000
+Category: Google
+URL: https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/
+Summary: A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.
+
+--- STORY 42 ---
+Title: Europe may finally have found a space entrepreneur who is meeting the moment
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 20:27:40 +0000
+Category: Regulation
+URL: https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/
+Summary: "We will not be relevant without a massive rocket at a massive cadence."
+
+--- STORY 43 ---
+Title: Six Chinese AI firms accused of aggressively copying US frontier models
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 20:06:28 +0000
+Category: General Tech
+URL: https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/
+Summary: US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.
+
+--- STORY 44 ---
+Title: Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 19:42:00 +0000
+Category: Apple
+URL: https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/
+Summary: Apple's first foldable can be yours next month.
+
+--- STORY 45 ---
+Title: When it comes to Beatles references, scientists can't let it be
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 19:31:55 +0000
+Category: General Tech
+URL: https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/
+Summary: New study detects 3,200 references to Beatles song titles and lyrics in academic papers.
+
+--- STORY 46 ---
+Title: Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 19:09:20 +0000
+Category: Regulation
+URL: https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/
+Summary: Four women sue Amazon, say company denied basic accommodations and fired them.
+
+--- STORY 47 ---
+Title: Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 18:58:24 +0000
+Category: Apple
+URL: https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/
+Summary: AirPods 5 with noise cancellation is cheaper than its predecessor.
+
+--- STORY 48 ---
+Title: Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 18:47:07 +0000
+Category: Apple
+URL: https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/
+Summary: New Apple Intelligence features, too.
+
+--- STORY 49 ---
+Title: The quick guide to fall vaccines and when you should get them
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 18:39:36 +0000
+Category: General Tech
+URL: https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/
+Summary: Here are the evidence-based recommendations and this year's vaccine rollout.
+
+--- STORY 50 ---
+Title: Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip
+Source: Ars Technica
+Published: Wed, 09 Sep 2026 17:38:53 +0000
+Category: Apple
+URL: https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/
+Summary: There's also a new thermal management system, reducing overheating.
+
+--- STORY 51 ---
+Title: 9 Windows Laptops That Give MacBooks a Run for Their Money
+Source: Wired
+Published: Thu, 10 Sep 2026 10:30:00 +0000
+Category: Apple
+URL: https://www.wired.com/gallery/best-windows-laptops/
+Summary: Windows laptops have never been so good, and they’re only going to get better as we move through 2026.
+
+--- STORY 52 ---
+Title: Everything New You Can Do With Siri AI
+Source: Wired
+Published: Thu, 10 Sep 2026 10:30:00 +0000
+Category: Apple
+URL: https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/
+Summary: When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.
+
+--- STORY 53 ---
+Title: Imagining a Future Where a Spy Could Disappear
+Source: Wired
+Published: Thu, 10 Sep 2026 10:15:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/
+Summary: In Emily St. John Mandel’s new novel Exit Party, becoming a “ghost” means running afoul of the state. In this excerpt, a secret agent discovers it doesn’t take much.
+
+--- STORY 54 ---
+Title: Vari Electric Standing Desk Review (2026): Form and Value
+Source: Wired
+Published: Thu, 10 Sep 2026 10:05:00 +0000
+Category: Hardware
+URL: https://www.wired.com/review/vari-ergo-electric-standing-desk/
+Summary: The Vari Ergo electric standing desk is compact, easy to assemble, affordable, and gently sloped to fit my natural posture and shape.
+
+--- STORY 55 ---
+Title: Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online
+Source: Wired
+Published: Thu, 10 Sep 2026 10:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/
+Summary: InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.
+
+--- STORY 56 ---
+Title: A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn
+Source: Wired
+Published: Thu, 10 Sep 2026 09:45:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking/
+Summary: Despite the many health risks, sexual strangulation has become popular among young people—with some experts blaming adult content for normalizing it.
+
+--- STORY 57 ---
+Title: Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby
+Source: Wired
+Published: Thu, 10 Sep 2026 09:30:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/user-behavior-mina-kimes/
+Summary: “I think that's been the most helpful thing,” says the ESPN journalist. “So there you go, Zoomers. There's a reason to have children.”
+
+--- STORY 58 ---
+Title: A Satellite Falling Out of Orbit Embarks on Its Final Mission
+Source: Wired
+Published: Thu, 10 Sep 2026 09:15:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/
+Summary: Before reentering our atmosphere, the telescopes onboard NASA’s Neil Gehrels Swift Observatory have been restarted to take their last observations.
+
+--- STORY 59 ---
+Title: Our Favorite GoPro 360 Camera Is Now 40 Percent Off
+Source: Wired
+Published: Thu, 10 Sep 2026 09:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/gopro-max-2-deal-september-2026/
+Summary: The GoPro Max 2 is almost half off at Amazon and other retailers, along with other great action camera deals.
+
+--- STORY 60 ---
+Title: Trump Probably Won't Give $5,000 to Every American if Republicans Win the Midterms
+Source: Wired
+Published: Thu, 10 Sep 2026 06:30:32 +0000
+Category: Hardware
+URL: https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/
+Summary: The eyebrow-raising proposal, delivered during the president’s speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.
+
+--- STORY 61 ---
+Title: AppleCare One now has a $50 tier per month for families
+Source: Engadget
+Published: Thu, 10 Sep 2026 09:50:29 +0000
+Category: Apple
+URL: https://www.engadget.com/2254544/applecare-one-50-monthly-tier-families/
+Summary: AppleCareOne Family insurance will cover all eligible devices for up to six members.
+
+--- STORY 62 ---
+Title: 2028 Volvo XC40 First Look: Hello new tech, goodbye EV
+Source: Engadget
+Published: Thu, 10 Sep 2026 07:00:00 +0000
+Category: Hardware
+URL: https://www.engadget.com/2252476/2028-volvo-xc40-first-look/
+Summary: Volvo refreshed the XC40, but it's sadly doing away with the all-electric EX40 in the US.
+
+--- STORY 63 ---
+Title: Google has removed the Pixel Tablet from its store
+Source: Engadget
+Published: Thu, 10 Sep 2026 06:11:07 +0000
+Category: Google
+URL: https://www.engadget.com/2254487/google-store-removed-pixel-tablet/
+Summary: Google has erased the listing for the Pixel Tablet from its e-commerce store, signaling that the device has been discontinued.
+
+--- STORY 64 ---
+Title: Engadget Podcast: Diving into the iPhone Duo, iPhone 18 Pro and Apple's new hardware
+Source: Engadget
+Published: Wed, 09 Sep 2026 22:05:38 +0000
+Category: Apple
+URL: https://www.engadget.com/2254400/engadget-podcast-diving-into-the-iphone-duo-iphone-18-pro-and-apple-new-hardware/
+Summary: We finally have an Apple foldable, and it looks pretty damn compelling.
+
+--- STORY 65 ---
+Title: iPhone Duo hands-on: Apple's most exciting device in a decade
+Source: Engadget
+Published: Wed, 09 Sep 2026 21:49:36 +0000
+Category: Apple
+URL: https://www.engadget.com/2254389/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/
+Summary: The iPhone Duo makes a great first impression, I just wish it had three cameras in back.
+
+--- STORY 66 ---
+Title: Motorola teases new compact foldable Razr
+Source: Engadget
+Published: Wed, 09 Sep 2026 21:40:03 +0000
+Category: General Tech
+URL: https://www.engadget.com/2254380/motorola-teases-new-compact-foldable-razr/
+Summary: Right on cue, Motorola has teased a wide new foldable to compete with the Galaxy Fold 8 and iPhone Duo.
+
+--- STORY 67 ---
+Title: Apple's iPhone 18 Pro camera innovations went well beyond megapixels and AI
+Source: Engadget
+Published: Wed, 09 Sep 2026 19:14:22 +0000
+Category: Apple
+URL: https://www.engadget.com/2254210/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai/
+Summary: While the iPhone Duo might make headlines, variable aperture and more control is more important to me than a foldable iPhone.
+
+--- STORY 68 ---
+Title: Microsoft strikes deal with national teachers union to not use school data to train AI
+Source: Engadget
+Published: Wed, 09 Sep 2026 18:48:31 +0000
+Category: Microsoft
+URL: https://www.engadget.com/2254167/microsoft-strikes-deal-with-national-teachers-union-to-not-use-school-data-to-train-ai/
+Summary: In the absence of federal protections from AI, unions are stepping up.
+
+--- STORY 69 ---
+Title: iPhone 18 Pro hands-on: Variable aperture and stunning new colors
+Source: Engadget
+Published: Wed, 09 Sep 2026 18:39:20 +0000
+Category: Apple
+URL: https://www.engadget.com/2254149/iphone-18-pro-hands-on/
+Summary: It doesn't fold, but it probably is the one most people will buy.
+
+--- STORY 70 ---
+Title: Apple announces the iPhone Duo, the company's first foldable phone
+Source: Engadget
+Published: Wed, 09 Sep 2026 17:55:57 +0000
+Category: Apple
+URL: https://www.engadget.com/2254027/apple-iphone-duo-announced-specs-price/
+Summary: After years of rumors, we've entered a new era of the iPhone.
+
+--- STORY 71 ---
+Title: Can the US battery market untangle from China?
+Source: MIT Technology Review
+Published: Thu, 10 Sep 2026 10:00:00 +0000
+Category: China Tech
+URL: https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/
+Summary: The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…
+
+--- STORY 72 ---
+Title: God told them to sell crypto. Their investors lost everything.
+Source: MIT Technology Review
+Published: Thu, 10 Sep 2026 09:00:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/
+Summary: This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a…
+
+--- STORY 73 ---
+Title: Healthcare AI’s next test is integration
+Source: MIT Technology Review
+Published: Thu, 10 Sep 2026 08:58:01 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/
+Summary: The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who…
+
+--- STORY 74 ---
+Title: The Download: OpenAI’s turning point for math and a battery record
+Source: MIT Technology Review
+Published: Wed, 09 Sep 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…
+
+--- STORY 75 ---
+Title: Batteries just broke another record in the US
+Source: MIT Technology Review
+Published: Wed, 09 Sep 2026 09:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/
+Summary: Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…
+
+--- STORY 76 ---
+Title: Understanding the thermal ceiling in portable power
+Source: MIT Technology Review
+Published: Wed, 09 Sep 2026 08:18:13 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/
+Summary: Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces…
+
+--- STORY 77 ---
+Title: What OpenAI’s latest controversy tells us about the future of math
+Source: MIT Technology Review
+Published: Wed, 09 Sep 2026 03:10:08 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/
+Summary: OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…
+
+--- STORY 78 ---
+Title: The Download: our 35 Innovators Under 35 this year
+Source: MIT Technology Review
+Published: Tue, 08 Sep 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…
+
+--- STORY 79 ---
+Title: This founder is teaching chips how to recycle (their energy)
+Source: MIT Technology Review
+Published: Tue, 08 Sep 2026 10:36:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/
+Summary: Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.…
+
+--- STORY 80 ---
+Title: This AI entrepreneur is developing agents that can plan ahead for the unexpected
+Source: MIT Technology Review
+Published: Tue, 08 Sep 2026 10:34:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/
+Summary: Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…
+
+--- STORY 81 ---
+Title: German optics giant ditches greenfield SAP migration
+Source: The Register
+Published: Thu, 10 Sep 2026 11:45:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/software/2026/09/10/german-optics-giant-ditches-greenfield-sap-migration/5295251
+Summary: 'Realigned' project plan aims to move existing landscape to new platform to 'achieve faster progress'
+
+--- STORY 82 ---
+Title: Digital sovereignty sounds great until you try ditching your suppliers
+Source: The Register
+Published: Thu, 10 Sep 2026 11:05:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/paas-and-iaas/2026/09/10/digital-sovereignty-sounds-great-until-you-try-ditching-your-suppliers/5294997
+Summary: Most organizations say tech independence is unrealistic – and one in ten can't replace a critical provider at all
+
+--- STORY 83 ---
+Title: Dental contractor set up secret account with access to 4,000 patient records then left the company
+Source: The Register
+Published: Thu, 10 Sep 2026 09:00:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361
+Summary: Toothless security
+
+--- STORY 84 ---
+Title: Laptop-slinger Framework refunding customers who paid top dollar for RAM
+Source: The Register
+Published: Thu, 10 Sep 2026 08:23:12 +0200
+Category: Business
+URL: https://www.theregister.com/personal-tech/2026/09/10/laptop-slinger-framework-refunding-customers-who-paid-top-dollar-for-ram/5295439
+Summary: Puts a whole new spin on ‘Cheap as chips’
+
+--- STORY 85 ---
+Title: Microsoft goes after Salesforce and ERP users with AI-powered converter
+Source: The Register
+Published: Thu, 10 Sep 2026 06:53:32 +0200
+Category: Microsoft
+URL: https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428
+Summary: Ironically, this idea lands as Salesforce is struggling to sell its own AI
+
+--- STORY 86 ---
+Title: VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals
+Source: The Register
+Published: Thu, 10 Sep 2026 04:05:58 +0200
+Category: General Tech
+URL: https://www.theregister.com/virtualization/2026/09/10/vmware-defends-ending-downloads-of-sdk-that-helps-vm-backups-or-migrations-to-rivals/5295421
+Summary: Says license was never about moving VMs
+
+--- STORY 87 ---
+Title: Anthropic reveals fourth likely crime committed by its AI
+Source: The Register
+Published: Thu, 10 Sep 2026 01:20:59 +0200
+Category: AI Models
+URL: https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412
+Summary: Claude's Felony Bench rap sheet is now as long as OpenAI's
+
+--- STORY 88 ---
+Title: Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits
+Source: The Register
+Published: Thu, 10 Sep 2026 00:28:53 +0200
+Category: Google
+URL: https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399
+Summary: Mind the patch gap, please and thank you
+
+--- STORY 89 ---
+Title: AI models don't kill people – people kill people
+Source: The Register
+Published: Wed, 09 Sep 2026 22:44:06 +0200
+Category: General Tech
+URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368
+Summary: AI fearmongers forget we could just jail tech execs until morale and model safety improve
+
+--- STORY 90 ---
+Title: Apple hawks $2k folding fondleslab
+Source: The Register
+Published: Wed, 09 Sep 2026 22:38:18 +0200
+Category: Apple
+URL: https://www.theregister.com/personal-tech/2026/09/09/apple-hawks-2k-folding-fondleslab/5295381
+Summary: Another new form factor for devs to adapt to
+
+--- STORY 91 ---
+Title: UK needs new laws for AI in healthcare, says watchdog
+Source: BBC Tech
+Published: Thu, 10 Sep 2026 00:48:35 GMT
+Category: Regulation
+URL: https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss
+Summary: The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.
+
+--- STORY 92 ---
+Title: Google picks Finland for its largest single investment in Europe
+Source: BBC Tech
+Published: Wed, 09 Sep 2026 17:06:48 GMT
+Category: Google
+URL: https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss
+Summary: The US tech giant says the €13bn data centre project will create tens of thousands of jobs.
+
+--- STORY 93 ---
+Title: Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+Source: BBC Tech
+Published: Wed, 09 Sep 2026 15:34:09 GMT
+Category: AI Models
+URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss
+Summary: It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.
+
+--- STORY 94 ---
+Title: White House pulls Tetris-style 'Build The Wall' game after copyright concern
+Source: BBC Tech
+Published: Wed, 09 Sep 2026 12:06:40 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss
+Summary: The Tetris Company says it takes "copyright infringement very seriously" and is not involved with the game.
+
+--- STORY 95 ---
+Title: Meta continues to run ads promoting child sexual abuse material in India - report
+Source: BBC Tech
+Published: Tue, 08 Sep 2026 23:27:23 GMT
+Category: Meta
+URL: https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss
+Summary: The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.
+
+--- STORY 96 ---
+Title: Should promotion depend on how workers use AI?
+Source: BBC Tech
+Published: Tue, 08 Sep 2026 23:05:23 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss
+Summary: More companies are tying career progression to AI use: is that fair?
+
+--- STORY 97 ---
+Title: OpenAI says it cracked 90-year-old maths problem in 88 hours
+Source: BBC Tech
+Published: Tue, 08 Sep 2026 20:57:09 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss
+Summary: OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.
+
+--- STORY 98 ---
+Title: New law to force tech firms to stop children taking or sharing nude images
+Source: BBC Tech
+Published: Tue, 08 Sep 2026 16:48:29 GMT
+Category: Regulation
+URL: https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss
+Summary: The government said it will legislate "as soon as they can" but may "reassess" its plans if firms make the desired changes sooner.
+
+--- STORY 99 ---
+Title: Scammers demand ransoms from Instagram users over fake copyright claims
+Source: BBC Tech
+Published: Tue, 08 Sep 2026 06:49:56 GMT
+Category: Meta
+URL: https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss
+Summary: Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.
+
+--- STORY 100 ---
+Title: Grindr to pay £26m to settle claims it allegedly shared users' HIV status
+Source: BBC Tech
+Published: Mon, 07 Sep 2026 15:27:50 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss
+Summary: The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.
+
+--- STORY 101 ---
+Title: ‘AI Economy’ Driving Earnings Strength, Says JPM’s Caffrey
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 10:33:48 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-09-10/-ai-economy-driving-earnings-strength-jpm-s-caffrey-video
+Summary: Jack Caffrey, equity portfolio manager at JPMorgan Asset Management, says spending related to “the enthusiasm around artificial intelligence” is broadening out earnings themes. Caffrey warns of “a hiccup or two over the next few months” as companies need to borrow more to support their growth. He speaks on “Bloomberg Brief.” (Source: Bloomberg)
+
+--- STORY 102 ---
+Title: AI Medical Tools: UK Calls for Overhaul of AI Health-Care Regulation
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 10:29:00 GMT
+Category: Regulation
+URL: https://www.bloomberg.com/news/newsletters/2026-09-10/ai-medical-tools-uk-calls-for-overhaul-of-ai-health-care-regulation
+Summary: Governments want to regulate AI – especially medicine where the stakes are high
+
+--- STORY 103 ---
+Title: Nvidia-Backed MediaTek’s Sales Soar 44% With AI Chip Momentum
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 09:03:59 GMT
+Category: Hardware
+URL: https://www.bloomberg.com/news/articles/2026-09-10/nvidia-backed-mediatek-s-sales-soar-44-with-ai-chip-momentum
+Summary: MediaTek Inc. reported a 44% surge in monthly sales, boosted by its emerging AI chip business from the likes of Alphabet Inc.’s Google.
+
+--- STORY 104 ---
+Title: Investors Are Nervous About Timing of Potential 'Crash,' BofA Says
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 09:02:00 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-09-10/investors-nervous-on-timing-of-potential-crash-bofa-video
+Summary: Sebastian Raedler, head of European equity strategy at Bank of America, says the key question facing investors is the sustainability of the artificial intelligence capex boom which is driving the "strongest earnings upgrades in the US that you've seen in 40 years." Speaking on Bloomberg Television, Raedler adds: "This is a very high-stakes game right now. You have to be in that trade. But a lot of people know that every single one of these investment booms in the past have ended in a crash, and
+
+--- STORY 105 ---
+Title: Huawei Lifted Prices for Its Best AI Chip By 60% This Summer
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 07:41:58 GMT
+Category: China Tech
+URL: https://www.bloomberg.com/news/articles/2026-09-10/huawei-lifted-prices-for-its-best-ai-chip-by-60-this-summer
+Summary: Huawei Technologies Co. has notified some clients that it’s significantly increasing the prices of its most advanced AI accelerators, reflecting how demand is rapidly outstripping supply during the data center boom.
+
+--- STORY 106 ---
+Title: Anthropic Gives EU Access to Mythos Months After Model’s Release
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 08:04:51 GMT
+Category: AI Models
+URL: https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release
+Summary: Anthropic PBC has handed the European Union’s cybersecurity agency access to its powerful Mythos artificial intelligence model, more than three months after first signaling the bloc would be given access.
+
+--- STORY 107 ---
+Title: Musk’s Boring Co. Raises Funds at Valuation of $23 Billion
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 05:35:53 GMT
+Category: Business
+URL: https://www.bloomberg.com/news/articles/2026-09-10/musk-s-boring-co-raises-capital-valuing-firm-at-23-billion-mtv5xwy7
+Summary: Boring Co. secured $3 billion in fresh funding backed by the United Arab Emirates and affiliated investment entities, valuing Elon Musk’s tunneling startup at $23 billion.
+
+--- STORY 108 ---
+Title: Oil Tops $100 as Iran Vows to Escalate War, Trump Says US Will Win
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 06:33:38 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-09-10/horizons-middle-east-africa-9-10-2026-video
+Summary: Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)
+
+--- STORY 109 ---
+Title: Grab Is Said in Talks to Buy SoftBank-Backed Fintech Firm Atome
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 05:51:33 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-09-10/grab-is-said-in-talks-to-buy-softbank-backed-fintech-firm-atome
+Summary: Grab Holdings Ltd., the biggest ride-hailing and food-delivery firm in Southeast Asia, is in talks to buy a majority stake in Singapore-based buy-now-pay-later platform Atome Financial, according to people familiar with the matter.
+
+--- STORY 110 ---
+Title: TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply
+Source: Bloomberg Tech
+Published: Thu, 10 Sep 2026 05:35:24 GMT
+Category: Hardware
+URL: https://www.bloomberg.com/news/articles/2026-09-10/tsmc-revenue-rises-53-as-ai-chip-demand-outstrips-supply
+Summary: Taiwan Semiconductor Manufacturing Co. reported a 53.3% increase in monthly sales, with the company struggling to meet overwhelming demand from the global AI infrastructure buildout.
+
+--- STORY 111 ---
+Title: OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify
+Source: CNBC Tech
+Published: Thu, 10 Sep 2026 10:22:38 GMT
+Category: AI Models
+URL: https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html
+Summary: There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models
+
+--- STORY 112 ---
+Title: Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar
+Source: CNBC Tech
+Published: Thu, 10 Sep 2026 09:35:14 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html
+Summary: Ryanair's CEO warned airfare prices may see significant hikes as the surging cost of jet fuel continues to squeeze the airline industry.
+
+--- STORY 113 ---
+Title: World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high
+Source: CNBC Tech
+Published: Thu, 10 Sep 2026 06:45:55 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html
+Summary: TSMC reported monthly sales revenue for August on Thursday.
+
+--- STORY 114 ---
+Title: Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval
+Source: CNBC Tech
+Published: Thu, 10 Sep 2026 09:25:34 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html
+Summary: Coinbase CEO Brian Armstrong says U.S. crypto regulation could move forward regardless of the outcome of the Clarity Act.
+
+--- STORY 115 ---
+Title: Samsung works to draw iPhone users to its foldables even as Apple enters the market
+Source: CNBC Tech
+Published: Thu, 10 Sep 2026 02:05:32 GMT
+Category: Apple
+URL: https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html
+Summary: Samsung is drawing more iPhone users to its foldables as Apple’s rumored entry threatens to reshape the market.
+
+--- STORY 116 ---
+Title: $100 oil isn't turning Cramer bearish on stocks. Here are 3 reasons why
+Source: CNBC Tech
+Published: Wed, 09 Sep 2026 22:27:13 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/09/oil-not-turning-cramer-bearish-on-stocks-why.html
+Summary: CNBC's Jim Cramer said he’s not ready to turn bearish despite mounting pressure from $100 oil and signs that higher gasoline prices are weighing on consumers.
+
+--- STORY 117 ---
+Title: Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google
+Source: CNBC Tech
+Published: Wed, 09 Sep 2026 21:45:34 GMT
+Category: Google
+URL: https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html
+Summary: Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.
+
+--- STORY 118 ---
+Title: Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier
+Source: CNBC Tech
+Published: Wed, 09 Sep 2026 21:37:34 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html
+Summary: CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.
+
+--- STORY 119 ---
+Title: Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates
+Source: CNBC Tech
+Published: Wed, 09 Sep 2026 14:38:32 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html
+Summary: Robinhood's Vlad Tenev said public companies can’t control financial products built around their stock while acknowledging token holders don’t get voting rights.
+
+--- STORY 120 ---
+Title: Silver Lake to merge two software firms in $11.6 billion bet on AI
+Source: CNBC Tech
+Published: Wed, 09 Sep 2026 17:36:02 GMT
+Category: Regulation
+URL: https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html
+Summary: French firms Cegid, which sells business management software, and Silae, a payroll and HR platform, are set to combine.
+
+--- STORY 121 ---
+Title: I have zero Apple Watch 12 envy, and it’s thanks to the Pixel Watch 5
+Source: Android Police
+Published: Thu, 10 Sep 2026 10:30:10 GMT
+Category: Apple
+URL: https://www.androidpolice.com/zero-apple-watch-12-envy-thanks-to-pixel-watch-5/
+Summary: Google's and Apple's priorities are different
+
+--- STORY 122 ---
+Title: This Google Photos feature built a digital wardrobe from my photos; I can't stop using it
+Source: Android Police
+Published: Thu, 10 Sep 2026 10:00:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/this-hidden-google-photos-feature-built-a-wardrobe-from-all-my-photos/
+Summary: An AI built me outfits ranging from sharp to deeply questionable
+
+--- STORY 123 ---
+Title: Google’s surprise Pixel 11 update leaves the new features for later
+Source: Android Police
+Published: Thu, 10 Sep 2026 04:43:20 GMT
+Category: Google
+URL: https://www.androidpolice.com/google-surprise-pixel-11-update-leaves-new-features-for-later/
+Summary: Second minor update for the new Pixels this month
+
+--- STORY 124 ---
+Title: Motorola gives a glimpse of a wide foldable that aims to challenge Samsung and Apple
+Source: Android Police
+Published: Wed, 09 Sep 2026 21:48:12 GMT
+Category: Apple
+URL: https://www.androidpolice.com/motorola-provides-a-quick-glimpse-of-its-wide-foldable/
+Summary: It really needs to get this right
+
+--- STORY 125 ---
+Title: Apple takes on the Samsung Galaxy Z Fold 8 with $1,999 iPhone Duo
+Source: Android Police
+Published: Wed, 09 Sep 2026 19:16:21 GMT
+Category: Apple
+URL: https://www.androidpolice.com/apple-takes-on-the-galaxy-z-fold-8-with-1999-iphone-duo/
+Summary: The first foldable from Apple has a familiar form factor
+
+--- STORY 126 ---
+Title: Apple Watch 12 and Ultra 4's biggest upgrade isn't the hardware—it's what your wrist can now hear
+Source: Android Police
+Published: Wed, 09 Sep 2026 18:55:12 GMT
+Category: Apple
+URL: https://www.androidpolice.com/apple-watch-12-and-watch-ultra-4-makes-it-debut/
+Summary: Starting at $399
+
+--- STORY 127 ---
+Title: Xteink just released a dirt cheap tiny e-reader
+Source: Android Police
+Published: Wed, 09 Sep 2026 16:39:17 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/this-tiny-e-reader-is-now-on-amazon-and-theres-even-a-cheaper-version-available/
+Summary: The X4 Classic is a hard bargain to pass up at $79
+
+--- STORY 128 ---
+Title: I changed a few hidden Google Pixel settings to stop my phone's daily battery drain
+Source: Android Police
+Published: Wed, 09 Sep 2026 16:30:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/changed-google-pixel-settings-to-stop-phones-daily-battery-drain/
+Summary: My phone's battery when from 20% at noon to all-day power
+
+--- STORY 129 ---
+Title: I spent a week navigating without Google Maps; I discovered why we can't live without it
+Source: Android Police
+Published: Wed, 09 Sep 2026 16:15:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/week-without-google-maps-waze-android-auto/
+Summary: One week of pure inconveniences
+
+--- STORY 130 ---
+Title: Samsung ends support for two Galaxy watches
+Source: Android Police
+Published: Wed, 09 Sep 2026 16:13:00 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/samsung-ends-support-for-two-galaxy-watches/
+Summary: Galaxy Watch 4 and Galaxy Watch 4 Classic won't get updates
+
+--- STORY 131 ---
+Title: Maybe the Call of Duty game you should be playing right now is 2020's Black Ops Cold War on Xbox Game Pass
+Source: Windows Central
+Published: Thu, 10 Sep 2026 10:00:36 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/call-of-duty/maybe-the-call-of-duty-game-you-should-be-playing-right-now-is-2020s-black-ops-cold-war-on-xbox-game-pass
+Summary: Call of Duty: Black Ops Cold War is the latest legacy title to be added to Xbox Game Pass, and I think it might be the game to play right now, even with Modern Warfare 4 looming.
+
+--- STORY 132 ---
+Title: Xbox has acquired rights to publish Hideo Kojima's 'PHYSINT' from PlayStation — "We're honored that Kojima-san has chosen to work with Xbox."
+Source: Windows Central
+Published: Thu, 10 Sep 2026 02:31:50 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/xbox-has-acquired-rights-to-publish-hideo-kojimas-physint-from-playstation
+Summary: In a major coup, Xbox has confirmed that it will be publishing Hideo Kojima's long-awaited action-espionage title "PHYSINT."
+
+--- STORY 133 ---
+Title: First it was Neo, and now it's iPhone Duo — Apple keeps robbing Microsoft of its Surface device names, and I'm mad about it
+Source: Windows Central
+Published: Wed, 09 Sep 2026 18:55:43 +0000
+Category: Apple
+URL: https://www.windowscentral.com/hardware/surface/first-it-was-neo-and-now-its-iphone-duo-apple-keeps-robbing-microsoft-of-its-surface-device-names-and-im-mad-about-it
+Summary: As a Surface Duo fan, I can't believe Apple has just announced a folding phone called iPhone Duo. Are we really doing this?
+
+--- STORY 134 ---
+Title: Xbox is quietly turning nostalgia, identity, and cloud gaming into its biggest console advantage
+Source: Windows Central
+Published: Wed, 09 Sep 2026 17:49:36 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/xbox-is-quietly-turning-nostalgia-identity-and-cloud-gaming-into-its-biggest-console-advantage
+Summary: Microsoft's newest Xbox Insider build introduces startup animation choices, expanded profile customization, improved Remote Play quality, better search tools, and cloud gaming enhancements. But the real story isn't any individual feature. It's Microsoft's growing focus on personalization and flexibility, suggesting Xbox's future is less about hardware generations and more about creating a gaming platform that follows players everywhere.
+
+--- STORY 135 ---
+Title: Microsoft speeds up Windows 11 parental approvals and expands age verification across the OS
+Source: Windows Central
+Published: Wed, 09 Sep 2026 17:25:28 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-fixes-sluggish-windows-11-parental-approvals-and-expands-age-verification
+Summary: Microsoft just announced new family safety features for Windows 11 that speed up parental approvals. The tech giant also introduced new developer APIs that bring controls to more apps.
+
+--- STORY 136 ---
+Title: Spyro’s 27th birthday comes with a surprise — a sneak peek at A Realm Beyond’s first level
+Source: Windows Central
+Published: Wed, 09 Sep 2026 16:56:35 +0000
+Category: Hardware
+URL: https://www.windowscentral.com/gaming/xbox/spyros-27th-birthday-comes-with-a-surprise-a-sneak-peek-at-a-realm-beyonds-first-level
+Summary: Toys for Bob is showing off a brief new look at Spyro: A Realm Beyond's first level, while celebrating the Spyro franchise's 27th birthday with fans for Spyro Community Day.
+
+--- STORY 137 ---
+Title: AI Vibe coding is moving so fast Microsoft had to overhaul how it reviews Edge extensions
+Source: Windows Central
+Published: Wed, 09 Sep 2026 15:31:48 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/software-apps/ai-vibe-coding-is-so-fast-that-microsoft-had-to-change-how-it-reviews-edge-extensions
+Summary: Microsoft is automating routine Edge extension reviews to keep up with an influx of submissions driven by AI development tools.
+
+--- STORY 138 ---
+Title: I rebuilt my classic Xbox 360 avatar in this clever web-based generator, with outfits from "every collection Microsoft released"
+Source: Windows Central
+Published: Wed, 09 Sep 2026 13:59:16 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/360sona-classic-avatar-generator
+Summary: The fan-made 360sona web app rebuilds the Xbox avatar creator and features over 20,000 authentic items in pixel-perfect detail.
+
+--- STORY 139 ---
+Title: Windows 11 is finally testing automatic theme switching, a basic feature that's required a third-party app for years
+Source: Windows Central
+Published: Wed, 09 Sep 2026 12:05:19 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-is-finally-testing-automatic-theme-switching-a-basic-feature-thats-required-a-third-party-app-for-years
+Summary: Windows 11 will soon feature automatic theme switching. You'll be able to schedule changes for specific times or have your PC set them based on your location.
+
+--- STORY 140 ---
+Title: Thank you, Monster Hunter Wilds: Ascendance, for finally giving Gunlance this much-needed change we've been requesting for 20 years
+Source: Windows Central
+Published: Wed, 09 Sep 2026 10:03:04 +0000
+Category: Meta
+URL: https://www.windowscentral.com/gaming/thank-you-monster-hunter-wilds-ascendance-gunlance-change
+Summary: Monster Hunter Wilds: Ascendance's latest weapon trailer showcases the exciting changes coming to my favorite weapon type, Gunlance, and it's looking like the best weapon of them all.
+
+--- STORY 141 ---
+Title: iOS 27 to Upgrade Apple TV Remote App in Two Ways
+Source: MacRumors
+Published: Thu, 10 Sep 2026 02:33:59 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/10/hidden-ios-27-features-iphone-apple-tv-remote-app/
+Summary: Apple has updated the design of the virtual Apple TV Remote for the iOS 27 Release Candidate, which was released yesterday, and there are two new features that have been added to the iPhone app's interface. First up, Apple has added a new button to the top-right corner of the Remote UI with a glyph showing f
+
+--- STORY 142 ---
+Title: Touch ID Isn't the Only Way to Unlock an iPhone Duo
+Source: MacRumors
+Published: Thu, 10 Sep 2026 01:41:48 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/10/apple-great-mac-feature-for-iphone-duo/
+Summary: Apple's new iPhone Duo lacks Face ID. That may irk users who are used to the seamless unlocking experience that a facial biometric system provides, but fortunately Apple has brought over one of the Mac's best authentication features to its foldable iPhone to make up for it. Touch ID is integrated into the Duo's side button for aut
+
+--- STORY 143 ---
+Title: Hands-On With the iPhone Duo: The Crease is Still There, But Barely
+Source: MacRumors
+Published: Wed, 09 Sep 2026 18:44:32 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/
+Summary: After today's iPhone event, Apple invited members of the media to test out the new iPhone Duo . We were able to take a look, and we have some initial thoughts to share. Subscribe to the MacRumors YouTube channel for more videos. The ‌iPhone Duo‌ is priced starting at $1,999, and it feels like
+
+--- STORY 144 ---
+Title: Everything Apple Announced at the September 2026 Event
+Source: MacRumors
+Published: Wed, 09 Sep 2026 18:25:29 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/
+Summary: Apple's "Surprise and Shine" event took place today, and the company introduced the iPhone 18 Pro and Pro Max, the new foldable iPhone Duo , new Apple Watch models, and AirPods 5. It took Apple over an hour to announce everything, but we have an 11-minute recap for those who want a quick but detailed overview of everything. <a href=
+
+--- STORY 145 ---
+Title: iPhone Duo is Dust-Tight With IP68 Rating, Unlike Samsung's Galaxy Z Fold8
+Source: MacRumors
+Published: Wed, 09 Sep 2026 17:46:16 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/iphone-duo-ip68-durability/
+Summary: The iPhone Duo has an IP68 dust and water resistance rating, beating Samsung and tying Google. Samsung's latest Galaxy Z Fold8 models have an IP48 dust and water resistance rating, which means they aren't able to hold up to dust as well. Google's Pixel 11
+
+--- STORY 146 ---
+Title: iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch
+Source: MacRumors
+Published: Wed, 09 Sep 2026 16:49:35 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile/
+Summary: Apple is adding a new iPhone Handoff feature in iOS 27 that will let you use the same number on two iPhones and swap between them as needed. iPhone Handoff requires carrier support, and Apple says there may be carrier fees when setting it up. T
+
+--- STORY 147 ---
+Title: Apple Explains What's Inside the iPhone Duo's Folding Screen
+Source: MacRumors
+Published: Wed, 09 Sep 2026 16:38:46 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/iphone-duo-folding-screen-layers/
+Summary: The iPhone Duo 's inner display uses a complicated, multi-layer structure that Apple says will hold up to wear and tear. There are 10 ultrathin layers in total, including a nano-textured cover layer made from a custom polymer that Apple says is up
+
+--- STORY 148 ---
+Title: iPhone Duo Beats iPhone Air as Apple's Thinnest iPhone, But Only When Open
+Source: MacRumors
+Published: Wed, 09 Sep 2026 15:43:01 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/iphone-duo-thinnest-iphone/
+Summary: The new foldable iPhone Duo is the "thinnest iPhone ever," according to Apple. When unfolded, the device is 5.2mm thick, making it 0.4mm thinner than the 5.6mm iPhone Air . Rumors suggested it cou
+
+--- STORY 149 ---
+Title: Here's What Apple Says About the iPhone Duo's Crease
+Source: MacRumors
+Published: Wed, 09 Sep 2026 15:35:39 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/iphone-duo-crease/
+Summary: Ahead of the launch of the foldable iPhone Duo , rumors suggested Apple was focused on eliminating the crease between the device's two displays. All foldables have a visible crease, and it often becomes easier to see over time from constant folding and unfolding. <img alt="" class="aligncenter size-full wp-image-1063638" height="937
+
+--- STORY 150 ---
+Title: Apple Watch Series 12 and Ultra 4 Get Wave of New Bands
+Source: MacRumors
+Published: Wed, 09 Sep 2026 15:24:20 PDT
+Category: Apple
+URL: https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-new-bands/
+Summary: The Apple Watch Series 12 and Apple Watch Ultra 4 feature a refreshed band lineup for the fall, adding new colors and materials. Here's a breakdown of what's new across the band lineup: Sport Band : New Navy Blue, Magenta, Olive, Burgundy,
+
+--- STORY 151 ---
+Title: Steam enforces Australian age verification via credit cards — debit card glitches and low credit adoption alienate core gamers, privacy-first mindset leads to dearth of options that may hinder consumers
+Source: Tom's Hardware
+Published: Thu, 10 Sep 2026 10:30:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/video-games/pc-gaming/steam-enforces-australian-age-verification-via-credit-cards-debit-card-glitches-and-low-credit-adoption-alienate-core-gamers-privacy-first-mindset-leads-to-dearth-of-options-that-may-hinder-consumers
+Summary: Valve starts enforcing Australian age verification law, but its privacy-minded choice of bank card as the only verification method is causing issues with many consumers.
+
+--- STORY 152 ---
+Title: Self-taught tinkerer demos working room-sized Cold War-era supercomputer with vacuum tubes — takes 15 minutes to warm up and smells like burning dust, 8-bit design uses 460 recycled 1950s Soviet tubes
+Source: Tom's Hardware
+Published: Thu, 10 Sep 2026 10:00:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/desktops/pc-building/self-taught-electronics-tinkerer-builds-cold-war-era-vacuum-tube-computer-8-bit-design-uses-460-recycled-6n3p-vacuum-tubes-manufactured-in-the-1950s
+Summary: A self-taught electronics tinkerer called Mike recently shared details of his retro-computing vacuum tube computer project.
+
+--- STORY 153 ---
+Title: Apple A20 Pro powers iPhone Duo, 18 Pro — the company's first 2-nanometer smartphone chip
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 17:33:21 +0000
+Category: Apple
+URL: https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip
+Summary: Apple's new A20 Pro SOC will power the iPhone 18 Pro and iPhone Duo as its first 2 nm smartphone chip.
+
+--- STORY 154 ---
+Title: Switch 2 Zelda 40th Anniversary Edition preorders open on Amazon for $519.99 — here's your last shot to grab the limited-edition console at MSRP
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 17:06:03 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/video-games/handheld-gaming/switch-2-zelda-40th-anniversary-edition-preorders-hit-usd1-000-on-ebay-amazon-and-walmart-are-your-last-shot-at-usd520-msrp
+Summary: Scalpers have started selling preorders of the Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition on eBay, starting at $700.
+
+--- STORY 155 ---
+Title: Intel-backed auto-overclocking tool Hypertune optimizes individual systems, not test profiles — tool claims FPS improvement of up to 60% on Intel-based systems
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 16:03:05 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems
+Summary: Hypertune is an automated overclocking tool built on top of Intel's Extreme Tuning Utility (XTU) SDK and built in collaboration with engineers at Intel.
+
+--- STORY 156 ---
+Title: Framework cuts 32GB and 64GB memory prices for new Laptop 13 Pro, issues retroactive refunds — modular laptop maker secures 'limited quantity' of LPCAMM2 RAM at lower cost
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 15:00:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/laptops/framework-cuts-32gb-and-64gb-memory-prices-for-new-laptop-13-pro-issues-retroactive-refunds-modular-laptop-maker-secures-limited-quantity-of-lpcamm2-ram-at-lower-cost
+Summary: Modular laptop maker Framework is dropping some of its memory pricing, including for some already-shipped orders, in a piece of good news for consumers.
+
+--- STORY 157 ---
+Title: Microsoft reportedly gives secret Xbox Game Pass discounts to churned subscribers to reel them back in — targeted offers slash up to 30% off the regular price
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 14:39:23 +0000
+Category: Microsoft
+URL: https://www.tomshardware.com/video-games/pc-gaming/microsoft-reportedly-gives-secret-xbox-game-pass-discounts-to-churned-subscribers-to-reel-them-back-in-targeted-offers-slash-up-to-30-percent-off-the-regular-price
+Summary: Microsoft appears to be using dynamic pricing to push select users to commit to Xbox Game Pass.
+
+--- STORY 158 ---
+Title: OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 14:30:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements
+Summary: OpenAI deepens chip cooperation with Samsung, possibly prepares to Double source AI ASICs from two foundries in a bid to get more in-house silicon to its data centers.
+
+--- STORY 159 ---
+Title: Save 40% on Autodesk’s Media and Entertainment Collection — thousands of dollars worth of software in a single bundle
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 13:33:15 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/pc-components/save-40-percent-on-autodesks-media-and-entertainment-collection-thousands-of-dollars-worth-of-software-in-a-single-bundle
+Summary: Autodesk is offering a 40% discount on its Media and Entertainment Collection for a limited time.
+
+--- STORY 160 ---
+Title: Goodram PX700 2TB SSD Review: High-end punch on a budget core
+Source: Tom's Hardware
+Published: Wed, 09 Sep 2026 12:34:37 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/pc-components/ssds/goodram-px700-2tb-ssd-review
+Summary: The Goodram PX700 matches good all-around performance with high power-efficiency in a cool-running package. It performs mostly like a premium drive, although pricing remains a concern.
+
+--- STORY 161 ---
+Title: CISA: WatchGuard RCE flaw now exploited in ransomware attacks
+Source: BleepingComputer
+Published: Thu, 10 Sep 2026 05:10:20 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/
+Summary: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]
+
+--- STORY 162 ---
+Title: Microsoft fixes bug that wiped Windows desktop settings
+Source: BleepingComputer
+Published: Thu, 10 Sep 2026 04:08:16 -0400
+Category: Microsoft
+URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/
+Summary: Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]
+
+--- STORY 163 ---
+Title: Trezor warns users of email provider breach, phishing attacks
+Source: BleepingComputer
+Published: Thu, 10 Sep 2026 02:56:33 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/
+Summary: Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]
+
+--- STORY 164 ---
+Title: Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 17:40:44 -0400
+Category: Regulation
+URL: https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/
+Summary: Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]
+
+--- STORY 165 ---
+Title: AdaptHealth confirms 4.1 million people exposed in July cyberattack
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 17:30:36 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/
+Summary: Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]
+
+--- STORY 166 ---
+Title: Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 17:02:14 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/
+Summary: The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]
+
+--- STORY 167 ---
+Title: US says Chinese firms extracted billions of tokens from frontier AI models
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 12:48:33 -0400
+Category: Regulation
+URL: https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/
+Summary: U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]
+
+--- STORY 168 ---
+Title: Veradigm warns of patient data breach after ransomware gang claims attack
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 11:31:23 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/
+Summary: Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]
+
+--- STORY 169 ---
+Title: MFA's Weakest Link: Account Recovery Is the New Attack Path
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 10:01:11 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/
+Summary: MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]
+
+--- STORY 170 ---
+Title: Over 36,000 exposed Plex servers vulnerable to recent flaws
+Source: BleepingComputer
+Published: Wed, 09 Sep 2026 06:11:29 -0400
+Category: Regulation
+URL: https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/
+Summary: Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]
+
+--- STORY 171 ---
+Title: iPhone Duo
+Source: Hacker News
+Published: 2026-09-09T18:15:43Z
+Category: Apple
+URL: https://www.apple.com/iphone-duo/
+Summary: Points: 1221, Comments: 2149
+
+--- STORY 172 ---
+Title: Shopify acquires Tailwind
+Source: Hacker News
+Published: 2026-09-09T13:27:11Z
+Category: General Tech
+URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+Summary: Points: 1043, Comments: 401
+
+--- STORY 173 ---
+Title: Flock Wants a Closely Surveilled World with No Exit
+Source: Hacker News
+Published: 2026-09-09T10:54:18Z
+Category: General Tech
+URL: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
+Summary: Points: 560, Comments: 534
+
+--- STORY 174 ---
+Title: AirPods 5
+Source: Hacker News
+Published: 2026-09-09T17:39:24Z
+Category: General Tech
+URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/
+Summary: Points: 457, Comments: 387
+
+--- STORY 175 ---
+Title: Desert Ant Labs: local, fast models that run on device
+Source: Hacker News
+Published: 2026-09-09T11:39:46Z
+Category: Hardware
+URL: https://desertant.com/blog/introducing-desert-ant-labs/
+Summary: Points: 449, Comments: 96
+
+--- STORY 176 ---
+Title: GPT-6 Astra, looped transformers, and hidden reasoning
+Source: Hacker News
+Published: 2026-09-09T14:37:47Z
+Category: AI Models
+URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
+Summary: Points: 437, Comments: 142
+
+--- STORY 177 ---
+Title: How I advertise malicious software on Google Ads
+Source: Hacker News
+Published: 2026-09-09T11:43:21Z
+Category: Google
+URL: https://xlii.space/eng/malicious-software-on-google-ads/
+Summary: Points: 411, Comments: 248
+
+--- STORY 178 ---
+Title: DeepSeek launching v4.1 flash cheaper and more capable than v4 pro
+Source: Hacker News
+Published: 2026-09-09T11:19:26Z
+Category: AI Models
+URL: https://news.ycombinator.com/item?id=49624603
+Summary: Points: 411, Comments: 214
+
+--- STORY 179 ---
+Title: DeepSeek v4.1 Flash
+Source: Hacker News
+Published: 2026-09-10T06:11:05Z
+Category: AI Models
+URL: https://twitter.com/deepseek_ai/status/2097930608790167907
+Summary: Points: 404, Comments: 177
+
+--- STORY 180 ---
+Title: No Man's Sky Cosmos
+Source: Hacker News
+Published: 2026-09-09T15:47:42Z
+Category: General Tech
+URL: https://www.nomanssky.com/cosmos-update/
+Summary: Points: 396, Comments: 402
+
+--- STORY 181 ---
+Title: iPhone 18 Pro and iPhone 18 Pro Max
+Source: Hacker News
+Published: 2026-09-09T17:33:20Z
+Category: Apple
+URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+Summary: Points: 366, Comments: 401
+
+--- STORY 182 ---
+Title: Show HN: What if the speed of light was 5 km/h?
+Source: Hacker News
+Published: 2026-09-10T01:58:00Z
+Category: General Tech
+URL: https://rivendell.dmitrybrant.com/relativity/
+Summary: Points: 355, Comments: 151
+
+--- STORY 183 ---
+Title: Growing proof that autonomous cars save lives
+Source: Hacker News
+Published: 2026-09-09T17:14:59Z
+Category: General Tech
+URL: https://spectrum.ieee.org/are-self-driving-cars-safe
+Summary: Points: 351, Comments: 613
+
+--- STORY 184 ---
+Title: Anthropic Is Building a Predictive Surveillance System to Monitor Activists
+Source: Hacker News
+Published: 2026-09-09T16:01:41Z
+Category: AI Models
+URL: https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/
+Summary: Points: 292, Comments: 165
+
+--- STORY 185 ---
+Title: Automattic's board forces CEO Matt Mullenweg into leave of absence
+Source: Hacker News
+Published: 2026-09-09T23:49:29Z
+Category: General Tech
+URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
+Summary: Points: 279, Comments: 198
+
+--- STORY 186 ---
+Title: Apple Watch Series 12
+Source: Hacker News
+Published: 2026-09-09T17:56:17Z
+Category: Apple
+URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/
+Summary: Points: 258, Comments: 322
+
+--- STORY 187 ---
+Title: OpenAI might have stolen another major proof
+Source: Hacker News
+Published: 2026-09-10T04:19:48Z
+Category: General Tech
+URL: https://twitter.com/ValerioCapraro/status/2097791836269977996
+Summary: Points: 234, Comments: 116
+
+--- STORY 188 ---
+Title: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills
+Source: Hacker News
+Published: 2026-09-09T17:24:28Z
+Category: AI Models
+URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3
+Summary: Points: 216, Comments: 85
+
+--- STORY 189 ---
+Title: What will our economic future look like?
+Source: Hacker News
+Published: 2026-09-09T13:38:23Z
+Category: General Tech
+URL: https://www.anthropic.com/institute/econ-scenarios
+Summary: Points: 210, Comments: 404
