@@ -1,0 +1,1442 @@
+# Raw Tech News - 2026-09-29 17:43:11
+Total Stories: 180
+
+--- STORY 1 ---
+Title: Dutch police arrest ShinyHunters hacker accused of planning two murders
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 17:27:09 +0000
+Category: Cybersecurity
+URL: https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/
+Summary: Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.
+
+--- STORY 2 ---
+Title: AI-powered app maker Wabi pivots to a messaging experience
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 17:20:00 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/
+Summary: Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.
+
+--- STORY 3 ---
+Title: OpenAI launches Dots, its bubbly agentic avatar
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 17:17:15 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/
+Summary: Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.
+
+--- STORY 4 ---
+Title: OpenAI gives Codex reusable cloud environments that work across devices
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 17:15:00 +0000
+Category: Hardware
+URL: https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/
+Summary: OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.
+
+--- STORY 5 ---
+Title: OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 17:15:00 +0000
+Category: AI Models
+URL: https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/
+Summary: OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.
+
+--- STORY 6 ---
+Title: OpenAI expands ChatGPT’s plugins with app-like interfaces and automations
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 17:15:00 +0000
+Category: AI Models
+URL: https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/
+Summary: OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.
+
+--- STORY 7 ---
+Title: Can a chatbot fix the government maze? The White House is about to find out
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 16:55:56 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/
+Summary: America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.
+
+--- STORY 8 ---
+Title: Instinct founder said more than 50% of transactions on the platform are travel-related
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 15:12:07 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/
+Summary: Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.
+
+--- STORY 9 ---
+Title: After losing his voice to cancer, this founder is building ‘glasses for voice’
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 15:00:00 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/
+Summary: Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.
+
+--- STORY 10 ---
+Title: Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market
+Source: TechCrunch
+Published: Tue, 29 Sep 2026 14:56:55 +0000
+Category: Business
+URL: https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/
+Summary: The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.
+
+--- STORY 11 ---
+Title: Apple releases guide to help families ‘build healthy digital habits’
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 17:31:25 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/apple-releases-guide-to-help-families-build-healthy-digital-habits/
+Summary: Apple has teamed up with the American Academy of Pediatrics (AAP) to launch a new guide to “he
+
+--- STORY 12 ---
+Title: Pages, Keynote, Numbers, and Pixelmator Pro just got new features
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 17:15:52 +0000
+Category: Google
+URL: https://9to5mac.com/2026/09/29/pages-keynote-numbers-and-pixelmator-pro-just-got-new-features/
+Summary: Today alongside a big update to Final Cut Camera, Apple announced that it’s rolling out updated versions of Pages, Keynote,
+
+--- STORY 13 ---
+Title: Final Cut Camera updated with support for iPhone 18 Pro features, more
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 17:00:40 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/
+Summary: Apple is rolling out a big update to Final Cut Camera today, the pro video app it first released for iPhone back in 2024. The update introduces a new design along with support for var
+
+--- STORY 14 ---
+Title: OpenAI makes 20+ announcements at DevDay event including always-on agents called dots, watch live
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 16:03:40 +0000
+Category: Hardware
+URL: https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/
+Summary: OpenAI has teased 20+ announcements as part of its DevDay 2026 event. The event will be streamed live. You can see everything announced today below. more…
+
+--- STORY 15 ---
+Title: Here’s how many iPhone Duo units Apple is reportedly making
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 16:02:53 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/heres-how-many-iphone-duo-units-apple-is-reportedly-making/
+Summary: A recent report from Chinese outlet Jiemian News offers an update on iPhone Duo production, including how many units are being made, assembly troubles, and more. <a class="more-link" href="https://9to5mac.com/2026/09/29/
+
+--- STORY 16 ---
+Title: John Ternus has big plans to make Apple ‘leaner’ and release more products
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 15:39:23 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/
+Summary: New CEO John Ternus has plans to “overhaul” Apple in an attempt to make it “run faster and leaner,” according to a new report from Bloomberg . This includes introducing more product
+
+--- STORY 17 ---
+Title: Deals: M5 MacBook Air, MacBook Pro $500 off, Mac Studio, accessories from $20 or less, more
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 15:35:22 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/deals-macbook-air-macbook-pro-mac-studio-accessories/
+Summary: The early fall Amazon Prime Day sale rolls in with a collection of new discounts, alongside the solid $50 price drop on the brand new Mac Studio and up to $150 off M5 MacBook Air models. We are also now tracking deep $500 price drop on both the Silver and Space Black 2TB M5 Pr
+
+--- STORY 18 ---
+Title: iOS 27’s Shortcuts app adds 35+ new, improved actions, here’s what’s new
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 14:36:26 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/ios-27s-shortcuts-app-adds-35-new-improved-actions-heres-whats-new/
+Summary: Apple’s Shortcuts app in iOS 27 adds a user-friendly new way to build shortcuts that I love, but it also adds 35+ new and improved actions and automations to the app. Here’s the full list.
+
+--- STORY 19 ---
+Title: Reminders just got more powerful, here’s what’s new in iOS 27
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 14:14:15 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/heres-everything-new-for-reminders-in-ios-27/
+Summary: iOS 27 adds new features to Apple Notes , Messages , <a href="https://9to5mac.com/2026/06/08/heres-everything-new-for-apple
+
+--- STORY 20 ---
+Title: Apple TV unveils chilling serial killer thriller based on bestselling novel
+Source: 9to5Mac
+Published: Tue, 29 Sep 2026 13:52:28 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/09/29/apple-tv-unveils-chilling-serial-killer-thriller-based-on-bestselling-novel/
+Summary: Today Apple TV unveiled the trailer for Nocturne, a new thriller series based on bestselling crime novel “The Sandman” by
+
+--- STORY 21 ---
+Title: Google Play adding Usage-Based Billing subscriptions aimed at AI apps
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 16:29:26 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/29/google-play-usage-subscriptions/
+Summary: Google Play today is giving Android developers more payment options around subscriptions, including Usage-Based Billing. <a class="more-link" href="https://9to5google.com/2026/09/29/google
+
+--- STORY 22 ---
+Title: Deals: Moto Tag 2 Find Hub trackers from $17.50 each, Galaxy Z Flip 8 up to $375 off, LG TVs, more
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 15:47:41 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/09/29/deals-moto-tag-2-trackers-galaxy-z-flip-8-lg-tv/
+Summary: The early fall Amazon Prime Day sale rolls on with loads of new discounts on Echo smart speakers at up to 50% off , the latest Echo Show smart displays at up to $100 off, and much more. But today’s 9to5Toys Lunch Break is headlined by the latest Moto Tag 2 Android Find Hub trackers from $17.50 ea
+
+--- STORY 23 ---
+Title: Pixel 11a looks mostly unchanged in first leak, reportedly brings purple color back [Gallery]
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 15:45:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/29/google-pixel-11a-design-colors-leak/
+Summary: The first leak of Google’s upcoming Pixel 11a just hit the web, revealing a virtually unchanged design, as well as suggesting that the mid-range device might get a purple colorway. more…
+
+--- STORY 24 ---
+Title: Samsung SmartThings is shutting down support for Galaxy SmartTag in October
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 15:30:00 +0000
+Category: Hardware
+URL: https://9to5google.com/2026/09/29/samsung-smartthings-is-shutting-down-support-for-galaxy-smarttag-in-october/
+Summary: Samsung has confirmed plans to shut down its SmartThings Tracker feature that helps users locate Galaxy SmartTags, but it’s not the end of the actual tracker functionality. <a class="more-link" href="https://9to5google.com/2026/09/29/samsung-smartthings-is-shutting-down-support-for-galaxy-s
+
+--- STORY 25 ---
+Title: Pixel Watch 4 & 5’s handy USB-C travel charger is currently on sale
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 15:15:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/29/pixel-watch-4-5s-handy-usb-c-travel-charger-is-currently-on-sale/
+Summary: Launched earlier this year, that useful little USB-C charger dongle for Google’s Pixel Watch 4 and Pixel Watch 5 smartwatches is currently discounted. <a class="more-link" href="https://9to5google.com/2026/09/29/pixel-watch-4-5s-handy-usb-c-travel-charger-is-currently-on-sale/#more-
+
+--- STORY 26 ---
+Title: Moto Tag 2 for Android Find Hub is back in stock for $20
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 15:11:38 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/29/moto-tag-2-deal-drops-it-to-20-after-restock/
+Summary: The Moto Tag 2 is the product of Motorola playing it safe, and that means the Android Find Hub tracker fits in most tracker accessories on the market, making it a pretty good deal. It’s on sale right now for $19 – 33% off after a time out of stock. <a class="more-link" href="https://9to5google.com/2026/09/
+
+--- STORY 27 ---
+Title: It’s not just you, Claude is down in confirmed partial outage [U]
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 14:44:00 +0000
+Category: AI Models
+URL: https://9to5google.com/2026/09/29/claude-confirmed-outage-sept-29/
+Summary: Anthropic has confirmed an outage affecting multiple Claude services this morning. more…
+
+--- STORY 28 ---
+Title: Galaxy S27 Ultra’s missing camera shown in leaks is its 3x zoom
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 14:37:31 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/09/29/galaxy-s27-ultra-loses-3x-camera/
+Summary: Previous Galaxy S27 Ultra leaks have directed attention to the new camera island, but don’t overlook the missing camera lens left behind with the Galaxy S26 Ultra. Apparently, that camera is the Samsung Galaxy S27 Ultra’s 10MP 3x zoom. <a class="more-link" href="https://9to5google.com/2026/09/29/galaxy-s27-ultra-loses-3x-
+
+--- STORY 29 ---
+Title: It’s not just you, Spotify is down in partial outage this morning
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 14:05:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/09/29/spotify-outage-september-2026/
+Summary: A partial outage has left the Spotify app in shambles, with core functions not working for many users. more…
+
+--- STORY 30 ---
+Title: Samsung’s Android 17 floodgates are open – updates rolling out for Galaxy S26, S25, more
+Source: 9to5Google
+Published: Tue, 29 Sep 2026 13:55:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/09/29/samsung-android-17-update-rolling-out-galaxy-s26-s25/
+Summary: The floodgates are open. After a delay and staggered starts, Samsung is widely rolling out its Android 17-based One UI 9 update for Galaxy S26 users around the globe, and they’re not alone. <a class="more-link" href="https://9to5google.com/2026/09/29/samsung-android-17-update-rolling-out-galaxy
+
+--- STORY 31 ---
+Title: Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says
+Source: Ars Technica
+Published: Tue, 29 Sep 2026 17:29:14 +0000
+Category: Apple
+URL: https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/
+Summary: Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.
+
+--- STORY 32 ---
+Title: This study looks at how and with whom connected cars share your data
+Source: Ars Technica
+Published: Tue, 29 Sep 2026 14:49:44 +0000
+Category: General Tech
+URL: https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/
+Summary: Between the cars and their companion apps, you’re exposed to a lot of trackers.
+
+--- STORY 33 ---
+Title: Less protein for maggots means longer lives for fruit flies
+Source: Ars Technica
+Published: Tue, 29 Sep 2026 14:39:25 +0000
+Category: General Tech
+URL: https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/
+Summary: Eating less protein as larvae may limit their ability to produce proteins as adults.
+
+--- STORY 34 ---
+Title: OpenAI says planned GPT-6.1 is too insecure to release
+Source: Ars Technica
+Published: Tue, 29 Sep 2026 14:22:31 +0000
+Category: AI Models
+URL: https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/
+Summary: Similar performance, security trade-offs also seen in current public models.
+
+--- STORY 35 ---
+Title: Anthropic’s IPO pitch includes a warning about human extinction
+Source: Ars Technica
+Published: Tue, 29 Sep 2026 14:10:00 +0000
+Category: AI Models
+URL: https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/
+Summary: The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.
+
+--- STORY 36 ---
+Title: Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome
+Source: Ars Technica
+Published: Tue, 29 Sep 2026 13:00:19 +0000
+Category: Google
+URL: https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/
+Summary: Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.
+
+--- STORY 37 ---
+Title: Boeing "incredibly excited" to serve as nation's only astronaut transportation
+Source: Ars Technica
+Published: Mon, 28 Sep 2026 22:24:33 +0000
+Category: General Tech
+URL: https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/
+Summary: "We couldn't provide detailed pricing to the CLD suppliers."
+
+--- STORY 38 ---
+Title: Experts worry about Nvidia's AI chip sales in China and influence over Trump
+Source: Ars Technica
+Published: Mon, 28 Sep 2026 21:49:10 +0000
+Category: China Tech
+URL: https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/
+Summary: China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.
+
+--- STORY 39 ---
+Title: SpaceX's Starship goes orbital, deploying first next-gen Starlinks
+Source: Ars Technica
+Published: Mon, 28 Sep 2026 21:26:19 +0000
+Category: General Tech
+URL: https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/
+Summary: Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.
+
+--- STORY 40 ---
+Title: Florida invokes extinction fears in legal bid to halt OpenAI development
+Source: Ars Technica
+Published: Mon, 28 Sep 2026 20:49:39 +0000
+Category: Hardware
+URL: https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/
+Summary: State says LLMs threaten civilization as "the greatest public nuisance ever created."
+
+--- STORY 41 ---
+Title: How to Beat Surveillance Pricing Before It Bleeds You Dry
+Source: Wired
+Published: Tue, 29 Sep 2026 10:45:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/how-to-beat-surveillance-pricing-before-it-bleeds-you-dry/
+Summary: Consumer advocate Lindsay Owen’s new book, Gouged, traces how corporations use software—from ever-changing prices to opaque algorithms—to squeeze every penny from you.
+
+--- STORY 42 ---
+Title: 7 Best Smartwatch Models: Apple, Google, Garmin (2026)
+Source: Wired
+Published: Tue, 29 Sep 2026 10:39:00 +0000
+Category: Apple
+URL: https://www.wired.com/story/best-smartwatch/
+Summary: These WIRED-tested wearables reduce your reliance on a phone while keeping you connected.
+
+--- STORY 43 ---
+Title: Beats 360 Review: Customizable, Stylish, and Fun
+Source: Wired
+Published: Tue, 29 Sep 2026 10:00:00 +0000
+Category: Hardware
+URL: https://www.wired.com/review/beats-360/
+Summary: Beats’ new flagship headphones are customizable, stylish, fun, and great for working out. But there are stronger options for everyday use.
+
+--- STORY 44 ---
+Title: Plastic Is Melting Onto Corals
+Source: Wired
+Published: Tue, 29 Sep 2026 09:30:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/plastic-is-melting-onto-corals/
+Summary: Scientists have found a new form of pollution, one where plastic and pieces of coral become irreversibly intertwined.
+
+--- STORY 45 ---
+Title: Target Promo Code: $50 Off | October 2026
+Source: Wired
+Published: Tue, 29 Sep 2026 05:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/target-promo-code/
+Summary: Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.
+
+--- STORY 46 ---
+Title: Uplift Promo Codes: $300 Off
+Source: Wired
+Published: Tue, 29 Sep 2026 05:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/uplift-desk-coupon-code/
+Summary: Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.
+
+--- STORY 47 ---
+Title: 50% Off Blue Apron Promo Codes | October 2026
+Source: Wired
+Published: Tue, 29 Sep 2026 05:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/blue-apron-coupon/
+Summary: Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.
+
+--- STORY 48 ---
+Title: Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now
+Source: Wired
+Published: Mon, 28 Sep 2026 21:28:20 +0000
+Category: Hardware
+URL: https://www.wired.com/story/shark-air-purifier-deal-october-2026/
+Summary: Shark and other top air purifier brands are on discount ahead of Amazon Prime Big Deal Days.
+
+--- STORY 49 ---
+Title: Boox Announces the Picco, Its Smallest E-Reader Ever (2026)
+Source: Wired
+Published: Mon, 28 Sep 2026 19:30:00 +0000
+Category: Hardware
+URL: https://www.wired.com/story/boox-picco-announcement-2026/
+Summary: The Boox Picco is a palm-sized e-reader with a 4-inch screen, strong support for different ebook formats, and digital utility tools.
+
+--- STORY 50 ---
+Title: Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers
+Source: Wired
+Published: Mon, 28 Sep 2026 18:47:54 +0000
+Category: Meta
+URL: https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/
+Summary: Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.
+
+--- STORY 51 ---
+Title: ChatGPT Space is a shared hub for work projects and personal AI agents
+Source: Engadget
+Published: Tue, 29 Sep 2026 17:15:00 +0000
+Category: AI Models
+URL: https://www.engadget.com/2272248/chatgpt-space-for-work/
+Summary: ChatGPT is coming to Slack and Microsoft Teams too.
+
+--- STORY 52 ---
+Title: OpenAI adds $500(!) Pro subscription, nerfs its existing $200 tier
+Source: Engadget
+Published: Tue, 29 Sep 2026 17:15:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/
+Summary: How long until every other AI company does the same?
+
+--- STORY 53 ---
+Title: Dots are OpenAI's new personal agents and soon you'll be able to control several of them
+Source: Engadget
+Published: Tue, 29 Sep 2026 17:15:00 +0000
+Category: Hardware
+URL: https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/
+Summary: Sure, seems safe.
+
+--- STORY 54 ---
+Title: McDonald's is reportedly using AI to "dynamically" price its burgers
+Source: Engadget
+Published: Tue, 29 Sep 2026 17:00:25 +0000
+Category: General Tech
+URL: https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/
+Summary: Its food isn't the only thing leaving a bad taste in customers' mouths.
+
+--- STORY 55 ---
+Title: Do you really need a travel router? Here's what to know
+Source: Engadget
+Published: Tue, 29 Sep 2026 15:45:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2270789/travel-router-do-you-need-one/
+Summary: Travel routers simplify the process of connecting a half-dozen devices to hotel Wi-Fi, but they aren't necessary in simpler setups.
+
+--- STORY 56 ---
+Title: Senate report claims Iran is using Tether's stablecoin to evade sanctions
+Source: Engadget
+Published: Tue, 29 Sep 2026 15:29:32 +0000
+Category: Hardware
+URL: https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions/
+Summary: Cryptocurrency linked to crime; in other news: fork found in drawer.
+
+--- STORY 57 ---
+Title: OpenAI Dev Day 2026: Live updates on the latest ChatGPT and Codex announcements
+Source: Engadget
+Published: Tue, 29 Sep 2026 15:00:10 +0000
+Category: AI Models
+URL: https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/
+Summary: CEO Sam Altman is expected to take the stage today.
+
+--- STORY 58 ---
+Title: Cat7 vs. Cat6 Ethernet cable: Which is better for your home network?
+Source: Engadget
+Published: Tue, 29 Sep 2026 14:45:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2270648/cat7-vs-cat6-ethernet-cable-which-better-home-network/
+Summary: If you're deciding between a Cat6 and a Cat7 Ethernet cable, this is what you need to know about how it will affect your home internet.
+
+--- STORY 59 ---
+Title: Technics brings magnetic fluid drivers to new EAH-A1000 headphones
+Source: Engadget
+Published: Tue, 29 Sep 2026 14:00:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2271430/technics-brings-magnetic-fluid-drivers-to-new-eah-a1000-headphones/
+Summary: The tech should reduce audio distortion for these over-ear ANC cans.
+
+--- STORY 60 ---
+Title: The Ember Mug 3 is brimming with potential, but it leaves a bitter taste
+Source: Engadget
+Published: Tue, 29 Sep 2026 13:30:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2271732/ember-mug-3-hands-on/
+Summary: A self-heating mug is a great idea, but for $150, Ember's third-generation flagship is a tough sell.
+
+--- STORY 61 ---
+Title: The Download: climate tech companies to watch and AI’s discovery problem
+Source: MIT Technology Review
+Published: Tue, 29 Sep 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…
+
+--- STORY 62 ---
+Title: Coming soon: Our 2026 list of Climate Tech Companies to Watch
+Source: MIT Technology Review
+Published: Tue, 29 Sep 2026 11:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/
+Summary: Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate…
+
+--- STORY 63 ---
+Title: Making AI an asset, not an expense
+Source: MIT Technology Review
+Published: Tue, 29 Sep 2026 10:43:45 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/
+Summary: When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…
+
+--- STORY 64 ---
+Title: Roundtables: The Deadly Failures of The Virtual Border Wall
+Source: MIT Technology Review
+Published: Mon, 28 Sep 2026 22:17:07 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/
+Summary: Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…
+
+--- STORY 65 ---
+Title: When can we say AI made a scientific discovery?
+Source: MIT Technology Review
+Published: Mon, 28 Sep 2026 17:03:16 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/
+Summary: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…
+
+--- STORY 66 ---
+Title: The Download: rogue agent liability and the AI Hype Index
+Source: MIT Technology Review
+Published: Mon, 28 Sep 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…
+
+--- STORY 67 ---
+Title: Who’s liable when AI agents go rogue?
+Source: MIT Technology Review
+Published: Mon, 28 Sep 2026 08:06:22 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
+Summary: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…
+
+--- STORY 68 ---
+Title: The Download: the Pentagon’s AI-powered lie detector and young organ limits
+Source: MIT Technology Review
+Published: Fri, 25 Sep 2026 12:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…
+
+--- STORY 69 ---
+Title: The Pentagon wants $30 million to build an AI-powered lie detector
+Source: MIT Technology Review
+Published: Fri, 25 Sep 2026 09:16:25 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
+Summary: The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…
+
+--- STORY 70 ---
+Title: Young organs may not be a fountain of youth for recipients
+Source: MIT Technology Review
+Published: Fri, 25 Sep 2026 09:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/
+Summary: Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously…
+
+--- STORY 71 ---
+Title: Open source tool distills Jev so you can run it locally
+Source: The Register
+Published: Tue, 29 Sep 2026 19:28:00 +0200
+Category: Hardware
+URL: https://www.theregister.com/ai-and-ml/2026/09/29/open-source-tool-distills-jev-so-you-can-run-it-locally/5299856
+Summary: Jevstiller targets 98% agreement by learning familiar requests on your hardware while sending uncertain and audited queries upstream
+
+--- STORY 72 ---
+Title: Boeing's Calamity Capsule gets another shot at the ISS taxi business
+Source: The Register
+Published: Tue, 29 Sep 2026 19:00:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/offbeat/2026/09/29/boeings-calamity-capsule-gets-another-shot-at-the-iss-taxi-business/5299778
+Summary: Starliner-1 could fly by January, with astronauts to follow by 2028 if all goes well
+
+--- STORY 73 ---
+Title: Microsoft sends PDFs to strange new worlds instead of SharePoint
+Source: The Register
+Published: Tue, 29 Sep 2026 18:32:00 +0200
+Category: Microsoft
+URL: https://www.theregister.com/software/2026/09/29/microsoft-sends-pdfs-to-strange-new-worlds-instead-of-sharepoint/5299735
+Summary: Use SharePoint Online? Keen on PDFs? Then you won't be keen on the latest Word bug
+
+--- STORY 74 ---
+Title: AI models keep posting screenshots showing sensitive data from inside tech companies
+Source: The Register
+Published: Tue, 29 Sep 2026 18:00:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640
+Summary: Glow Security finds more than 13,000 publicly accessible images that expose corporate development work
+
+--- STORY 75 ---
+Title: Schneider gives datacenter switchgear the software-defined treatment
+Source: The Register
+Published: Tue, 29 Sep 2026 17:15:00 +0200
+Category: Regulation
+URL: https://www.theregister.com/on-prem/2026/09/29/schneider-gives-datacenter-switchgear-the-software-defined-treatment/5299756
+Summary: Equinix pilot promises faster deployment and over-the-air upgrades without downtime, provided the code behaves itself
+
+--- STORY 76 ---
+Title: Apple patches CoreGraphics zero-day already exploited in targeted attacks
+Source: The Register
+Published: Tue, 29 Sep 2026 16:30:00 +0200
+Category: Apple
+URL: https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721
+Summary: Meta-spotted flaw could hand attackers arbitrary code execution via a maliciously crafted file
+
+--- STORY 77 ---
+Title: OpenAI benches GPT-6.1 Astra for overstepping the mark
+Source: The Register
+Published: Tue, 29 Sep 2026 15:43:00 +0200
+Category: AI Models
+URL: https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743
+Summary: Turns out teaching an AI to keep going can make it rather bad at knowing when to stop
+
+--- STORY 78 ---
+Title: Leaked IPO docs: Anthropic tempts investors with existential risk warning
+Source: The Register
+Published: Tue, 29 Sep 2026 14:53:13 +0200
+Category: AI Models
+URL: https://www.theregister.com/ai-and-ml/2026/09/29/leaked-ipo-docs-anthropic-tempts-investors-with-existential-risk-warning/5299763
+Summary: Just wait until you hear the bad news
+
+--- STORY 79 ---
+Title: Investors are pricing in a 32.6% AI productivity boost for software engineers
+Source: The Register
+Published: Tue, 29 Sep 2026 14:30:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645
+Summary: Economists turn stock movements into an estimate of anticipated gains – while warning that markets can get carried away
+
+--- STORY 80 ---
+Title: Starship finally makes orbit but engine trouble cuts the victory lap short
+Source: The Register
+Published: Tue, 29 Sep 2026 14:01:00 +0200
+Category: General Tech
+URL: https://www.theregister.com/offbeat/2026/09/29/starship-finally-makes-orbit-but-engine-trouble-cuts-the-victory-lap-short/5299708
+Summary: SpaceX deployed 26 Starlink V3 satellites before bringing its planned ten-hour flight home after three
+
+--- STORY 81 ---
+Title: Oura pulls $15bn stock market listing days after announcement
+Source: BBC Tech
+Published: Tue, 29 Sep 2026 17:17:07 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss
+Summary: The wearable technology company had been expected to list its shares in the US.
+
+--- STORY 82 ---
+Title: OpenAI scraps rollout of new model over safety concerns
+Source: BBC Tech
+Published: Tue, 29 Sep 2026 09:14:13 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss
+Summary: The firm also issued an update on incidents in which its models accessed Australian government systems.
+
+--- STORY 83 ---
+Title: Apple ordered to pay $5.7bn after losing vibration tech patent suit
+Source: BBC Tech
+Published: Mon, 28 Sep 2026 11:16:08 GMT
+Category: Apple
+URL: https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss
+Summary: Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.
+
+--- STORY 84 ---
+Title: OpenAI bots meddled with multiple US government agency sites
+Source: BBC Tech
+Published: Sat, 26 Sep 2026 02:50:56 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss
+Summary: OpenAI said its bots accessed public data from a range of institutions during test exercises.
+
+--- STORY 85 ---
+Title: Inside iconic horror game Silent Hill's Scottish makeover
+Source: BBC Tech
+Published: Fri, 25 Sep 2026 23:34:20 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss
+Summary: One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?
+
+--- STORY 86 ---
+Title: Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach
+Source: BBC Tech
+Published: Fri, 25 Sep 2026 23:05:40 GMT
+Category: Cybersecurity
+URL: https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss
+Summary: Current and former agents speak to the BBC about the devastating impact of the FBI hack.
+
+--- STORY 87 ---
+Title: Special agents' blood and urine test results stolen in FBI hack
+Source: BBC Tech
+Published: Fri, 25 Sep 2026 13:56:16 GMT
+Category: Cybersecurity
+URL: https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss
+Summary: Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
+
+--- STORY 88 ---
+Title: US backs Elon Musk's bid to overturn €120m EU fine against X
+Source: BBC Tech
+Published: Fri, 25 Sep 2026 09:48:33 GMT
+Category: Regulation
+URL: https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss
+Summary: The EU had said X "deceives users" by selling blue ticks without "meaningfully verifying" accounts.
+
+--- STORY 89 ---
+Title: X-planes: Are they needed in the new era of drones?
+Source: BBC Tech
+Published: Thu, 24 Sep 2026 23:03:53 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss
+Summary: Where do America's X-plane projects fit in an era of cheap drones?
+
+--- STORY 90 ---
+Title: Why Australia chose the world's biggest political stage to reveal OpenAI hack
+Source: BBC Tech
+Published: Thu, 24 Sep 2026 18:06:40 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss
+Summary: Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.
+
+--- STORY 91 ---
+Title: Ternus busca transformar Apple para competir en era de IA
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 17:37:11 GMT
+Category: Apple
+URL: https://www.bloomberg.com/news/articles/2026-09-29/ternus-busca-transformar-apple-para-competir-en-era-de-ia-mumyl7t7
+Summary: A pocas semanas de asumir como director ejecutivo de Apple Inc., John Ternus está orquestando una reestructuración del fabricante del iPhone para acelerar el desarrollo de productos, ampliar su gama de dispositivos y crear una organización más ágil y con mayor énfasis en la ingeniería.
+
+--- STORY 92 ---
+Title: OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 17:35:13 GMT
+Category: Business
+URL: https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value
+Summary: OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for an initial public offering.
+
+--- STORY 93 ---
+Title: OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 17:08:03 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier
+Summary: OpenAI has unveiled an always-on artificial intelligent agent that’s designed to proactively tackle work on a user’s behalf, competing with firms like Meta Platforms Inc. in a growing field for AI-powered digital assistants.
+
+--- STORY 94 ---
+Title: How the Rise of Prediction Markets Impacts Sportsbooks
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 17:15:51 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-09-29/how-the-rise-of-prediction-markets-impacts-sportsbooks-video
+Summary: Bloomberg's Romaine Bostick reports on how the rise of prediction markets is impacting sports betting and if more regulation is needed. Executives from BetMGM, DraftKings, FanDuel, Robinhood and Fanatics all weigh in. (Source: Bloomberg)
+
+--- STORY 95 ---
+Title: What El Niño Could Cost Africa | Bloomberg Next Africa
+Source: Bloomberg Tech
+Published: Fri, 25 Sep 2026 09:43:14 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-09-25/what-el-nino-could-cost-africa-video
+Summary: In this edition of Next Africa, we examine the economic risks from El Niño as drought and floods threaten crops, food prices and hydropower across the continent. Jennifer Zabasajja speaks with experts about the regions most exposed, the investment needed to strengthen Africa's water resilience and how AI tools are helping smallholder farmers make critical decisions as weather becomes harder to predict. (Corrects onscreen figure to reflect $6.7T financing gap.) (Source: Bloomberg)
+
+--- STORY 96 ---
+Title: Brookfield-Backed AI Data Center Developer 5C Eyes IPO
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 16:59:21 GMT
+Category: Hardware
+URL: https://www.bloomberg.com/news/articles/2026-09-29/brookfield-backed-ai-data-center-developer-5c-eyes-ipo
+Summary: The head of Hypertec Group Inc. says data center developer 5C Group may go public as it ramps up its project pipeline.
+
+--- STORY 97 ---
+Title: Cyber Worker Allegedly Moonlighted as ShinyHunters Hacker
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 15:21:27 GMT
+Category: Cybersecurity
+URL: https://www.bloomberg.com/news/articles/2026-09-29/dutch-cyber-worker-allegedly-moonlit-as-shinyhunters-hacker
+Summary: Police in the Netherlands have arrested a Dutch man on suspicion of cybercrime-related activities, according to the person’s employer and other people familiar with the matter.
+
+--- STORY 98 ---
+Title: Inside the Dangote Family Vision and the Next Era of African Industry
+Source: Bloomberg Tech
+Published: Sat, 29 Aug 2026 09:52:26 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-08-29/dangote-s-daughters-shape-the-future-of-an-empire-video
+Summary: What does the future hold for one of Africa's most powerful industrial empires? In this exclusive conversation on Bloomberg Next Africa, Halima, Mariya, and Fatima Dangote sit down to discuss the next generation of leadership at the Dangote Group — from expanding cement production and investing in refining, fertilizer and power to building a family office focused on preserving the family’s legacy for generations. They also discuss creating more value from Africa’s resources at home, the role of
+
+--- STORY 99 ---
+Title: OpenAI Scraps Debut of AI Model as It Sets New Guardrails
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 16:37:30 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-ai-model-sets-new-guardrails-video
+Summary: OpenAI is holding back a version of its Astra model while it establishes stronger safeguards for artificial intelligence development, flagging heightened risks after a spate of recent rogue AI hacking incidents. Bloomberg Tech Anchor, Ed Ludlow discusses the move, as well as broader AI fears impacting the markets. (Source: Bloomberg)
+
+--- STORY 100 ---
+Title: Santos: AI Euphoria Meets Reality
+Source: Bloomberg Tech
+Published: Tue, 29 Sep 2026 15:20:20 GMT
+Category: Regulation
+URL: https://www.bloomberg.com/news/videos/2026-09-29/santos-ai-euphoria-meets-reality-video
+Summary: Gabriela Santos, Chief Market Strategist for the Americas at JPMorgan Asset Management says the recent surge in Treasury yields looks overdone, arguing the US economy is resilient but normalizing rather than booming. She urges investors to favor high‑quality large caps over speculative AI plays, watch leverage and stay selective in banks as secular AI forces drive market dispersion. (Source: Bloomberg)
+
+--- STORY 101 ---
+Title: Meta is bringing Muse AI to small businesses — and it already has a huge head start
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 17:26:06 GMT
+Category: Meta
+URL: https://www.cnbc.com/2026/09/29/meta-is-bringing-muse-ai-to-small-businesses-and-it-already-has-a-huge-head-start.html
+Summary: Meta announced Muse for Small Business, capitalizing on the 200 million small businesses already on its platform.
+
+--- STORY 102 ---
+Title: Tech leaders arrive at White House for AI luncheon with Trump
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 17:25:58 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html
+Summary: The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch
+
+--- STORY 103 ---
+Title: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 16:55:13 GMT
+Category: AI Models
+URL: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html
+Summary: Trump called the new website, America.gov, "a restoration of America's founding promise."
+
+--- STORY 104 ---
+Title: House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 13:37:49 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html
+Summary: House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.
+
+--- STORY 105 ---
+Title: Trump meets with AI execs, Treasury yields pressure stocks, Alaska's luxury push and more in Morning Squawk
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 12:31:16 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/29/5-things-to-know-before-the-stock-market-opens.html
+Summary: Here are five key things investors need to know to start the trading day.
+
+--- STORY 106 ---
+Title: Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 13:09:30 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html
+Summary: Nvidia is looking to spend hundreds of billions of dollars buying its stock at a time when it's historically cheap based on earnings expectations.
+
+--- STORY 107 ---
+Title: Smart ring maker Oura postpones IPO due to market 'uncertainty'
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 13:50:01 GMT
+Category: Business
+URL: https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html
+Summary: Oura said the delay comes despite "strong demand" and a strengthenthing of the business since the start of the IPO process.
+
+--- STORY 108 ---
+Title: Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 12:43:08 GMT
+Category: Meta
+URL: https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html
+Summary: Following the success of its Muse personal AI agent, Meta is introducing a specialized version for small businesses.
+
+--- STORY 109 ---
+Title: Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 11:52:46 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html
+Summary: Mistral CEO Arthur Mensch criticized rivals’ AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.
+
+--- STORY 110 ---
+Title: Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm
+Source: CNBC Tech
+Published: Tue, 29 Sep 2026 01:48:52 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html
+Summary: Samsung Electronics and its five affiliates are investing $1 billion in KKR-launched Helix as the group expands its push into global AI infrastructure.
+
+--- STORY 111 ---
+Title: Google Photos can now blur sensitive info in your pics and screenshots; here's how to use it
+Source: Android Police
+Published: Tue, 29 Sep 2026 17:00:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/google-photos-redact-blur-pixelate-tool-markup/
+Summary: Finally, Google Photos has caught up
+
+--- STORY 112 ---
+Title: Google's Pixel 11a won't look different, but it's getting the upgrade that matters
+Source: Android Police
+Published: Tue, 29 Sep 2026 16:13:19 GMT
+Category: Google
+URL: https://www.androidpolice.com/pixel-11a-leaked-renders/
+Summary: Don't judge it by looks
+
+--- STORY 113 ---
+Title: How I made a spare Android phone work as my Fire Stick replacement
+Source: Android Police
+Published: Tue, 29 Sep 2026 15:15:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/how-i-made-a-spare-android-phone-work-as-my-fire-stick-replacement/
+Summary: My spare Android phone turned out to be better than my Fire Stick
+
+--- STORY 114 ---
+Title: Take 39% off this Kindle Paperwhite Signature bundle with wireless charging dock and case
+Source: Android Police
+Published: Tue, 29 Sep 2026 13:45:16 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/amazon-kindle-paperwhite-bundle-202-deal/
+Summary: Just $202 this week
+
+--- STORY 115 ---
+Title: I added Google's new Pixel VIP widget to my home screen; it replaced 3 messaging apps
+Source: Android Police
+Published: Tue, 29 Sep 2026 13:30:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/pixel-vip-widget-replaced-3-apps/
+Summary: One tap replaced three separate apps
+
+--- STORY 116 ---
+Title: Gemini on my Google Home speakers has been an absolute disaster
+Source: Android Police
+Published: Tue, 29 Sep 2026 13:00:10 GMT
+Category: AI Models
+URL: https://www.androidpolice.com/gemini-google-home-speakers-absolute-disaster/
+Summary: We're speaking another language
+
+--- STORY 117 ---
+Title: Samsung is finally moving away from Microsoft to Google; I love it
+Source: Android Police
+Published: Tue, 29 Sep 2026 12:15:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/samsung-is-finally-moving-away-from-microsoft-to-google-and-i-love-it/
+Summary: Google is taking over Galaxy apps
+
+--- STORY 118 ---
+Title: I relied on Gboard's new scam detection for a week to see if it can actually save me from scammers
+Source: Android Police
+Published: Tue, 29 Sep 2026 12:00:10 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/relied-on-gboards-new-scam-detection-to-see-if-it-save-me-from-scammers/
+Summary: Gboard caught a scam text and the one I sent myself
+
+--- STORY 119 ---
+Title: Google Assistant is officially gone, and people aren't happy about it
+Source: Android Police
+Published: Tue, 29 Sep 2026 11:29:55 GMT
+Category: Google
+URL: https://www.androidpolice.com/the-google-assistant-kill-off-has-arrived/
+Summary: Your phone has lost Google Assistant for good
+
+--- STORY 120 ---
+Title: This app lets me manage my 11 subscriptions; it saved me $32
+Source: Android Police
+Published: Tue, 29 Sep 2026 11:00:10 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/this-app-lets-me-manage-my-subscriptions-it-saved-me-money/
+Summary: When it is time to call it quits on some monthly expenditures
+
+--- STORY 121 ---
+Title: Windows 11 version 26H2 is now generally available
+Source: Windows Central
+Published: Tue, 29 Sep 2026 17:33:03 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-releases-windows-11-version-26h2-calls-it-a-predictable-and-low-disruption-update-with-no-compatibility-concerns
+Summary: The next version of Windows 11 is now generally available. Here's what's now and how you can get it.
+
+--- STORY 122 ---
+Title: Goat Simulator 3's new expansion takes on GTA 6 launch date
+Source: Windows Central
+Published: Tue, 29 Sep 2026 17:21:30 +0000
+Category: General Tech
+URL: https://www.windowscentral.com/gaming/goat-simulator-3-dizzyworld
+Summary: Goat Simulator 3 dares to challenge GTA 6 with its new theme park DLC, Ticket to Dizzyworld, launching November 19.
+
+--- STORY 123 ---
+Title: Copilot reviewers speak out on grading AI-generated explicit content
+Source: Windows Central
+Published: Tue, 29 Sep 2026 14:58:26 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/artificial-intelligence/from-ai-breast-enlargement-to-she-hulk-porn-human-reviewers-are-being-inundated-with-sexual-copilot-prompts
+Summary: Contractors reviewing Microsoft Copilot prompts report being flooded with sexually explicit images and potentially illegal user requests.
+
+--- STORY 124 ---
+Title: The Copilot+ PC brand is dead: How to remap your Copilot key
+Source: Windows Central
+Published: Tue, 29 Sep 2026 13:19:09 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/the-copilot-pc-brand-is-dead-heres-how-to-reclaim-and-remap-the-copilot-key
+Summary: Microsoft is stepping back from the Copilot+ PC name, leaving many with an unused key that you can easily remap.
+
+--- STORY 125 ---
+Title: Xbox doesn't even need GTA 6 for November — it has something even better
+Source: Windows Central
+Published: Tue, 29 Sep 2026 12:00:00 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/xbox-doesnt-even-need-gta-6-for-november-it-has-something-even-better
+Summary: The unexpected virality of World of Warcraft: Forever couldn't have come at a better time for Xbox, given that it will go directly head-to-head with the PlayStation-oriented GTA 6 this November.
+
+--- STORY 126 ---
+Title: Dell's '14S' laptop is great for everyday work, and now at a smarter price
+Source: Windows Central
+Published: Tue, 29 Sep 2026 10:27:49 +0000
+Category: Hardware
+URL: https://www.windowscentral.com/hardware/dell/cheaper-alternative-to-xps-for-everyday-workloads
+Summary: Best Buy is offering a 44% discount on the Dell 14S, a laptop that's designed to be a more affordable alternative to Dell's XPS series but with similar high-quality levels of performance, resolution, and battery life.
+
+--- STORY 127 ---
+Title: Xbox disc-to-digital adds SEGA games and automatic licenses
+Source: Windows Central
+Published: Tue, 29 Sep 2026 10:03:10 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/xbox-disc-to-digital-expands-with-sega
+Summary: Xbox’s disc-to-digital feature is continuing to expand in testing, with SEGA games beginning to appear alongside new automatic digital entitlements and streamlined notifications.
+
+--- STORY 128 ---
+Title: Heroes of the Storm gets its first new hero in six years
+Source: Windows Central
+Published: Mon, 28 Sep 2026 19:43:40 +0000
+Category: General Tech
+URL: https://www.windowscentral.com/gaming/blizzard/heroes-of-the-storms-91st-hero-goes-live-today
+Summary: Blizzard is adding Xal’atath to Heroes of the Storm, giving the MOBA its first new hero in almost six years alongside Twitch Drops and a major new update.
+
+--- STORY 129 ---
+Title: Modern Warfare 4 isn't going to waste your 2XP tokens in the lobby
+Source: Windows Central
+Published: Mon, 28 Sep 2026 18:44:13 +0000
+Category: General Tech
+URL: https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-will-finally-fix-the-big-problem-with-2xp-tokens
+Summary: It took entirely too long, but Activision has announced that starting in Modern Warfare 4, you won't burn through your 2XP tokens while you're sat in the lobby.
+
+--- STORY 130 ---
+Title: Microsoft Teams is losing its Copilot chat list shortcut next month
+Source: Windows Central
+Published: Mon, 28 Sep 2026 18:13:39 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-teams-is-the-latest-app-to-lose-a-copilot-shortcut
+Summary: Microsoft Teams will remove the Copilot shortcut from its chat list next month to steer users toward the full-featured app bar.
+
+--- STORY 131 ---
+Title: Apple Explains Why It Removed ICE Tracking Apps Last Year
+Source: MacRumors
+Published: Tue, 29 Sep 2026 17:33:49 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/
+Summary: In a July 2026 letter addressed to U.S. Representative Jamie Raskin (D-MD), Apple said its decision to remove ICEBlock and similar apps that crowdsourced the real-time locations of U.S. Immigration and Customs Enforcement (ICE) agents from the App Store was "prompted by concerns" about "agent safety," according to CNN 's Clare Duffy . <img alt="" class="aligncenter size-full wp-image-1029082
+
+--- STORY 132 ---
+Title: Apple Creator Studio and Final Cut Camera Get New Features
+Source: MacRumors
+Published: Tue, 29 Sep 2026 17:33:35 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/
+Summary: Apple today updated Apple Creator Studio and Final Cut Camera for iOS to add new features. <b
+
+--- STORY 133 ---
+Title: Amazon Expands $779.99 Apple Watch Ultra 4 Deal to More Models
+Source: MacRumors
+Published: Tue, 29 Sep 2026 17:13:30 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/
+Summary: The new Apple Watch Ultra 4 just launched this month, and Amazon is offering the first cash discounts on select models. You can get the Apple Watch Ultra 4 for $779.99 , down from $799.00. <img alt="" class="aligncenter size-full wp-image-1067343" height="1406" src="https://images.macrumors.com/article-new/2026/09/
+
+--- STORY 134 ---
+Title: Switch Siri AI for ChatGPT on Your Mac
+Source: MacRumors
+Published: Tue, 29 Sep 2026 17:08:53 +0000
+Category: AI Models
+URL: https://www.macrumors.com/how-to/make-chatgpt-answer-siri-mac/
+Summary: In macOS 27 Golden Gate, Siri AI is a lot smarter than before, so it doesn't always flail and attempt to hand your questions over to ChatGPT. However, if you still prefer OpenAI's chatbot for certain queries, you can still ask for it explicitly. In macOS Tahoe, Siri would suggest passing a request to Cha
+
+--- STORY 135 ---
+Title: Apple Says Emergency SOS via Satellite Now Available in Norway
+Source: MacRumors
+Published: Tue, 29 Sep 2026 16:57:05 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/
+Summary: Emergency SOS via satellite is now available in Norway, according to an Apple support document updated today. Available on the iPhone 14 and newer and the Apple Watch Ultra
+
+--- STORY 136 ---
+Title: AppleCare Guide: Is it Worth Paying For?
+Source: MacRumors
+Published: Tue, 29 Sep 2026 16:29:33 +0000
+Category: Apple
+URL: https://www.macrumors.com/guide/applecare/
+Summary: Most Apple products come with a one-year limited warranty that covers hardware failures and manufacturing defects, and up to 90 days of complimentary technical support. To extend your coverage further, Apple offers AppleCare+ and AppleCare One, with theft and loss coverage available for eligible devices. With the added cost, service fees, and varying prices across the Apple product lineup, is AppleCare worth paying for? <img alt="" cl
+
+--- STORY 137 ---
+Title: Apple Reportedly Planned to Replace 5,000 Support Employees With AI
+Source: MacRumors
+Published: Tue, 29 Sep 2026 16:11:17 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/apple-reportedly-planned-5000-applecare-layoffs/
+Summary: Apple recently considered laying off about 5,000 support employees, but it has put those plans on hold indefinitely, according to Bloomberg 's Mark Gurman . T
+
+--- STORY 138 ---
+Title: Apple Planning to Launch Products Faster and More Often
+Source: MacRumors
+Published: Tue, 29 Sep 2026 15:55:40 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/apple-to-launch-products-faster-and-more-often/
+Summary: Apple CEO John Ternus is undertaking efforts to restructure the company to accelerate product development and introduce new products more frequently, according to Bloomberg 's Mark Gurman . <img alt="" class="aligncenter size-full wp-image-912758" height="900" src="https://images.macrumors.com/article-new/2023/09/Apple-Logo-Spotlight.jpg" widt
+
+--- STORY 139 ---
+Title: Amazon Discounting New Mac Mini and Mac Studio Alongside Early Prime Day Deals on Monitors
+Source: MacRumors
+Published: Tue, 29 Sep 2026 14:42:23 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/amazon-mac-prime-day-monitors/
+Summary: Amazon has brought back a few discounts on Apple's brand new Mac mini and Mac Studio, with up to $50 off select models . These deals are returning alongside early Prime Big Deal
+
+--- STORY 140 ---
+Title: New Apple TV 4K Hinted at in Support Document
+Source: MacRumors
+Published: Tue, 29 Sep 2026 13:49:32 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/09/29/new-apple-tv-4k-hinted-at-in-support-document/
+Summary: Last week, MacRumors uncovered evidence of an Apple TV 4K (4th generation) , and now an Apple support document has further hinted at a new model. Apple on Monday updated a <a href="https://support.apple.com/en-us/1182
+
+--- STORY 141 ---
+Title: Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 15:17:35 +0000
+Category: India Tech
+URL: https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date
+Summary: The owner of a Zotac RTX 3060 in India was denied warranty coverage just one year after buying the card in 2025, despite Zotac's offer of a three-year standard warranty in the country. The company claims that the warranty begins from the date of import, not the date of sale, and that the card was imported in 2023.
+
+--- STORY 142 ---
+Title: Score the Nintendo Switch 2 at its lowest ever Amazon UK price, now just £354.99
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 15:11:18 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/video-games/nintendo/score-the-nintendo-switch-2-at-its-lowest-ever-amazon-uk-price-now-just-gbp354-99-pocket-a-gbp65-discount-on-nintendos-portable-gaming-console-with-a-7-9-inch-1080p-screen-4k-dock-and-magnetic-controllers
+Summary: The Nintendo Switch 2 is now at a record low price on Amazon UK at just £354.99.
+
+--- STORY 143 ---
+Title: Blockchain-assisted cyberattacks surge fivefold, driven by Iranian and North Korean state actors, Russia-linked groups
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 14:10:00 +0000
+Category: Cybersecurity
+URL: https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks
+Summary: A new report says blockchain dead-drop attacks have risen 440%, with state-linked and criminal groups using transactions, smart contracts, and even phantom wallets to hide malware payloads and C2 infrastructure on public blockchains.
+
+--- STORY 144 ---
+Title: Anthropic lists ‘existential risks to humanity’ as one of its risk factors in IPO prospectus
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 13:30:00 +0000
+Category: AI Models
+URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut
+Summary: Anthropic serves a dire warning in its IPO prospectus, saying how a rogue model could lead to the end of humanity and, consequentially, its business. Nevertheless, investors are still hoping for a $2-trillion valuation once the company goes public.
+
+--- STORY 145 ---
+Title: We tested 13 power banks to help you choose the best one
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 13:10:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/peripherals/usb/we-tested-13-power-banks-to-help-you-choose-the-best-one-from-10-25k-mah-and-20-220w
+Summary: We tested 13 power banks from Anker, Belkin, Baseus, Cuktech, and Sharge, tracking charge times, output, temps, and capacity to see which actually hold up.
+
+--- STORY 146 ---
+Title: Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 12:40:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond
+Summary: How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.
+
+--- STORY 147 ---
+Title: Save 40% on a new budget gaming keyboard
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 12:20:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/peripherals/gaming-keyboards/save-40-percent-on-a-new-budget-gaming-keyboard-steelseries-apex-3-is-just-usd29-in-woot-deal
+Summary: Save 40% on this SteelSeries Apex 3 gaming keyboard at Woot
+
+--- STORY 148 ---
+Title: Intel's next-gen Nova Lake platforms pass compliance at USB and PCIe standards bodies as launch looms
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 12:00:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms
+Summary: Intel is prepping Core Ultra 400-series 'Nova Lake' platform launches as CPUs and chipsets pass interoperability and compliance tests with PCI-SIG and USB-IF.
+
+--- STORY 149 ---
+Title: Sony Japan tries an anti-scalper lottery system for PS5 Pro orders, locks systems behind a 60-hour playtime requirement
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 11:32:05 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/video-games/playstation/sony-japan-tries-an-anti-scalper-lottery-system-for-ps5-pro-orders-locks-systems-behind-a-60-hour-playtime-requirement-strict-lottery-system-blocks-scalpers-and-tourists-in-japan-requires-a-domestic-account-to-buy
+Summary: In the face of strong demand and device shortages, Sony has decided to filter PlayStation 5 Pro purchasers in Japan using a lottery system.
+
+--- STORY 150 ---
+Title: AMD drops an EPYC $15,000, 256-core beast
+Source: Tom's Hardware
+Published: Tue, 29 Sep 2026 11:20:00 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904
+Summary: AMD has shared the full SKU list for its 6th Generation EPYC 9006 (codenamed Venice) series, with 1Ku pricing.
+
+--- STORY 151 ---
+Title: Windows 11 2026 Update released, here's everything you need to know
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 13:37:40 -0400
+Category: Microsoft
+URL: https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/
+Summary: Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]
+
+--- STORY 152 ---
+Title: New Spectre v2 attack variant leaks Linux root password hash in minutes
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 13:10:11 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/
+Summary: A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]
+
+--- STORY 153 ---
+Title: Automated AI agent used to breach cybersecurity nonprofit DIVD
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 11:39:19 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/
+Summary: The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as "loud and very, very messy." [...]
+
+--- STORY 154 ---
+Title: Catch threats before they escalate with real-time Identity Telemetry
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 10:01:11 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/
+Summary: Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]
+
+--- STORY 155 ---
+Title: Vietnamese man charged in $16 million 'pig butchering' crypto scam
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 07:41:53 -0400
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/
+Summary: A Vietnamese national was charged with money laundering for his role in a massive "pig butchering" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]
+
+--- STORY 156 ---
+Title: Kiteworks patches critical flaw, brings customer systems online
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 05:04:06 -0400
+Category: Regulation
+URL: https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/
+Summary: American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]
+
+--- STORY 157 ---
+Title: Apple patches CoreGraphics zero-day flaw exploited in attacks
+Source: BleepingComputer
+Published: Tue, 29 Sep 2026 03:33:12 -0400
+Category: Apple
+URL: https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/
+Summary: Apple released security updates to fix a zero-day vulnerability exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]
+
+--- STORY 158 ---
+Title: Japan's Keio confirms ransomware attack disrupted business systems
+Source: BleepingComputer
+Published: Mon, 28 Sep 2026 16:56:47 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/
+Summary: Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]
+
+--- STORY 159 ---
+Title: Times Car confirms data breach affecting 6.6 million user accounts
+Source: BleepingComputer
+Published: Mon, 28 Sep 2026 16:31:16 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/
+Summary: Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]
+
+--- STORY 160 ---
+Title: Dutch police confirm arrest in ShinyHunters hacking investigation
+Source: BleepingComputer
+Published: Mon, 28 Sep 2026 15:49:10 -0400
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/
+Summary: Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]
+
+--- STORY 161 ---
+Title: Sonnet 5.5
+Source: Hacker News
+Published: 2026-09-28T17:58:11Z
+Category: AI Models
+URL: https://www.anthropic.com/claude-sonnet-5-5
+Summary: Points: 857, Comments: 588
+
+--- STORY 162 ---
+Title: It's Time to Investigate the AI Labs
+Source: Hacker News
+Published: 2026-09-28T19:53:35Z
+Category: General Tech
+URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/
+Summary: Points: 575, Comments: 246
+
+--- STORY 163 ---
+Title: You are no longer invited to dinner
+Source: Hacker News
+Published: 2026-09-29T11:14:45Z
+Category: General Tech
+URL: https://www.derekthompson.org/p/the-death-of-the-american-host
+Summary: Points: 563, Comments: 491
+
+--- STORY 164 ---
+Title: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
+Source: Hacker News
+Published: 2026-09-28T20:23:36Z
+Category: Hardware
+URL: https://github.com/firelex/jeff
+Summary: Points: 556, Comments: 215
+
+--- STORY 165 ---
+Title: Windows 11½
+Source: Hacker News
+Published: 2026-09-28T17:51:24Z
+Category: Microsoft
+URL: https://definitelynotwindows.com/
+Summary: Points: 508, Comments: 169
+
+--- STORY 166 ---
+Title: 500k facial scans at UK stations yield no arrests, 1 false positive
+Source: Hacker News
+Published: 2026-09-29T11:35:18Z
+Category: General Tech
+URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive
+Summary: Points: 386, Comments: 237
+
+--- STORY 167 ---
+Title: A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]
+Source: Hacker News
+Published: 2026-09-29T09:03:41Z
+Category: General Tech
+URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
+Summary: Points: 377, Comments: 121
+
+--- STORY 168 ---
+Title: California farmers are struggling to sell grapes as demand for wine drops
+Source: Hacker News
+Published: 2026-09-28T20:00:06Z
+Category: General Tech
+URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+Summary: Points: 345, Comments: 834
+
+--- STORY 169 ---
+Title: US sanctions force The Netherlands off Microsoft and toward alternative NixOS
+Source: Hacker News
+Published: 2026-09-29T11:44:25Z
+Category: Microsoft
+URL: https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027
+Summary: Points: 334, Comments: 324
+
+--- STORY 170 ---
+Title: macOS Golden Gate Is a Buggy Mess
+Source: Hacker News
+Published: 2026-09-29T14:32:33Z
+Category: Apple
+URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/
+Summary: Points: 327, Comments: 232
+
+--- STORY 171 ---
+Title: How Delhi cut electricity loss from 50 to 5 percent
+Source: Hacker News
+Published: 2026-09-29T12:43:29Z
+Category: General Tech
+URL: https://spectrum.ieee.org/delhi-electricity-loss
+Summary: Points: 311, Comments: 185
+
+--- STORY 172 ---
+Title: World Labs is Joining AMD
+Source: Hacker News
+Published: 2026-09-28T20:18:05Z
+Category: General Tech
+URL: https://www.worldlabs.ai/blog/amd-announcement
+Summary: Points: 298, Comments: 111
+
+--- STORY 173 ---
+Title: MicroLLM Lab – Try 7 tiny LLM's in the browser
+Source: Hacker News
+Published: 2026-09-28T18:58:53Z
+Category: AI Models
+URL: https://stateofutopia.com/experiments/microllmlab/
+Summary: Points: 272, Comments: 110
+
+--- STORY 174 ---
+Title: So long Google, and thanks for all the nudes
+Source: Hacker News
+Published: 2026-09-28T18:04:47Z
+Category: Google
+URL: https://lecaro.me/20260921-google-less.html
+Summary: Points: 257, Comments: 107
+
+--- STORY 175 ---
+Title: GPT 6.1 Sol
+Source: Hacker News
+Published: 2026-09-29T17:06:45Z
+Category: AI Models
+URL: https://openai.com/index/introducing-gpt-6-1-sol/
+Summary: Points: 225, Comments: 149
+
+--- STORY 176 ---
+Title: Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline
+Source: Hacker News
+Published: 2026-09-28T21:08:10Z
+Category: General Tech
+URL: https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/
+Summary: Points: 195, Comments: 92
+
+--- STORY 177 ---
+Title: Jeeves. Reasoning improves Jev-like decision models
+Source: Hacker News
+Published: 2026-09-29T11:13:54Z
+Category: Hardware
+URL: https://github.com/PostHog/jeeves
+Summary: Points: 180, Comments: 76
+
+--- STORY 178 ---
+Title: U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982
+Source: Hacker News
+Published: 2026-09-29T02:26:59Z
+Category: Hardware
+URL: https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html
+Summary: Points: 172, Comments: 204
+
+--- STORY 179 ---
+Title: Tank Body Problem
+Source: Hacker News
+Published: 2026-09-29T00:41:45Z
+Category: General Tech
+URL: http://www.jimsitu.com
+Summary: Points: 172, Comments: 40
+
+--- STORY 180 ---
+Title: Claude partial outage
+Source: Hacker News
+Published: 2026-09-29T14:25:41Z
+Category: AI Models
+URL: https://status.claude.com/incidents/4xvtc2gnq73l
+Summary: Points: 165, Comments: 136
