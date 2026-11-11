@@ -1,0 +1,1442 @@
+# Raw Tech News - 2026-11-11 16:54:15
+Total Stories: 180
+
+--- STORY 1 ---
+Title: Is Jensen Huang’s bad behavior more commonplace than it seems?
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 16:16:07 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/
+Summary: “There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.
+
+--- STORY 2 ---
+Title: OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 16:14:44 +0000
+Category: Hardware
+URL: https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+Summary: Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.
+
+--- STORY 3 ---
+Title: Siri co-founder backs Helix for its voice ID tech
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 15:02:47 +0000
+Category: Apple
+URL: https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/
+Summary: Helix said that its voice ID tech can run on an iPhone 13
+
+--- STORY 4 ---
+Title: Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 15:00:00 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+Summary: At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.
+
+--- STORY 5 ---
+Title: Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 14:00:00 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
+Summary: Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.
+
+--- STORY 6 ---
+Title: Nvidia’s crisis has corporate governance experts reaching for the popcorn
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 07:30:51 +0000
+Category: Hardware
+URL: https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/
+Summary: The governance experts we talked to say nobody has seen anything like what's unfolding right now.
+
+--- STORY 7 ---
+Title: X launches its own clipping feature to spur influencer engagement
+Source: TechCrunch
+Published: Wed, 11 Nov 2026 01:02:13 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/
+Summary: X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.
+
+--- STORY 8 ---
+Title: OpenAI acquires Odessia, travel startup created by Sonder founder
+Source: TechCrunch
+Published: Tue, 10 Nov 2026 21:08:52 +0000
+Category: General Tech
+URL: https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+Summary: OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.
+
+--- STORY 9 ---
+Title: OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+Source: TechCrunch
+Published: Tue, 10 Nov 2026 20:52:13 +0000
+Category: AI Models
+URL: https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+Summary: New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.
+
+--- STORY 10 ---
+Title: Proximal Ventures raises debut fund to back startups bringing AI to drug development
+Source: TechCrunch
+Published: Tue, 10 Nov 2026 20:47:05 +0000
+Category: Hardware
+URL: https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/
+Summary: Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.
+
+--- STORY 11 ---
+Title: watchOS 27.3: Three new features coming soon to Apple Watch
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 16:33:39 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/
+Summary: watchOS 27.3 will launch to all users next month and introduce these three new Apple Watch features. <a class="more-link" href="https://9to5mac.com/2026/11/11/watchos-27-3-
+
+--- STORY 12 ---
+Title: Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 16:27:43 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/deals-airtag-2-magic-mouse-trackpad-macbook-air/
+Summary: The Amazon early Black Friday sale is now live and, alongside the ongoing AirPods Pro 3 at $50 off and Apple Watch Ultra 4 at nearly $100 off <
+
+--- STORY 13 ---
+Title: iPhone is the winner of new battery test, topping all Androids
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 15:58:27 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/iphone-is-the-winner-of-new-battery-test-topping-all-androids/
+Summary: Last week CNET published an extensive battery test and the iPhone came out on top. But it wasn’t just one iPhone model that performed well, as several iPhones topped CNET’s list. <a class="more-link
+
+--- STORY 14 ---
+Title: iOS 27.3 adds new setting to bypass website cookie popups (eventually)
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 15:07:20 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually/
+Summary: iOS 27.3 is currently in beta and packed with new features , including a ‘Global Privacy Control’ setting in Safari that could someday put an end to cookie consent pop-ups. <a class="more-link" href="https://9to5mac.com/2026/11/11/ios-
+
+--- STORY 15 ---
+Title: If you bought an iPhone Duo, have you kept or returned it? [Poll]
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 14:13:49 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/if-you-bought-an-iphone-duo-have-you-kept-or-returned-it-poll/
+Summary: When Apple announced the iPhone Duo back in September, the company called it “the most transformational change to iPhone since the original,” and there’s no doubt that it generated a huge amount of e
+
+--- STORY 16 ---
+Title: HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 14:00:00 +0000
+Category: General Tech
+URL: https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/
+Summary: The worst part of owning smart curtain motors is charging them, because it usually means taking the whole motor down from the track or running a really long USB cord to charge it. Today, SwitchBot has released the SwitchBot Curtain Track 4 aimed at solving t
+
+--- STORY 17 ---
+Title: WhatsApp may soon replace the Communities tab on iOS
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 13:41:13 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/whatsapp-may-soon-replace-the-communities-tab-on-ios/
+Summary: Some WhatsApp beta testers on iOS are seeing a new option in the app’s bottom navigation bar that replaces the Communities tab. Here are the details. more…
+
+--- STORY 18 ---
+Title: I feel a little nostalgic about the Apple Support Community forums, but it was time
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 13:31:53 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/i-feel-a-little-nostalgic-about-the-apple-support-community-forums-but-it-was-time/
+Summary: Yesterday brought a surprise move by Apple when it abruptly ceased write access to the Apple Support Community and announced that it would be <a href="https:
+
+--- STORY 19 ---
+Title: This video lets you actually see the ‘incredible’ new MacBook Pro cooling system
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 12:47:32 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/this-video-lets-you-actually-see-the-incredible-new-macbook-pro-cooling-system/
+Summary: When Apple launched the new MacBook Pro with PROLED XDR display, the company <a href="https://www.apple.com/uk/newsroom/2026/10/apple-unveils-groundbreakin
+
+--- STORY 20 ---
+Title: Early Black Friday deals now live on official Apple Magic accessories, AirTag 2, Pencil, more
+Source: 9to5Mac
+Published: Wed, 11 Nov 2026 12:31:23 +0000
+Category: Apple
+URL: https://9to5mac.com/2026/11/11/black-friday-deals-live-apple-magic-airtag-pencil/
+Summary: Amazon’s early Black Friday sale is now live , and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off , the <a href="http
+
+--- STORY 21 ---
+Title: Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook from $680, Lenovo Yoga Mini $460 off, more
+Source: 9to5Google
+Published: Wed, 11 Nov 2026 16:43:11 +0000
+Category: Google
+URL: https://9to5google.com/2026/11/11/deals-pixel-tag-pixel-watch-5-googlebook-yoga-mini/
+Summary: Amazon’s early Black Friday sale is now live alongside the Best Buy Week 2 early Black Friday deals , but we first wanted to start with the now available for purchase Google Pixel Tag – there are so
+
+--- STORY 22 ---
+Title: Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price
+Source: 9to5Google
+Published: Wed, 11 Nov 2026 15:50:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/
+Summary: After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected. more…
+
+--- STORY 23 ---
+Title: You can now buy the Pixel Tag, cases from Bellroy & Spigen available
+Source: 9to5Google
+Published: Wed, 11 Nov 2026 15:28:54 +0000
+Category: Google
+URL: https://9to5google.com/2026/11/11/buy-pixel-tag/
+Summary: The Pixel Tag is now available for purchase at the Google Store and Amazon. <a class="more-link" href="https://9to5google.com/2026/11/
+
+--- STORY 24 ---
+Title: Dbrand’s new Fitbit Air band launches as the first official third-party strap
+Source: 9to5Google
+Published: Wed, 11 Nov 2026 14:00:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/
+Summary: Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…
+
+--- STORY 25 ---
+Title: Android Auto is getting a Gemini upgrade, but only if you use a Pixel
+Source: 9to5Google
+Published: Wed, 11 Nov 2026 12:35:00 +0000
+Category: AI Models
+URL: https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/
+Summary: Google has confirmed that Gemini on Android Auto is adding “proactive suggestions” soon, but only for Pixel users. more…
+
+--- STORY 26 ---
+Title: Even Realities glasses are coming to a job site near you
+Source: 9to5Google
+Published: Wed, 11 Nov 2026 11:03:00 +0000
+Category: Hardware
+URL: https://9to5google.com/2026/11/11/even-realities-enterprise-sdk/
+Summary: Even Realities is making its first big push into the enterprise business world with a new Enterprise SDK release. more…
+
+--- STORY 27 ---
+Title: Nintendo will soon discontinue Google and Apple sign-ins
+Source: 9to5Google
+Published: Tue, 10 Nov 2026 23:06:46 +0000
+Category: Apple
+URL: https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/
+Summary: Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more…
+
+--- STORY 28 ---
+Title: The Sideload 051: Would you let Ring fly around your house?
+Source: 9to5Google
+Published: Tue, 10 Nov 2026 21:30:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/11/10/the-sideload-051-would-you-let-ring-fly-around-your-house/
+Summary: Welcome to episode 51 of The Sideload, a 9to5Google podcast. This week, Will and Daniel discuss the looming threat of CES before digging into Ring’s newly-announced Drone Cam , something that either seems too dangerous
+
+--- STORY 29 ---
+Title: I’ve waited a long time for the Boox Picco, and I’m not disappointed
+Source: 9to5Google
+Published: Tue, 10 Nov 2026 20:15:00 +0000
+Category: General Tech
+URL: https://9to5google.com/2026/11/10/adorably-tiny-boox-picco-e-reader-does-not-disappoint/
+Summary: At around $100, the Boox Picco offers one of the most portable e-reader experiences you can get. You add MagSafe-like capability with a refreshingly simple UI, and you have a delightful way to read, literally wherever you are. <a class="more-link" href="https://9to5google.com/2026/11/10/adorably-tiny-boo
+
+--- STORY 30 ---
+Title: Android 17 QPR2 November update rolling out with 33 Pixel fixes
+Source: 9to5Google
+Published: Tue, 10 Nov 2026 20:00:00 +0000
+Category: Google
+URL: https://9to5google.com/2026/11/10/android-17-qpr2-november-pixel-update/
+Summary: Android 17 QPR2 is rolling out a month early with the November 2026 Feature Drop and security patch. The update is available for the Pixel 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, 10, 10 Pro, 10 Pro XL
+
+--- STORY 31 ---
+Title: Trump wanted little Kei trucks for America, Toyota makes it happen
+Source: Ars Technica
+Published: Wed, 11 Nov 2026 15:25:44 +0000
+Category: General Tech
+URL: https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/
+Summary: Does this herald the start of a small car revolution, or is it a meaningless distraction?
+
+--- STORY 32 ---
+Title: Google DeepMind just mathematically verified key parts of Signal
+Source: Ars Technica
+Published: Wed, 11 Nov 2026 14:08:57 +0000
+Category: Google
+URL: https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/
+Summary: The four-week project hints that AI could make formal verification far more practical.
+
+--- STORY 33 ---
+Title: Seagate's new hybrid drive raises some old questions
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 23:30:56 +0000
+Category: Meta
+URL: https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/
+Summary: The FireCuda Forge revisits an old idea, with some familiar questions.
+
+--- STORY 34 ---
+Title: The US military seems to be getting nervous about the launch supply crunch
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 23:02:39 +0000
+Category: General Tech
+URL: https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/
+Summary: "Launch is extremely constrained and that is exactly the situation we predicted."
+
+--- STORY 35 ---
+Title: Ring cameras go mobile as Amazon debuts AI-powered security drone and robot
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 22:35:01 +0000
+Category: Hardware
+URL: https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
+Summary: Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.
+
+--- STORY 36 ---
+Title: Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 21:55:26 +0000
+Category: General Tech
+URL: https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/
+Summary: Democrats accuse FCC nominee of evading questions about Carr, her current boss.
+
+--- STORY 37 ---
+Title: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 21:12:59 +0000
+Category: AI Models
+URL: https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/
+Summary: Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.
+
+--- STORY 38 ---
+Title: What happens to mathematics when AI becomes an oracle?
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 20:30:01 +0000
+Category: General Tech
+URL: https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/
+Summary: Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .
+
+--- STORY 39 ---
+Title: Google Fi adds support for a second 5G network, won't say which one
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 19:35:59 +0000
+Category: Google
+URL: https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/
+Summary: Fi has always supported T-Mobile, but the new one? Google won't say.
+
+--- STORY 40 ---
+Title: Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop
+Source: Ars Technica
+Published: Tue, 10 Nov 2026 19:00:26 +0000
+Category: Google
+URL: https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/
+Summary: Spruce up your home screen with expanded custom icons and AI-generated widgets.
+
+--- STORY 41 ---
+Title: The AO3 Shutdown Is Pitting Fanfic Readers Against Authors
+Source: Wired
+Published: Wed, 11 Nov 2026 16:13:03 +0000
+Category: General Tech
+URL: https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/
+Summary: “It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.
+
+--- STORY 42 ---
+Title: China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway
+Source: Wired
+Published: Wed, 11 Nov 2026 15:30:00 +0000
+Category: China Tech
+URL: https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/
+Summary: China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?
+
+--- STORY 43 ---
+Title: Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules
+Source: Wired
+Published: Wed, 11 Nov 2026 13:36:15 +0000
+Category: Regulation
+URL: https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/
+Summary: Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.
+
+--- STORY 44 ---
+Title: Best Indoor Garden Systems I’ve Been Testing for Years (2026)
+Source: Wired
+Published: Wed, 11 Nov 2026 12:30:00 +0000
+Category: General Tech
+URL: https://www.wired.com/gallery/best-indoor-gardening-systems/
+Summary: Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.
+
+--- STORY 45 ---
+Title: Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
+Source: Wired
+Published: Wed, 11 Nov 2026 12:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/
+Summary: Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.
+
+--- STORY 46 ---
+Title: Best OLED TVs of 2026: LG, Samsung, Sony, and More
+Source: Wired
+Published: Wed, 11 Nov 2026 11:30:00 +0000
+Category: Hardware
+URL: https://www.wired.com/story/best-oled-tv/
+Summary: Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.
+
+--- STORY 47 ---
+Title: Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing
+Source: Wired
+Published: Wed, 11 Nov 2026 11:15:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/
+Summary: Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.
+
+--- STORY 48 ---
+Title: Best Air Purifiers (2026): Tested Picks for Every Room
+Source: Wired
+Published: Wed, 11 Nov 2026 11:02:00 +0000
+Category: Hardware
+URL: https://www.wired.com/gallery/best-air-purifiers/
+Summary: Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.
+
+--- STORY 49 ---
+Title: A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks
+Source: Wired
+Published: Wed, 11 Nov 2026 11:00:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/
+Summary: The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.
+
+--- STORY 50 ---
+Title: A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks
+Source: Wired
+Published: Wed, 11 Nov 2026 10:30:00 +0000
+Category: General Tech
+URL: https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/
+Summary: Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.
+
+--- STORY 51 ---
+Title: Europe wants to ban 'dark patterns' in apps and loot boxes for minors
+Source: Engadget
+Published: Wed, 11 Nov 2026 14:29:03 +0000
+Category: Regulation
+URL: https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/
+Summary: Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.
+
+--- STORY 52 ---
+Title: Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X
+Source: Engadget
+Published: Wed, 11 Nov 2026 12:59:44 +0000
+Category: Microsoft
+URL: https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/
+Summary: Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.
+
+--- STORY 53 ---
+Title: A Grok vibe-coding agent leaked sensitive SpaceXSI data
+Source: Engadget
+Published: Wed, 11 Nov 2026 12:35:10 +0000
+Category: AI Models
+URL: https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/
+Summary: A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.
+
+--- STORY 54 ---
+Title: 2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring
+Source: Engadget
+Published: Wed, 11 Nov 2026 12:00:00 +0000
+Category: Hardware
+URL: https://www.engadget.com/2312913/2027-chevrolet-bolt-review/
+Summary: Like a budget-minded phoenix, the Bolt is back - but not for long.
+
+--- STORY 55 ---
+Title: Apple is shutting down its online Support Community on November 20
+Source: Engadget
+Published: Wed, 11 Nov 2026 10:52:59 +0000
+Category: Apple
+URL: https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/
+Summary: Apple's Support Community is permanently closing in a few days.
+
+--- STORY 56 ---
+Title: Lucid CEO says the company didn't know where its own cars were
+Source: Engadget
+Published: Wed, 11 Nov 2026 09:56:03 +0000
+Category: General Tech
+URL: https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/
+Summary: Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.
+
+--- STORY 57 ---
+Title: Samsung Gallery now syncs with Google to back up your photos
+Source: Engadget
+Published: Wed, 11 Nov 2026 06:47:17 +0000
+Category: Google
+URL: https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/
+Summary: You can now sync your photos and videos on select Samsung devices to your Google account.
+
+--- STORY 58 ---
+Title: What is the average lifespan of recordable Blu-ray discs?
+Source: Engadget
+Published: Wed, 11 Nov 2026 01:00:00 +0000
+Category: General Tech
+URL: https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/
+Summary: How long they will last depends on a few factors.
+
+--- STORY 59 ---
+Title: iFixit teardown shows how Apple's glowing PROLED MacBook logo works
+Source: Engadget
+Published: Wed, 11 Nov 2026 00:03:54 +0000
+Category: Apple
+URL: https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/
+Summary: The new laptop goes the extra mile to recreate the iconic feature.
+
+--- STORY 60 ---
+Title: How to get this Siri camera upgrade for your iPad before its public release
+Source: Engadget
+Published: Wed, 11 Nov 2026 00:00:00 +0000
+Category: Apple
+URL: https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/
+Summary: You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.
+
+--- STORY 61 ---
+Title: The Download: preserving minds and weighing open AI risks
+Source: MIT Technology Review
+Published: Wed, 11 Nov 2026 13:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…
+
+--- STORY 62 ---
+Title: The Download: Pelosi’s successor targets AI and data centers face power woes
+Source: MIT Technology Review
+Published: Tue, 10 Nov 2026 13:10:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…
+
+--- STORY 63 ---
+Title: Evolving metal extraction processes
+Source: MIT Technology Review
+Published: Tue, 10 Nov 2026 13:00:00 +0000
+Category: Meta
+URL: https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/
+Summary: The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…
+
+--- STORY 64 ---
+Title: The backlash about data centers might really just be about electricity
+Source: MIT Technology Review
+Published: Mon, 09 Nov 2026 19:35:33 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/
+Summary: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…
+
+--- STORY 65 ---
+Title: Nancy Pelosi’s replacement is ready to regulate AI
+Source: MIT Technology Review
+Published: Mon, 09 Nov 2026 17:05:43 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/
+Summary: As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…
+
+--- STORY 66 ---
+Title: The Download: empty AI climate claims, and an Nvidia investigation
+Source: MIT Technology Review
+Published: Mon, 09 Nov 2026 13:15:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,…
+
+--- STORY 67 ---
+Title: Innovating with AI in the special chemicals industry
+Source: MIT Technology Review
+Published: Mon, 09 Nov 2026 13:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/
+Summary: As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…
+
+--- STORY 68 ---
+Title: The climate case for AI has not been made
+Source: MIT Technology Review
+Published: Mon, 09 Nov 2026 10:00:00 +0000
+Category: General Tech
+URL: https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/
+Summary: This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…
+
+--- STORY 69 ---
+Title: The Download: a humanoid cleans house and Samsung builds for the AI boom
+Source: MIT Technology Review
+Published: Fri, 06 Nov 2026 13:10:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/
+Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…
+
+--- STORY 70 ---
+Title: I watched a humanoid robot clean my apartment. It felt like a taste of the future.
+Source: MIT Technology Review
+Published: Fri, 06 Nov 2026 10:00:00 +0000
+Category: Hardware
+URL: https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/
+Summary: I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…
+
+--- STORY 71 ---
+Title: Apple's touchscreen MacBook Pro does not like to be taken apart
+Source: The Register
+Published: Wed, 11 Nov 2026 16:34:00 +0100
+Category: Apple
+URL: https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110
+Summary: Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery
+
+--- STORY 72 ---
+Title: Microsoft's Patch Tuesday can't break stuff if it won't install
+Source: The Register
+Published: Wed, 11 Nov 2026 15:55:00 +0100
+Category: Microsoft
+URL: https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059
+Summary: KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing
+
+--- STORY 73 ---
+Title: NASA asks Earthlings to wave as Voyager 1 reaches a light-day away
+Source: The Register
+Published: Wed, 11 Nov 2026 15:13:20 +0100
+Category: General Tech
+URL: https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127
+Summary: Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you
+
+--- STORY 74 ---
+Title: 2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials
+Source: The Register
+Published: Wed, 11 Nov 2026 14:28:00 +0100
+Category: Cybersecurity
+URL: https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065
+Summary: YouHack thought protecting members' passwords with mostly unsalted MD5 hashes would do
+
+--- STORY 75 ---
+Title: Apple tells its Support Community to STFU
+Source: The Register
+Published: Wed, 11 Nov 2026 13:43:00 +0100
+Category: Apple
+URL: https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090
+Summary: User-to-user forum goes read-only ahead of November 20 closure, with archive's fate unclear
+
+--- STORY 76 ---
+Title: Shipping giant Maersk probes 'IT security incident,' data theft
+Source: The Register
+Published: Wed, 11 Nov 2026 13:05:34 +0100
+Category: Cybersecurity
+URL: https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096
+Summary: Says it 'strongly' suspects attack limited to legacy system, and that nothing sensitive is at risk
+
+--- STORY 77 ---
+Title: Google gooses Python AI performance by... removing Python
+Source: The Register
+Published: Wed, 11 Nov 2026 12:30:00 +0100
+Category: Google
+URL: https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995
+Summary: Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts
+
+--- STORY 78 ---
+Title: Linux joins Heathrow's grounded fleet of information screens
+Source: The Register
+Published: Wed, 11 Nov 2026 11:44:00 +0100
+Category: General Tech
+URL: https://www.theregister.com/offbeat/2026/11/11/linux-joins-heathrows-grounded-fleet-of-information-screens/5308738
+Summary: Anything Windows can bork, the penguin can bork sideways
+
+--- STORY 79 ---
+Title: AMD: Where we're going we don't need (as much) DRAM
+Source: The Register
+Published: Wed, 11 Nov 2026 10:59:00 +0100
+Category: General Tech
+URL: https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953
+Summary: The House of Zen's Mext team promises smarter SWAP through the power of, you'll never guess: AI
+
+--- STORY 80 ---
+Title: UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home
+Source: The Register
+Published: Wed, 11 Nov 2026 10:15:00 +0100
+Category: General Tech
+URL: https://www.theregister.com/public-sector/2026/11/11/uks-buy-british-tech-ambitions-hit-reality-as-less-than-1-in-6-stays-at-home/5308814
+Summary: Whitehall's biggest IT suppliers are overwhelmingly foreign, and Uncle Sam is making a killing
+
+--- STORY 81 ---
+Title: New Indian mega library rocked by scandal over 'AI-generated books'
+Source: BBC Tech
+Published: Wed, 11 Nov 2026 11:33:24 GMT
+Category: India Tech
+URL: https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss
+Summary: The Tamil Nadu government has ordered an internal audit of library collections across the state.
+
+--- STORY 82 ---
+Title: What we know so far about Jensen Huang's affair with suspected Chinese spy
+Source: BBC Tech
+Published: Wed, 11 Nov 2026 07:44:24 GMT
+Category: General Tech
+URL: https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss
+Summary: The billionaire tech executive finds himself mired in a personal and national security scandal.
+
+--- STORY 83 ---
+Title: Robot vessels take on the dangerous work of mine hunting
+Source: BBC Tech
+Published: Wed, 11 Nov 2026 00:19:13 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss
+Summary: The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.
+
+--- STORY 84 ---
+Title: Nvidia hires major US law firm to investigate alleged Chinese spy affair
+Source: BBC Tech
+Published: Tue, 10 Nov 2026 22:52:15 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss
+Summary: The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.
+
+--- STORY 85 ---
+Title: Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning
+Source: BBC Tech
+Published: Tue, 10 Nov 2026 17:56:12 GMT
+Category: AI Models
+URL: https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss
+Summary: The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.
+
+--- STORY 86 ---
+Title: Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security
+Source: BBC Tech
+Published: Tue, 10 Nov 2026 09:23:55 GMT
+Category: China Tech
+URL: https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss
+Summary: Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.
+
+--- STORY 87 ---
+Title: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+Source: BBC Tech
+Published: Tue, 10 Nov 2026 08:23:21 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss
+Summary: The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
+
+--- STORY 88 ---
+Title: Australia considers criminal penalties for rogue AI in wake of OpenAI hack
+Source: BBC Tech
+Published: Tue, 10 Nov 2026 05:22:39 GMT
+Category: Cybersecurity
+URL: https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss
+Summary: AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.
+
+--- STORY 89 ---
+Title: Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond
+Source: BBC Tech
+Published: Mon, 09 Nov 2026 21:52:28 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss
+Summary: Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.
+
+--- STORY 90 ---
+Title: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+Source: BBC Tech
+Published: Mon, 09 Nov 2026 19:58:01 GMT
+Category: Hardware
+URL: https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss
+Summary: The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
+
+--- STORY 91 ---
+Title: UK’s Healey Promises to Avoid US-Style Data Center Free-for-All
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 16:47:46 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all
+Summary: The UK will not allow the sort of “free-for-all” on data center development that’s sparked a public and political backlash in the US, threatening to stall investment in artificial intelligence, Chancellor of the Exchequer John Healey said.
+
+--- STORY 92 ---
+Title: Applied Intuition In Talks to Raise $1.5 Billion at $30 Billion Value
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 16:34:20 GMT
+Category: Regulation
+URL: https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value
+Summary: Applied Intuition Inc., a defense contractor developing technology for autonomous vehicles, is in talks to raise at least $1.5 billion in a new funding round led by General Catalyst, according to people familiar with the matter.
+
+--- STORY 93 ---
+Title: Meta’s Head of Infrastructure, Engineering to Depart in 2027
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 16:02:10 GMT
+Category: Meta
+URL: https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027
+Summary: Meta Platforms Inc.’s longtime infrastructure chief will leave the company in early 2027, a major leadership change as it continues to invest hundreds of billions of dollars in artificial intelligence and the data centers needed to support it.
+
+--- STORY 94 ---
+Title: CoreWeave Shares Soar After AI Computing Firm Eases Debt Fears
+Source: Bloomberg Tech
+Published: Tue, 10 Nov 2026 21:13:53 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown
+Summary: CoreWeave Inc. shares soared after the AI computing supplier eased fears about its debt-laden business and signaled that sales growth remains strong despite the many headwinds facing the data center boom.
+
+--- STORY 95 ---
+Title: Nvidia Scandal Raises China Stakes
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 16:11:05 GMT
+Category: China Tech
+URL: https://www.bloomberg.com/news/videos/2026-11-11/nvidia-scandal-raises-china-stakes-video
+Summary: Terry Haines, the Founder of Pangea Policy joined Bloomberg Open Interest to talk about how the Nvidia scandal could have consequences far beyond the company. Haines says congressional and law-enforcement investigations may take months, while the episode could strengthen calls to restrict chip sales to China. (Source: Bloomberg)
+
+--- STORY 96 ---
+Title: Lumentum Slips on Deal Reaction; Fossil Group Rallies on Outlook | Stock Movers
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 16:11:04 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/videos/2026-11-11/lumentum-slips-on-deal-fossil-group-rallies-on-outlook-video
+Summary: On this episode of Stock Movers: - Shares of CoreWeave (CRWV) rallied in premarket trading after the compay eased fears about its debt-laden business during a high-stakes quarterly report, indicating that sales growth remains strong despite challenges facing the data center industry. The AI computing provider projected revenue of $13 billion to $13.3 billion this year. That exceeded its previous range of up to $13.2 billion and sailed past the $12.9 billion that Wall Street had predicted. - Sha
+
+--- STORY 97 ---
+Title: Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 16:01:34 GMT
+Category: Hardware
+URL: https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-playing-out-like-a-greek-tragedy-goldberg-video
+Summary: Jay Goldberg, Seaport senior analyst, says Nvidia would lose its identity without CEO Jensen Huang. Goldberg says the risk of Huang being removed is significant. He speaks on "Bloomberg Surveillance." (Source: Bloomberg)
+
+--- STORY 98 ---
+Title: Helsing Unveils AI Military Software to Challenge Palantir
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 14:46:59 GMT
+Category: General Tech
+URL: https://www.bloomberg.com/news/articles/2026-11-11/helsing-unveils-ai-military-software-to-challenge-palantir
+Summary: Helsing Gmbh, a German dronemaker, released a platform that uses artificial intelligence to help military units process data from the field more quickly, creating a new European challenger to US-based Palantir Technologies Inc.
+
+--- STORY 99 ---
+Title: Anthropic IPO Said to Be Multiple Times Oversubscribed
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 14:40:30 GMT
+Category: AI Models
+URL: https://www.bloomberg.com/news/videos/2026-11-11/anthropic-ipo-said-to-be-multiple-times-oversubscribed-video
+Summary: Anthropic's IPO has drawn multiple times the orders for the shares available, according to people familiar with the matter, as demand accelerates for potentially the biggest first-time share sale ever. Bailey Lipschultz reports on "Bloomberg Open Interest." (Source: Bloomberg)
+
+--- STORY 100 ---
+Title: Elon Musk’s AI Chatbot Grok Sexualized These Teens’ Childhood Photos
+Source: Bloomberg Tech
+Published: Wed, 11 Nov 2026 13:30:21 GMT
+Category: AI Models
+URL: https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/
+Summary: The images are nearly impossible to erase. Now, a growing number of victims are pushing to hold Elon Musk’s xAI accountable.
+
+--- STORY 101 ---
+Title: CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 15:53:36 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html
+Summary: After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.
+
+--- STORY 102 ---
+Title: CoreWeave provides silver lining for neoclouds as Nvidia storm swirls
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 11:56:11 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/11/11/coreweave-provides-silver-lining-for-neoclouds-as-nvidia-storm-swirls.html
+Summary: Huang's close ties to the White House are in the firing line
+
+--- STORY 103 ---
+Title: Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 14:35:23 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html
+Summary: Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.
+
+--- STORY 104 ---
+Title: CoreWeave soars 23% as CEO reaffirms AI compute demand after strong Q3 report
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 16:04:48 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html
+Summary: Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.
+
+--- STORY 105 ---
+Title: Investors pivot to defensive stocks as markets enter a ‘state of alert’
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 06:00:01 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html
+Summary: Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.
+
+--- STORY 106 ---
+Title: U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 05:15:50 GMT
+Category: China Tech
+URL: https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html
+Summary: During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.
+
+--- STORY 107 ---
+Title: Anthropic opens Australian retail IPO offering as AI scrutiny intensifies
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 01:52:56 GMT
+Category: AI Models
+URL: https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html
+Summary: Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.
+
+--- STORY 108 ---
+Title: Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO
+Source: CNBC Tech
+Published: Tue, 10 Nov 2026 23:46:35 GMT
+Category: AI Models
+URL: https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html
+Summary: "The fact that this deal is on is bullish for tech and the AI trade," CNBC's Jim Cramer said Tuesday.
+
+--- STORY 109 ---
+Title: Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right
+Source: CNBC Tech
+Published: Tue, 10 Nov 2026 23:41:43 GMT
+Category: General Tech
+URL: https://www.cnbc.com/2026/11/10/cramer-stocks-inflation-nvidia-anthropic.html
+Summary: Investors shouldn't let mounting market risks overshadow the potential for a rebound, CNBC's Jim Cramer said Tuesday.
+
+--- STORY 110 ---
+Title: Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation
+Source: CNBC Tech
+Published: Wed, 11 Nov 2026 13:46:59 GMT
+Category: Hardware
+URL: https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html
+Summary: Nvidia employees described the mood as "sad" as CEO Jensen Huang returned to the office after disclosing an affair.
+
+--- STORY 111 ---
+Title: One UI 9 fixed my routines, but Samsung still won't sync them
+Source: Android Police
+Published: Wed, 11 Nov 2026 16:00:11 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/one-ui-9-failed-to-fix-my-biggest-frustration-with-samsung-modes-and-routines/
+Summary: My favorite Galaxy feature still has a big flaw
+
+--- STORY 112 ---
+Title: Google Photos is finally putting an end to a frustrating photo editing problem
+Source: Android Police
+Published: Wed, 11 Nov 2026 15:55:19 GMT
+Category: Google
+URL: https://www.androidpolice.com/google-photos-finally-putting-end-frustrating-photo-editing-problem/
+Summary: No more duplicates for edited photos
+
+--- STORY 113 ---
+Title: Samsung is reportedly building a phone that stretches from 16:9 to 21:9
+Source: Android Police
+Published: Wed, 11 Nov 2026 15:46:17 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/samsung-rollable-phone-details/
+Summary: Rollables could be the next big thing, and Samsung's reportedly working on it.
+
+--- STORY 114 ---
+Title: I turned Gmail into a free Superhuman with Multiple Inboxes
+Source: Android Police
+Published: Wed, 11 Nov 2026 14:30:10 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/set-up-gmails-multiple-inboxes-auto-filter-promos-feels-like-free-superhuman/
+Summary: Gmail's Multiple Inboxes sorts promos out of the way like Superhuman's Split Inbox. With one filter, I cleared over 20,000 unread emails for free.
+
+--- STORY 115 ---
+Title: The Samsung Galaxy S26 FE just quietly scored an impressive no-strings discount
+Source: Android Police
+Published: Wed, 11 Nov 2026 14:01:10 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/samsung-galaxy-s26-fe-deal-early-black-friday-amazon/
+Summary: The 'Fan Edition' smartphone has dropped to just $599 ahead of Black Friday
+
+--- STORY 116 ---
+Title: After taking 1,000 photos, these 6 Samsung camera settings make the biggest difference
+Source: Android Police
+Published: Wed, 11 Nov 2026 13:00:10 GMT
+Category: Hardware
+URL: https://www.androidpolice.com/after-taking-1000-photos-these-6-samsung-galaxy-camera-settings-make-biggest-difference/
+Summary: And you don't need to use Pro mode or mess with RAW formats
+
+--- STORY 117 ---
+Title: Your Fitbit Air can now store blood pressure readings, with one catch
+Source: Android Police
+Published: Wed, 11 Nov 2026 12:25:39 GMT
+Category: General Tech
+URL: https://www.androidpolice.com/blood-pressure-warnings-arriving-on-fitbit-air/
+Summary: You can log your blood pressure in Google Health if you have a Fitbit Air, but it won't monitor it yet.
+
+--- STORY 118 ---
+Title: I bought a $50 Google TV box at Walmart; it puts Google's streamer to shame
+Source: Android Police
+Published: Wed, 11 Nov 2026 12:00:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/i-bought-walmart-onn-4k-vs-google-tv-streamer/
+Summary: Consider picking up a Google TV box the next time you're grabbing some milk.
+
+--- STORY 119 ---
+Title: A calm guide to Android's three earthquake alerts, before one wakes you up at 3 AM
+Source: Android Police
+Published: Wed, 11 Nov 2026 11:00:10 GMT
+Category: Google
+URL: https://www.androidpolice.com/android-earthquake-alerts-explained/
+Summary: Your Android phone can know an earthquake is coming before you do
+
+--- STORY 120 ---
+Title: Google Pixel 10 gets a charging trick that sounds better than it is
+Source: Android Police
+Published: Wed, 11 Nov 2026 05:47:37 GMT
+Category: Google
+URL: https://www.androidpolice.com/google-pixel-10-gets-charging-trick-that-sounds-better-than-it-is/
+Summary: Pixel 11's Extreme Charging Mode comes to Google's last year flagship
+
+--- STORY 121 ---
+Title: Rather than fight GTA VI, Logitech gave employees a day off
+Source: Windows Central
+Published: Wed, 11 Nov 2026 15:16:52 +0000
+Category: General Tech
+URL: https://www.windowscentral.com/gaming/xbox/logitech-gave-its-employees-a-day-off-to-play-gta-vi-my-company-should-take-notes
+Summary: Some expect workers to call in sick when GTA VI launches. Logitech's answer is to officially give employees time off to play games.
+
+--- STORY 122 ---
+Title: GTA 6’s Xbox files hint at FSR 4.1, and I’m betting it arrives after launch
+Source: Windows Central
+Published: Wed, 11 Nov 2026 14:37:07 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/gta-6-datamine-xbox-amd-fsr-4
+Summary: Dataminers have discovered evidence of AMD FSR 4.1 inside Grand Theft Auto 6's Xbox preload files, suggesting that the tech could arrive for the game at some point.
+
+--- STORY 123 ---
+Title: ROG Xbox Ally X gets Auto SR in handheld mode, with 120 FPS 'Performance Mode' on the way
+Source: Windows Central
+Published: Wed, 11 Nov 2026 13:18:34 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/hardware/handheld-gaming-pc/auto-sr-launches-on-handhelds-copilot-pc
+Summary: Microsoft's AI-powered upscaling feature is now available on ROG Xbox Ally X handhelds when undocked, with 1080p support today and a 120 FPS Performance Mode coming later.
+
+--- STORY 124 ---
+Title: Microsoft Flight Simulator adds Halo's Pelican in a free trial, before it becomes paid
+Source: Windows Central
+Published: Wed, 11 Nov 2026 13:00:00 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/microsoft-flight-simulator-halo-25-pelican
+Summary: Halo's Pelican is now available to fly in Microsoft Flight Simulator, but you'll need to pay for permanent access after the trial ends.
+
+--- STORY 125 ---
+Title: New Windows 11 wallpapers mean more than you think
+Source: Windows Central
+Published: Wed, 11 Nov 2026 12:20:45 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-is-getting-all-new-default-wallpapers-and-that-says-a-lot-about-microsofts-plans
+Summary: New Windows 11 wallpapers are reportedly on the way, signaling a broader refresh of the operating system.
+
+--- STORY 126 ---
+Title: Microsoft ends support for Windows 11 version 23H2 after three years
+Source: Windows Central
+Published: Tue, 10 Nov 2026 21:51:23 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-final-security-update-kb5131087-for-windows-11-version-23h2-as-support-comes-to-an-end-after-3-years
+Summary: Commercial editions of Windows 11 version 23H2 have reached the end of support, with a final security update being released today.
+
+--- STORY 127 ---
+Title: Grand Theft Auto 6 confirmed for Xbox Cloud Gaming on Xbox consoles
+Source: Windows Central
+Published: Tue, 10 Nov 2026 16:30:53 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-will-be-playable-on-xbox-cloud-gaming-but-there-are-a-few-catches
+Summary: Rockstar Games has announced that Grand Theft Auto 6 will be cloud-gaming compatible on Xbox consoles using Xbox Series S graphical settings.
+
+--- STORY 128 ---
+Title: Valve's new Steam Deck Framerate update is a rare win for buyers
+Source: Windows Central
+Published: Tue, 10 Nov 2026 16:30:40 +0000
+Category: General Tech
+URL: https://www.windowscentral.com/hardware/handheld-gaming-pc/steam-deck-fps-average-compat-new
+Summary: Valve just added new framerate data to its Steam Deck compatibility program, giving Steam users a clear look at averages they can expect from specific games. It's a pro-consumer move for sure, but where's the data from other handhelds?
+
+--- STORY 129 ---
+Title: Acer's Predator Atlas 8 is $150 more expensive just 10 days after launch
+Source: Windows Central
+Published: Tue, 10 Nov 2026 14:24:53 +0000
+Category: General Tech
+URL: https://www.windowscentral.com/hardware/acer/acer-predator-atlas-8-price-hike-after-launch-best-buy
+Summary: Acer's Predator Atlas 8 is now listed at $1,449.99 at Best Buy, more than a 10% jump just 10 days after launching at $1,299.99. Here's what's going on, and why the gaming handheld market just got a lot muddier.
+
+--- STORY 130 ---
+Title: A custom 'Playnite' theme recreates the Xbox Series X|S experience on Windows
+Source: Windows Central
+Published: Tue, 10 Nov 2026 13:20:00 +0000
+Category: Microsoft
+URL: https://www.windowscentral.com/gaming/xbox/series-x-s-playnite-dashboard-on-pc-handhelds
+Summary: A custom Playnite theme called XFSE-Compact brings the Xbox Series X|S dashboard experience to Windows PCs and handhelds, including the Xbox Ally X.
+
+--- STORY 131 ---
+Title: Samsung Early Black Friday Event Brings Major Sales to Frame TVs and More
+Source: MacRumors
+Published: Wed, 11 Nov 2026 15:37:52 +0000
+Category: Hardware
+URL: https://www.macrumors.com/2026/11/11/samsung-early-black-friday/
+Summary: Samsung recently kicked off its own early Black Friday sale , offering big sitewide discounts on TVs, monitors, storage accessories, Galaxy smartphones and watches, home appliances, and more. <img alt="" class="aligncenter size-full wp-image-981647" height="1125" src="https://images.macrumors.com/article-new/2024/12/samsung-best-ho
+
+--- STORY 132 ---
+Title: iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones
+Source: MacRumors
+Published: Wed, 11 Nov 2026 15:20:52 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/
+Summary: Apple's iPhone 18 Pro Max placed first overall in a battery comparison of 32 smartphones, with other iPhone models leading individual tests and matching significantly more expensive devices. CNET assessed each phone u
+
+--- STORY 133 ---
+Title: AirTag 2 4-Pack Hits Record Low $69.99 Price Ahead of Black Friday
+Source: MacRumors
+Published: Wed, 11 Nov 2026 13:50:00 +0000
+Category: General Tech
+URL: https://www.macrumors.com/2026/11/11/airtag-2-record-low-black-friday/
+Summary: One of the best early Black Friday deals has arrived, with Apple's AirTag 2 available for $69.99 on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a match of the record low price for the accessory. <img alt="" class="aligncenter
+
+--- STORY 134 ---
+Title: Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing
+Source: MacRumors
+Published: Wed, 11 Nov 2026 13:49:53 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/
+Summary: Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quart
+
+--- STORY 135 ---
+Title: Apple Chip Supplier TSMC Approves $1 Billion AI Investment
+Source: MacRumors
+Published: Wed, 11 Nov 2026 11:44:03 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/
+Summary: Apple chip supplier TSMC has announced board approval to invest up to $1 billion in AI companies OpenAI and Anthropic. The decision allows TSMC to buy up to $500 million of shares in each company. The board also authorized up
+
+--- STORY 136 ---
+Title: Make Apple Watch Listen for Sounds Like the Doorbell
+Source: MacRumors
+Published: Wed, 11 Nov 2026 10:03:54 +0000
+Category: Apple
+URL: https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/
+Summary: One of Apple's accessibility features on iPhone can listen for important sounds around you, such as a doorbell, siren or alarm, and it sends you a notification when it hears one. The feature has been extended to Apple's new Apple Watch Series 12 and Apple Watch Ultra 4 models, so the alert reaches your wrist even when your iPhone isn't with you. <img alt="" class="aligncenter size-full wp-image-1076893" height="1080" src="https://images.macrumors.com/article-new/2026/11/watch-soun
+
+--- STORY 137 ---
+Title: 'Apple Support Community' Permanently Closing on November 20
+Source: MacRumors
+Published: Wed, 11 Nov 2026 03:50:59 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/
+Summary: Apple today announced that the long-running Apple Support Community discussion forums will be permanently closing on Friday, November 20. Effectively immediately, the Apple Support Community forums are in a read-only state, with new posts no longer being accept
+
+--- STORY 138 ---
+Title: Apple's Holiday Gift Guide Highlights iPhone Duo and More
+Source: MacRumors
+Published: Wed, 11 Nov 2026 00:57:36 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/
+Summary: Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches. The website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy for your loved ones and friends. <br
+
+--- STORY 139 ---
+Title: Three Workers Die at Tata iPhone Parts Plant in India
+Source: MacRumors
+Published: Wed, 11 Nov 2026 00:46:21 +0000
+Category: Apple
+URL: https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/
+Summary: Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters . The facility in Hosur, Tamil Nadu, manufactures components for the iPhone. <img alt="" class="aligncenter size-full wp-image-756076" height="1296" src="https://images.macrumors.com/article-new/2020/08/apple-india.jpg
+
+--- STORY 140 ---
+Title: iCloud Mail, Calendar, Contacts and More Experiencing Outage [Updated]
+Source: MacRumors
+Published: Tue, 10 Nov 2026 23:53:31 +0000
+Category: General Tech
+URL: https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/
+Summary: Some iCloud services are experiencing an outage, according to Apple's System Status page. ‌iCloud‌ Calendar, ‌iCloud‌ Contacts, ‌iCloud‌ Mail, iWork for ‌iCloud‌, and Game Center are affected. Apple says some
+
+--- STORY 141 ---
+Title: OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 16:30:00 +0000
+Category: Regulation
+URL: https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved
+Summary: The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.
+
+--- STORY 142 ---
+Title: PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 15:55:12 +0000
+Category: General Tech
+URL: https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games
+Summary: Accessory maker Logitech has a new "Logi Game Day" initiative that allows employees to take a day off from now until this time next year to play a game of their choice — including the one everyone is talking about.
+
+--- STORY 143 ---
+Title: SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 15:03:08 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board
+Summary: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
+
+--- STORY 144 ---
+Title: Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 14:29:43 +0000
+Category: Regulation
+URL: https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity
+Summary: SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout boom.
+
+--- STORY 145 ---
+Title: ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 14:20:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards
+Summary: Asrock's VBIOS 1.0.6 update follows reports of Radeon RX 7900 XT and XTX graphics cards failing to boot after installing the previous firmware.
+
+--- STORY 146 ---
+Title: Montech King 95 3D Pro case review: The King has returned
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 14:00:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review
+Summary: The new Montech King 95 3D case offers 3-panel panoramic views of the inside, loads of interior space for components and cooling, and the Pro version comes with seven RGB fan
+
+--- STORY 147 ---
+Title: Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 13:42:37 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory
+Summary: Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch
+
+--- STORY 148 ---
+Title: Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 13:30:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains
+Summary: Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic.
+
+--- STORY 149 ---
+Title: Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 13:04:44 +0000
+Category: Meta
+URL: https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage
+Summary: Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the leader of a trillion-dollar company.
+
+--- STORY 150 ---
+Title: Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU
+Source: Tom's Hardware
+Published: Wed, 11 Nov 2026 13:00:00 +0000
+Category: Hardware
+URL: https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first
+Summary: Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.
+
+--- STORY 151 ---
+Title: Maersk confirms data breach as WhiteArmor ransomware demands $5 million
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 11:24:18 -0500
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/
+Summary: Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]
+
+--- STORY 152 ---
+Title: Hackers use AntiFox AI agents in AWS credential-theft attacks
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 10:12:59 -0500
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/
+Summary: Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]
+
+--- STORY 153 ---
+Title: eBPF Rootkits: Why Underground Actors Are Taking Notice
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 10:01:11 -0500
+Category: General Tech
+URL: https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/
+Summary: Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]
+
+--- STORY 154 ---
+Title: N-able releases security hotfixes for zero-day vulnerabilities
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 07:32:27 -0500
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/
+Summary: N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]
+
+--- STORY 155 ---
+Title: Microsoft fixes audio issues caused by September security updates
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 06:18:36 -0500
+Category: Microsoft
+URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/
+Summary: Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]
+
+--- STORY 156 ---
+Title: CISA flags Cisco BroadWorks flaw as actively exploited in attacks
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 05:12:08 -0500
+Category: Regulation
+URL: https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/
+Summary: The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]
+
+--- STORY 157 ---
+Title: Microsoft fixes Exchange sign-ins broken by Windows Server updates
+Source: BleepingComputer
+Published: Wed, 11 Nov 2026 04:07:27 -0500
+Category: Microsoft
+URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/
+Summary: Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]
+
+--- STORY 158 ---
+Title: Railway breach leads to $740,000 in fraudulent AI charges
+Source: BleepingComputer
+Published: Tue, 10 Nov 2026 17:20:19 -0500
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/
+Summary: Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]
+
+--- STORY 159 ---
+Title: Japanese furniture giant Nitori says hackers stole 37.6M customer records
+Source: BleepingComputer
+Published: Tue, 10 Nov 2026 15:54:55 -0500
+Category: Cybersecurity
+URL: https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/
+Summary: Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]
+
+--- STORY 160 ---
+Title: Microsoft releases Windows 10 KB5131096 extended security update
+Source: BleepingComputer
+Published: Tue, 10 Nov 2026 15:04:36 -0500
+Category: Microsoft
+URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/
+Summary: Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]
+
+--- STORY 161 ---
+Title: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
+Source: Hacker News
+Published: 2026-11-11T12:05:22Z
+Category: Google
+URL: https://pietromiotti.com/latest/maya-site/?maya
+Summary: Points: 671, Comments: 253
+
+--- STORY 162 ---
+Title: Scion is back and is going to sell a kei truck in America
+Source: Hacker News
+Published: 2026-11-10T19:50:46Z
+Category: General Tech
+URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
+Summary: Points: 537, Comments: 371
+
+--- STORY 163 ---
+Title: Starlink Mini 2
+Source: Hacker News
+Published: 2026-11-10T18:22:32Z
+Category: General Tech
+URL: https://starlink.com/mini-2
+Summary: Points: 487, Comments: 545
+
+--- STORY 164 ---
+Title: Synaptics patent claims stop work on DisplayLink drivers
+Source: Hacker News
+Published: 2026-11-10T18:02:02Z
+Category: General Tech
+URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+Summary: Points: 463, Comments: 257
+
+--- STORY 165 ---
+Title: Apple has new Mac app coming to make running local AI models easy
+Source: Hacker News
+Published: 2026-11-10T21:25:03Z
+Category: Apple
+URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
+Summary: Points: 441, Comments: 459
+
+--- STORY 166 ---
+Title: Tracking Anthropic-discovered vulnerabilities
+Source: Hacker News
+Published: 2026-11-10T22:17:56Z
+Category: AI Models
+URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+Summary: Points: 438, Comments: 210
+
+--- STORY 167 ---
+Title: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives
+Source: Hacker News
+Published: 2026-11-10T18:01:15Z
+Category: General Tech
+URL: https://github.com/GoogleChrome/modern-web-guidance
+Summary: Points: 416, Comments: 138
+
+--- STORY 168 ---
+Title: Val Town is winding down
+Source: Hacker News
+Published: 2026-11-10T17:31:14Z
+Category: General Tech
+URL: https://blog.val.town/winding-down
+Summary: Points: 416, Comments: 100
+
+--- STORY 169 ---
+Title: Protecting SSH Keys with macOS Secure Enclave
+Source: Hacker News
+Published: 2026-11-11T04:28:57Z
+Category: Apple
+URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
+Summary: Points: 345, Comments: 122
+
+--- STORY 170 ---
+Title: Six Math Essentials
+Source: Hacker News
+Published: 2026-11-10T20:58:44Z
+Category: General Tech
+URL: https://teorth.github.io/tao-web/six-math-essentials.html
+Summary: Points: 317, Comments: 58
+
+--- STORY 171 ---
+Title: Claude Whiteboards, Claude Sheets, and Claude Data
+Source: Hacker News
+Published: 2026-11-10T17:55:07Z
+Category: AI Models
+URL: https://claude.com/resources/articles/sheets-whiteboards-data
+Summary: Points: 271, Comments: 204
+
+--- STORY 172 ---
+Title: AMD's Zen 6 Family: Feeding the Beast
+Source: Hacker News
+Published: 2026-11-10T17:02:32Z
+Category: General Tech
+URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast
+Summary: Points: 252, Comments: 108
+
+--- STORY 173 ---
+Title: A great old-timey game-programming hack (2013)
+Source: Hacker News
+Published: 2026-11-11T01:56:31Z
+Category: Cybersecurity
+URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+Summary: Points: 237, Comments: 53
+
+--- STORY 174 ---
+Title: I asked every TV manufacturer 17 questions about how they spy on you
+Source: Hacker News
+Published: 2026-11-11T13:56:05Z
+Category: Meta
+URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions
+Summary: Points: 194, Comments: 97
+
+--- STORY 175 ---
+Title: Using voltage glitching to unleash the A100 in my mining card
+Source: Hacker News
+Published: 2026-11-11T10:48:40Z
+Category: General Tech
+URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
+Summary: Points: 159, Comments: 60
+
+--- STORY 176 ---
+Title: What objective is reasoning solving?
+Source: Hacker News
+Published: 2026-11-10T19:25:14Z
+Category: General Tech
+URL: https://alexwang.ai/posts/reasoning-as-pathfinding/
+Summary: Points: 152, Comments: 70
+
+--- STORY 177 ---
+Title: Can a Linear Program Do Weight-Space Programming?
+Source: Hacker News
+Published: 2026-11-11T12:30:17Z
+Category: General Tech
+URL: https://nathan.rs/posts/weight-space-lp/
+Summary: Points: 152, Comments: 25
+
+--- STORY 178 ---
+Title: To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
+Source: Hacker News
+Published: 2026-11-11T02:57:08Z
+Category: General Tech
+URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna
+Summary: Points: 146, Comments: 140
+
+--- STORY 179 ---
+Title: Apple is killing its Support Community forum next week
+Source: Hacker News
+Published: 2026-11-11T14:02:11Z
+Category: Apple
+URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down
+Summary: Points: 140, Comments: 79
+
+--- STORY 180 ---
+Title: $30M Raised to Redo the CPU
+Source: Hacker News
+Published: 2026-11-10T22:14:03Z
+Category: Hardware
+URL: https://tendrils.co/blog/2026-11-10/30m-raised
+Summary: Points: 131, Comments: 135
